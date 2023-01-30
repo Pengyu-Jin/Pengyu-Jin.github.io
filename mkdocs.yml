@@ -5,7 +5,14 @@ site_author: 靳鹏宇
 site_description: 靳鹏宇的个人网站
 
 #[Navigation]
-
+nav:
+  - 专业:
+      - major/index1.md
+      - 电力系统:
+          - 第一章: major/Power System Analysis/chapter 1.md
+          - 第二章: major/Power System Analysis/chapter 2.md
+  - 博客：
+  - 关于：
 #[UI]
 
 ## [top]
