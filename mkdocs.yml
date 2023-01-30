@@ -6,11 +6,7 @@ site_author: 靳鹏宇
 site_description: 靳鹏宇的个人网站
 
 #[Navigation]
-nav:
-  - 博客
-  - 专业
-  - 电力系统
-  - 关于
+
 
 #[UI]
 
