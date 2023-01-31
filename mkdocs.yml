@@ -70,3 +70,8 @@ extra:
     - icon: fontawesome/brands/zhihu
       link: https://www.zhihu.com/people/zhi-nian-20-34-4
       name: zhihu | 希斯特利亚
+
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
