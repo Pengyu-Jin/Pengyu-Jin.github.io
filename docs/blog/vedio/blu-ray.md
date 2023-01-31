@@ -18,7 +18,7 @@
 
 # 蓝光
 
-![image](http://rp4t4f7qv.hb-bkt.clouddn.com/image.png)
+![i](http://rp4t4f7qv.hb-bkt.clouddn.com/image.png)
 
 “蓝光”的全称叫 **B**lu-ray **D**isc，简称 BD。Disc 是光盘的意思，蓝光其实就是一种先进的光盘类型，并不特指某种视频清晰度。
 
@@ -26,7 +26,7 @@
 
 # 下载
 
-![](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%281%29.png)
+![i1](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%281%29.png)
 
 **下载网络资源时，这一长串文件名到底在说什么，**到底应该下这个 MP4，还是这个 MKV ？
 
@@ -36,19 +36,19 @@
 
 很多盒子都可以装下这些东西，比如我们中老年人在小时候时用过的 3GP、FLV、RMVB，沾满你青春荷尔蒙气息的 AVI、WMV，还有近些年来用得多的 MP4，MKV 等种种**文件格式，它们在本质上都是一个个这样的盒子**，只是各自有不同的功能和版权归属。**文件格式说到底只是一个外壳，本身并不决定视频的画质好坏，最终决定视频质量的，还是要看里面到底装了什么。**
 
-![](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%282%29.png)
+![i2](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%282%29.png)
 
 具体装了什么，就写在这一长串文件名上。
 
 这里的 **BluRay 或者 BD**，是指这个资源是通过**蓝光原盘的内容压缩来的**，如果压缩得少，那么文件体积可以很大，很清晰；**WEB-DL，WEBRip**，是指**从流媒体网站上扒下来的**，本质上跟你直接看流媒体没啥区别；
 
-![](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%283%29.png)
+![i3](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%283%29.png)
 
 这里的 **H264、H265 等，是指视频画面的压缩编码**；之前讲过，H264 最常见，兼容性最好；H265 更先进，在同等画质下，文件体积更小，但对播放设备的要求也更高，你可以看情况选择；
 
 **AAC**，是最常见的**音频的压缩方式**；Atoms、DTS-HD MA、TRUE-HD，都是更高级更厉害的音频格式。但如果你用的是普通播放设备，那大概听不出多少区别；
 
-![](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%284%29.png)
+![i4](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%284%29.png)
 
 **1080P 或者 2160P 是指它们的画面分辨率**；如果你的屏幕本身只有 1080P，那下载个 1080P 的就够了。
 
@@ -64,7 +64,7 @@
 
 挑片源时以自己设备的分辨率为上限，避开播放设备不支持的版本，然后挑原始片源质量好，压缩后文件大小适中的版本，就差不多了
 
-![](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%285%29.png)
+![i5](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%285%29.png)
 
 这时我的头像
 ![qqsw](http://rp4t4f7qv.hb-bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720230108214840.jpg)
