@@ -7,15 +7,15 @@ site_description: 靳鹏宇的个人网站
 #[Navigation]
 nav:
   - 专业:
-      - major/index1.md
+      - major/index.md
       - 电力系统:
           - 第一章: major/Power System Analysis/chapter 1.md
           - 第二章: major/Power System Analysis/chapter 2.md
   - 博客:
-      - blog/index2.md
-      - 影视:blog/vedio/blu-ray.md
+      - blog/index.md
+          - 影视: blog/vedio/blu-ray.md
   - 关于:
-      - about/index3.md
+      - about/index.md
 #[UI]
 
 ## [top]
