@@ -64,4 +64,7 @@
 
 挑片源时以自己设备的分辨率为上限，避开播放设备不支持的版本，然后挑原始片源质量好，压缩后文件大小适中的版本，就差不多了
 
-![image (5)](http://rp4t4f7qv.hb-bkt.clouddn.com/image (5).png)
+![image(5)](<http://rp4t4f7qv.hb-bkt.clouddn.com/image(5).png>)
+
+这时我的头像
+![qqsw](http://rp4t4f7qv.hb-bkt.clouddn.com/QQ图片20230108214840.jpg)
