@@ -14,10 +14,11 @@
 - 姓名：靳鹏宇
 - 性别：男
 - 出生年月：2021.6
-- 联系方式：
+
+* 联系方式：
   - 手机号码：13346653655
   - 电子邮箱：jpy20010307@163.com
-- 相关链接
+* 相关链接
   - 个人网站：[(https://jin-pengyu.github.io/)](https://jin-pengyu.github.io/)
   - GitHub:[(https://github.com/Jin-Pengyu)](https://github.com/Jin-Pengyu)
   - Bilibili:[(https://space.bilibili.com/435864762)](https://space.bilibili.com/435864762)
