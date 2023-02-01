@@ -67,6 +67,4 @@
 ![i5](http://rp4t4f7qv.hb-bkt.clouddn.com/image%20%285%29.png)
 
 这时我的头像
-![qqsw](http://rp4t4f7qv.hb-bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720230108214840.jpg)
-
-![try-please](./celeste.png)
+![qqsw](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/@K1MGIT54%5D04_J%7D$EARCOBI_tmb.png)
