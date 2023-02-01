@@ -72,7 +72,13 @@ extra:
       link: https://www.zhihu.com/people/zhi-nian-20-34-4
       name: zhihu | 希斯特利亚
 
-markdown_extensions: #实现markdown中的文字高亮效果
+## [Extensions]
+markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
-  - pymdownx.tilde
+  - pymdownx.tilde #实现markdown中的文字高亮效果
+  - pymdownx.arithmatex:
+      generic: true # latex支持
+  - attr_list # 给图片后面添加{width="300"}设置大小
+  - toc:
+      permalink: true # 固定标题位置为当前位置
