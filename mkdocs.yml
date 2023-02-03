@@ -11,6 +11,8 @@ nav:
       - 电力系统:
           - 第一章: major/Power System Analysis/chapter 1.md
           - 第二章: major/Power System Analysis/chapter 2.md
+      - 店里科普:
+          - 第三界北大能源论坛: major/popularization/1.md
   - 博客:
       - blog/index.md
       - 影视: blog/vedio/blu-ray.md
