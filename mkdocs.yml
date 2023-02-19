@@ -16,6 +16,7 @@ nav:
   - 博客:
       - blog/index.md
       - 影视: blog/vedio/blu-ray.md
+      - 信息: blog/information/infor.md
   - 关于:
       - about/index.md
       - 个人履历: about/personal profile/p p.md
