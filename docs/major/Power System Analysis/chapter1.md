@@ -126,9 +126,11 @@
 【注】思考“路径”和“线路”的区别！
 
 
-![均为开式网络，无备用接线](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/KU7MOCHARO7SHN2H@3C4P@F.jpg)
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/KU7MOCHARO7SHN2H@3C4P@F.jpg)
+均为开式网络，无备用接线
 
-![上面三个是开式网络，有备用接线；下面两个是闭式网络，有备用接线](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/1U04N8A7H%60GHUL1UJ%6018PM7.jpg)
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/1U04N8A7H%60GHUL1UJ%6018PM7.jpg)
+上面三个是开式网络，有备用接线；下面两个是闭式网络，有备用接线
 
 【注】“备用”的简单理解：断一条线，能否供电
 
