@@ -171,6 +171,7 @@
     - 3~5kV:30A
     - 10kV:20A
     - 35~66kV:10A
+
 【注】目前国家标准已经更改，统一为10A
 
 ![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/K%7BYG%5BU%5BO_PA5A2TBC%7BEWS9G.jpg)
@@ -192,7 +193,7 @@
 - 系统多数情况是瞬时性故障，配有自动重合闸，提高可靠性
 - 配双回线或者两端供电
 
-![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/CXM)VQM42)OE3_Q2F%5BSN6%5BQ.jpg)
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/CXMVQM42OE3_Q2F%5BSN6%5BQ.jpg)
 
 ==Q：各类接地系统的适用场合？==
 
