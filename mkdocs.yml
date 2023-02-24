@@ -9,9 +9,10 @@ nav:
   - 专业:
       - major/index.md
       - 电力系统:
-          - 专业英语: major/Power System Analysis/pre.md
+          - 专业英语: major/Power System Analysis/english.md
           - 第一章：课程绪论: major/Power System Analysis/chapter1.md
-          - 第二章: major/Power System Analysis/chapter2.md
+          - 电机学补充知识: major/Power System Analysis/ex.md
+          - 第二章：电力系统元件的等值电路和参数: major/Power System Analysis/chapter2.md
       - 电力科普:
           - 第三届北大能源论坛: major/popularization/1.md
   - 博客:
