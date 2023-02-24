@@ -9,8 +9,9 @@ nav:
   - 专业:
       - major/index.md
       - 电力系统:
-          - 复试准备: major/Power System Analysis/pre.md
-          - 第二章: major/Power System Analysis/chapter 2.md
+          - 专业英语: major/Power System Analysis/pre.md
+          - 第一章: major/Power System Analysis/chapter1.md
+          - 第二章: major/Power System Analysis/chapter2.md
       - 电力科普:
           - 第三届北大能源论坛: major/popularization/1.md
   - 博客:
