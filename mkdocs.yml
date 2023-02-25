@@ -19,6 +19,7 @@ nav:
       - blog/index.md
       - 影视: blog/vedio/blu-ray.md
       - 信息: blog/information/infor.md
+      - 英语面试: blog/information/English-interview.md
   - 关于:
       - about/index.md
       - 个人履历: about/personal profile/p p.md
