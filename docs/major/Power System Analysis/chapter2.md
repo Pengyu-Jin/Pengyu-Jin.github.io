@@ -149,7 +149,7 @@
 - 但需要注意，自耦变压器的短路实验数据中的短路电压百分比没有折算，所以这个时候需要按容量的比值进行相应的折算（短路损耗仍然按照容量比值的平方）。
 
 <center>
-![1](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/E7(I3GG0F3HSH(1HVR~1$C1.jpg){width="300"}
+![ ](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/E7(I3GG0F3HSH(1HVR~1$C1.jpg) {width="300"}
 </center>
 
 【注】自耦变压器的优缺点
