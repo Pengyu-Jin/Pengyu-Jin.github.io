@@ -15,9 +15,13 @@ First,I have decided to commit myself to the study and research of electric powe
 ## What are your plans for the next three years?
 Well,first of all,I plan to read and explore as many research papers as possible to help myself get a better understanding of how to put my research into presentable results.And I also understand that graduate school study isn't all about research papers,so I plan to acquire necessary knowledge and skills to solve problems,either in my future academic pursuit or in my future career.
 
-## 你的心情怎么样
-## 新型电力系统的继电保护有哪些
+## 你的目前心情怎么样？
+## 新型电力系统的继电保护有哪些？
 ## 系统方向也大概率会问到保护的问题
+## 你喜欢电气的哪个专业，为什么？
+## 在学习生活中遇到压力如何调节？
 
+【中午自由面试】
+成绩单高的课程
 
 
