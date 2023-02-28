@@ -19,9 +19,10 @@ nav:
   - 博客:
       - blog/index.md
       - 影视: blog/vedio/blu-ray.md
-      - 信息: blog/information/infor.md
+      - 招生信息: blog/information/infor.md
       - 英语面试: blog/English-interview.md
-      - 游戏: blog/game/pokemon.md
+      - 游戏:
+          - 宝可梦: blog/game/pokemon.md
   - 关于:
       - about/index.md
       - 个人履历: about/personal profile/p p.md
