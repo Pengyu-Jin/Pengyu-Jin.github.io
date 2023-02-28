@@ -3,7 +3,7 @@
 ==Q：为什么要采用标幺制？==
 
 - 标幺制的定义
-- 
+
 <center>
 ![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230228185037.png){width="300"}
 </center>
