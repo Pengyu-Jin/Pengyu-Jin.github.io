@@ -21,7 +21,7 @@ Well,first of all,I plan to read and explore as many research papers as possible
 ## 你喜欢电气的哪个专业，为什么？
 ## 在学习生活中遇到压力如何调节？
 
-【中午自由面试】
+【综合自由面试】
 成绩单高的课程
 
 
