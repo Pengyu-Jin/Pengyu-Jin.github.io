@@ -15,6 +15,8 @@ nav:
           - 第二章：电力系统元件的等值电路和参数: major/Power System Analysis/chapter2.md
           - 第三章：电力系统的标幺值等值电路: major/Power System Analysis/chapter3.md
           - 第四章：电力传输的基本概念: major/Power System Analysis/chapter4.md
+          - 第五章：开式电力系统的潮流计算: major/Power System Analysis/chapter5.md
+          - 第六章：闭式电力系统的潮流计算: major/Power System Analysis/chapter6.md
       - 电力科普:
           - 第三届北大能源论坛: major/popularization/1.md
   - 博客:
