@@ -31,6 +31,52 @@
 
 ### 变压器损耗的计算例题
 
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/HX7%25PLEK%5BKVH_ZI@%25KWSWS.jpg)
+
+## 辐射形电网的潮流计算
+### 已知同一点的电压和功率
+==Q：已知同一点的电压和功率如何计算潮流？==
+
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/%7B%6052XGYKE1N5%7D7%5DXFXRNM%7BX.jpg)
+
+### 已知不同点的电压和功率
+==Q：已知电源点电压和负荷节点功率该如何计算？==
+
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/8YC37XRGAI%7B0AL%25MN.jpg)
+
+==Q：对于多个负荷节点的复杂辐射状网络该如何计算？==
+
+1. 从叶节点开始向着根节点计算功率损耗，当某非叶节点作为开始节点的所有支路都计算完毕后，该节点成为新的叶节点。
+2. 按顺序依次计算步骤1
+3. 利用支路首段功率和给定电压，从电源点即根节点开始逐条支路计算电压，最终求得各支路终节点电压。
+
+<center>
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/T%7BW@_ZRL2Z25CY%601HY3J.jpg){width="300"}
+</center>
+
+- 顺序：dc-cb-fe-ge-eb-hb-bA
+
+### 辐射型电网的潮流计算步骤
+==Q：计算辐射型电网潮流的规范步骤？==（要严格遵循！）
+
+1. 计算网络中各元件的参数
+2. 由已知系统接线图作出系统的等值网络图
+3. 求各节点的运算功率或运算负荷
+4. 根据已知条件的具体情况，在简化的等值电路上，选用前述“两类过程”之一，计算网络的功率和电压分布
+
+==Q：多电压等级的系统应该如何处理？==
+
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230301174355.png)
+
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230301174441.png)
+
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230301174502.png)
+
+## 潮流计算例题1：已知末端电压和功率
 ![]()
 
-## 
+## 潮流计算例题2：已知首端电压和末端功率
+![]()
+
+## 潮流计算例题3：多电压等级的潮流计算
+![]()
