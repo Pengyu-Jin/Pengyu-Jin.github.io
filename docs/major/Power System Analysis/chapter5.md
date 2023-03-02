@@ -73,10 +73,20 @@
 ![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230301174502.png)
 
 ## 潮流计算例题1：已知末端电压和功率
-![]()
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/L%7BGYCAI553~2SWE%5BPNKGR%7B9.jpg)
 
 ## 潮流计算例题2：已知首端电压和末端功率
-![]()
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/TR1ZAB0K%253Q$ZYRSUBZTW8.jpg)
+
+学习标准解答过程：
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/7RSZGZ6LIRML4NXUMLU5V7W.jpg)
 
 ## 潮流计算例题3：多电压等级的潮流计算
-![]()
+
+方法一：将变压器前面元件的参数折算到高压侧
+
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/%60%60%60CU%5DAM%60%25A%5DW07IFI@FU.jpg)
+
+方法二：保留理想变压器
+
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/LIZYZ~9R%5D9F8%256ZZ5T8QRX.jpg)
