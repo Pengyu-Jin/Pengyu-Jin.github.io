@@ -84,7 +84,7 @@
 
 ## 潮流计算例题6：多电压等级环网的潮流计算
 
-![]()
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/RS9G5TH7%5DUM@%60G4QE1L%7DKPS.jpg)
 
 
 ## 复杂电力网络的等值简化方法
