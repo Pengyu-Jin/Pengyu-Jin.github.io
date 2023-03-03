@@ -35,12 +35,23 @@
 - 拆开后变成两个已知首端电压和末端功率的开式网络。
 
 
-## 闭式均一网络的潮流计算
+## 潮流计算例题4：闭式均一网络的潮流计算
 
 ![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/%E6%BC%94%E8%8D%89-46.jpg)
 
 ![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/EQG@LE6X63XOB%5BZE5VFRQ$J.jpg)
 
-## 两端供电网络的潮流计算
+## 潮流计算例题5：两端供电网络的潮流计算
 
-![]()
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/%E6%BC%94%E8%8D%89-48.jpg)
+
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/3%7BS$B783%5DT9%5DIM92E7TUMBU.jpg)
+
+
+## 含变压器的简单环网的潮流分析
+### 
+
+## 潮流计算例题6：多电压等级环网的潮流计算
+
+## 复杂电力网络的等值简化方法
+
