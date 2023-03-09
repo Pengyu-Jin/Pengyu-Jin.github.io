@@ -28,6 +28,8 @@ nav:
           - 专业面试: blog/pre-interview/major-interview.md
       - 游戏:
           - 宝可梦: blog/game/pokemon.md
+  - 党建学习:
+      - party building/learn1.md
   - 关于:
       - about/index.md
       - 个人履历: about/personal profile/p p.md
