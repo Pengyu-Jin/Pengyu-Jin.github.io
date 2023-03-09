@@ -32,17 +32,25 @@ Well,first of all,I plan to read and explore as many research papers as possible
 ## 研究生三年你有什么规划？
 我计划建立自己的知识体系，对专业课的知识内容达到融会贯通的地步。坚持知行合一，理论与实际相结合，对于11111
 
-## How are you feeling right now?
-I'm very very excited because I know it's the most important moment of my life.
-
-## 你的目前心情怎么样？
-我真的非常激动，因为我知道，此时此刻是我人生中最重要的时刻。
-
 ## Which discipline do you like in the electrical industry and why?
 I prefer the direction of power system.The fundamental reason is that I met professor Hao Liangliang of Beijing Jiaotong University through the teacher's course.Then I deeply realized that the power system is closely related to people's lives.And in reality it is combined with protection devices, communication technology and automation devices,etc.,which is a very rich discipline. And along with the energy reform,the power system is also facing new challenges.
 
 ## 你喜欢电气的哪个专业，为什么？
 我更喜欢电力系统分析这一学科，最根本的原因便是，在本科阶段，我在网上结识了北交大的郝亮亮老师，通过老师的线上课程学习，我对于电力系统有了更深层次的认识，它并不是简单的理论分析，在实际生活中，从发电并网到线路检修，它与我们的生活息息相关。此外，实际的电力系统还包含保护装置，通信设备，电力电子自动化装置等，深入学习会发现是一门很丰富，很接地气的学科。并且伴随着能源改革，电力系统正面临这巨大的困难，极具挑战性也是我喜欢这门学科的原因。
+
+## What are your strengths and weakness?
+My strengths are that I like to think,combine theory with practice,take every little thing seriously,and be willing to share knowledge,help others,and have a cheerful personality.
+My disadvantages are that my expression skills need to be improved,and my English and other language levels need to be exercised.
+
+## 你认为你有哪些优点和缺点？
+我的优点是喜欢思考，理论联系实际，认真对待每一件小事，并且乐于分享知识，帮助别人，性格开朗。
+我的缺点是表达能力有待提高，英语等语言水平有待锻炼。
+
+## How are you feeling right now?
+I'm very very excited because I know it's the most important moment of my life.
+
+## 你的目前心情怎么样？
+我真的非常激动，因为我知道，此时此刻是我人生中最重要的时刻。
 
 ## How to adjust the pressure encountered in study life?
 I will exchange ideas with friends and teachers,communicate with parents to solve problems in life. In addition, I will exercise regularly to release stress and relax my mind.
