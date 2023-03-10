@@ -19,6 +19,9 @@ nav:
           - 第六章：闭式电力系统的潮流计算: major/Power System Analysis/chapter6.md
       - 电力科普:
           - 第三届北大能源论坛: major/popularization/1.md
+      - 毕业设计:
+          - 组会1: major/graduation project/group meeting.md
+
   - 博客:
       - blog/index.md
       - 影视: blog/vedio/blu-ray.md
