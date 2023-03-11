@@ -130,7 +130,10 @@
 【注】确定冲击电流、短路电流有效值及短路功率，都必须计算短路电流的周期分量，可见对短路电流周期分量的计算是非常重要的。
 
 ### 例题
-![]()
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/%5DHH_~@6F8TGD74@@T_F%7DD.jpg)
+
+### 思考题
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/8~VL3~RJ_5FD%609ISJBNS%5B%60Q.jpg)
 
 ## 同步发电机与无穷大电源短路的差异
 ### 同步发电机的绕组
@@ -181,10 +184,14 @@
 - 分析思路：分析磁链$\rightarrow$回路对应电流
 - 四个回路：定子（ax、by、cz），励磁回路（ff）
 
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230311190016.png)
 
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230311190215.png)
 
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/XCXHR%25OJAR@L$T_RLS64Q.jpg)
 
-
-
+### 励磁电流分析
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/0Y2B@VLFIR3G7~L%60E6RBA1.jpg)
 
 ## 同步发电机空载突然三相短路时各分量的依存及衰减
+### 三相短路后定转子各分量的小结
