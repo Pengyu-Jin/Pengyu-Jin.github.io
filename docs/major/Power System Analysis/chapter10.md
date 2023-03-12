@@ -123,9 +123,12 @@
     - 只与定子绕组交链而没有穿过气隙与转子交链的定子漏磁通（$\Phi_s$）
 
 <center>
-![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/CLX$VU1NPF2%60@17X1WFW%60FO.jpg){width="500"}
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/CLX$VU1NPF2%60@17X1WFW%60FO.jpg){width="200"}
 </center>
 
+以上4种磁通中有3种与定子绕组交链，这些磁链的变化都会在定子侧感应电动势：
+
+1. 主磁通对应
 
 
 
