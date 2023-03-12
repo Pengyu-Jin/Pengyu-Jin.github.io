@@ -135,7 +135,7 @@
 发电机正常稳态运行时，可以用一个感应电势串联两个电抗来代表。通常我们将电枢反应电抗和漏抗合并为稳态电抗（$X_d$），这是发电机正常运行时的等值电抗。
 
 <center>
-![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230312210031.png){width="300"}
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230312210031.png){width="400"}
 </center>
 
 ## 有阻尼同步发电机次暂态电抗和次暂态电势
