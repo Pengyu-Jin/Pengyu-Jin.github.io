@@ -75,9 +75,6 @@
 
 ![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/%7B%7DG@HV4@06$B$G%25S@G%7D%5B%60N.jpg)
 
-### 补充：低转差法测同步电机的$x_d$和$x_q$
-
-![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/S%5B%5BT8_G%25HGV%25$%7D_T$4G8I6.jpg)
 
 ## 同步发电机标幺值基本方程及讨论
 ### 同步发电机的标幺值
@@ -119,6 +116,9 @@
 ### 
 ==Q：==
 
+<center>
+![](){width="500"}
+</center>
 
 
 ## 有阻尼同步发电机次暂态电抗和次暂态电势
