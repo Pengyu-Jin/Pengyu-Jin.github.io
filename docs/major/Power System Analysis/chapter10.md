@@ -333,7 +333,7 @@
     - 好处是只要有电压和电流就能求
 
 <center>
-![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230313205152.png){width="200"}
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230313205152.png){width="300"}
 </center>
 
 ### 次暂态电流的初始值
@@ -350,8 +350,26 @@
 - 工程实用计算中一般取次暂态电势为1。
 
 <center>
-![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230313210744.png){width="200"}
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230313210744.png){width="300"}
 </center>
+
+### 负载短路时交流分量有效值的表达式
+==Q：同步发电机负载三相短路后的交流分量有效值如何表达？==
+
+- 定子d轴分量电流表达式：
+    - $I_{dt}=(I_d''-I_d')e^{-t/T_d''}+(I_d'-I_{d\infty})e^{-t/T_d'}+I_{d\infty}$
+    - 代入得=$(\frac{E_{q{|0|}}''}{x_d''}-\frac{E_{q{|0|}}'}{x_d'})e^{-t/T_d''}+(\frac{E_{q{|0|}}'}{x_d'}-\frac{E_{q{|0|}}}{x_d})e^{-t/T_d'}+\frac{E_{q{|0|}}}{x_d}$（与空载时一样）
+
+- 定子q轴分量电流表达式：
+    - $I_{qt}=I_q''e^{-t/T_q''}=\frac{E_{d|0|}''}{x_q''}e^{-t/T_q''}$
+- 交流分量有效值为：
+    - $I_t=\sqrt{I_{dt}^2+I_{qt}^2}$
+
+### 例题
+
+![]()
+
+### 
 
 ## 强行励磁对短路暂态过程的影响
 略
