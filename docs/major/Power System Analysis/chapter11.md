@@ -103,9 +103,9 @@
 
 ## 复杂系统对称短路电流的计算例题（1）：直接法
 
-![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230315111820.png)
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/3LI%5BWDY6OI%25%7B%5D5I888BB5CA.jpg)
 
-![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/20230315111836.png)
+![](https://image-bed-1316693164.cos.ap-shanghai.myqcloud.com/JF2TD%25@DC5%7DMGJB5%60H%25QA.jpg)
 
 ## 复杂系统对称短路电流的计算例题（2）：间接法
 
