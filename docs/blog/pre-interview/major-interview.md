@@ -13,7 +13,7 @@
 
 ## Please describe your graduation project briefly?
 
-Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV substation system, then set up various actual fault conditions, measure voltage and current waveforms。Determine whether ferromagnetic resonance occurs, and analyze the causes of transformer saturation and PT saturation,then calculate the heat generation of PT during ferromagnetic resonance.Finally verify the current mainstream measures to avoid ferromagnetic resonance, simulate verification,and give their own views.
+Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV substation system, then set up various actual fault conditions.For example, reclosing, lightning strikes, three-phase short-circuit faults, single-phase short-circuit faults, etc.Then measure voltage and current waveforms to determine whether ferromagnetic resonance occurs, and analyze the causes of transformer saturation and PT saturation,then calculate the heat generation of PT during ferromagnetic resonance.Finally verify the current mainstream measures to avoid ferromagnetic resonance, simulate verification,and give their own views.
 
 ## 讲述一下你在数学建模比赛中主要承担什么角色，负责的内容有哪些？
 
@@ -23,7 +23,7 @@ Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV subs
 
 - 电机学中的变压器等值电路有3种：
     - $T$型等值电路、$\Gamma$型等值电路、简化等值电路
-    - （准确等值，原边，励磁支路，折算后的副边）
+    - （准确等值，原边，励磁支路，折算后的副                                                     
     - （近似等值，励磁之路电感较大，可以前移，变成单个回路，从而简化相量计算
     - （简化等值，删去励磁支路，近似计算）
 - 电力系统的变压器等值电路有3种：
@@ -52,3 +52,9 @@ Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV subs
 ## 小知识点
 - park变换非常重要，研究生阶段但凡在电磁暂态部分涉及到控制，都需要dq解耦，没有例外。
 
+## 简述以下目前我国电力系统的发展
+
+
+
+
+简历
