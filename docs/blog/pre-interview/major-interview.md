@@ -13,9 +13,11 @@
 
 ## Please describe your graduation project briefly?
 
-Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV substation system, then set up various actual fault conditions, measure voltage and current waveforms, judge and analyze the causes of transformer saturation and PT saturation, and calculate the heat generation of PT during ferromagnetic resonance,finally verify the current mainstream measures to avoid ferromagnetic resonance, simulate verification, and give their own views.
+Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV substation system, then set up various actual fault conditions, measure voltage and current waveforms, judge and analyze the causes of transformer saturation and PT saturation,then calculate the heat generation of PT during ferromagnetic resonance.Finally verify the current mainstream measures to avoid ferromagnetic resonance, simulate verification,and give their own views.
 
-## 讲述一下你在数学建模比赛中主要承担什么角色，做的内容简述一下？
+## 讲述一下你在数学建模比赛中主要承担什么角色，负责的内容有哪些？
+
+
 
 ## 变压器的等值类型？
 
@@ -29,7 +31,6 @@ Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV subs
     - （由出厂参数，即短路试验和空载试验计算出的电阻电抗电导电纳，）
     - （将励磁功率看作运算负荷）
     - （为了处理掉理想变压器，进行的二端口等值）
-
 
 
 ## 风机的类型？
@@ -48,14 +49,6 @@ Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV subs
 - 有于采用了交流励磁，发电机和电力系统构成了“柔性连接”，即可以根据电网电压、电流和发电机的转速来调节励磁电流，精确的调节发电机输出电流，使其能满足要求。
 - 双馈感应发电机由定子绕组直连定频三相电网的绕线式感应发电机和安装在转子绕组上的双向背靠背IGBT电压源变流器组成。
 
-
-高电压稍微看看，流注理论等等
-
-毕设，中英文
-
-复试时间30min左右
-
-## 新型电力系统的继电保护有哪些？
-
-park变换非常重要，研究生阶段但凡在电磁暂态部分涉及到控制，都需要dq解耦，没有例外
+## 小知识点
+- park变换非常重要，研究生阶段但凡在电磁暂态部分涉及到控制，都需要dq解耦，没有例外。
 
