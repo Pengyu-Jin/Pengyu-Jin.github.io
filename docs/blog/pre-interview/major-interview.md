@@ -4,7 +4,7 @@
 
 - **选题原因**。原因主要是我想做一些和实际应用比较贴合的课题，初步培养自己的动手能力和科研素质，因此我选择了配电网故障方面比较常见的谐振过电压研究。与此同时，我想要通过学习PSCAD电磁暂态仿真软件，为将来的研究生学业做准备。为此我选择了该课题。
 - **研究价值**。伴随着电网中新能源渗透的比例逐渐增大以及特高压技术的发展，各种电力电子设备和自动化装置越来越多，这虽然便利了电网的管理，但也带来了许多问题。从系统角度来看，电网组成结构愈加复杂，增加了谐振发生的概率，谐振对于电力系统的稳定运行具有决定性作用，特别是低压配电领域，与人民的生活息息相关。
-- **研究方法**。通过PSCAD来搭建简单的10kV变电站系统，然后设置各种实际的故障情况，测量电压和电流波形，判断分析变压器饱和及PT饱和的原因，并计算铁磁谐振时PT的发热情况，最后在核验目前主流的避免铁磁谐振的措施，进行仿真验证，并给出自己的看法。
+- **研究方法**。通过PSCAD来搭建简单的10kV变电站系统，然后设置各种实际的故障情况，测量电压和电流波形，判断是否发生铁磁谐振，并分析变压器饱和及PT饱和的原因，计算铁磁谐振时PT的发热情况，最后在核验目前主流的抑制铁磁谐振的措施，进行仿真验证，并给出自己的看法。
   
 【注】
 
@@ -13,7 +13,7 @@
 
 ## Please describe your graduation project briefly?
 
-Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV substation system, then set up various actual fault conditions, measure voltage and current waveforms, judge and analyze the causes of transformer saturation and PT saturation,then calculate the heat generation of PT during ferromagnetic resonance.Finally verify the current mainstream measures to avoid ferromagnetic resonance, simulate verification,and give their own views.
+Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV substation system, then set up various actual fault conditions, measure voltage and current waveforms。Determine whether ferromagnetic resonance occurs, and analyze the causes of transformer saturation and PT saturation,then calculate the heat generation of PT during ferromagnetic resonance.Finally verify the current mainstream measures to avoid ferromagnetic resonance, simulate verification,and give their own views.
 
 ## 讲述一下你在数学建模比赛中主要承担什么角色，负责的内容有哪些？
 
