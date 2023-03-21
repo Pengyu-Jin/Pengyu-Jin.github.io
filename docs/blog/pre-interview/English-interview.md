@@ -17,7 +17,8 @@ That's all.Thank you.
 ## 请简要介绍下你自己
 尊敬的各位老师，下午好。我非常荣幸能够参加这次面试，接下来我会简要介绍自己的个人情况。
 我叫靳鹏宇，今年22岁，来自河南省安阳市，目前就读于上海电力大学电气工程及其自动化专业，我将于今年的5月份毕业，获得工程学士学位。
-本科期间我勤奋刻苦，认真学习专业知识，积极主动了解行业发展走向，四年来的平均绩点为3.65，并且连续三年获得了本科生优秀奖学金。此外，我也积极参与第二课堂，锻炼自己的团队意识和工作能力，例如，我曾组织负责院里面的各项志愿服务活动，曾参与了全国大学生数学建模大赛，并最终荣获市三等奖的成绩。我积极锻炼基本的行业技能，通过了四六级考试，获得了计算机二级证书等。业余时间我习惯再图书馆阅读学习，课堂学习的知识有限，我会利用网络资源进一步学习，并坚持写技术博客，在自己的个人网站上做学习笔记。平时我也有许多爱好，喜欢探索新事物，
+本科期间我勤奋刻苦，认真学习专业知识，积极主动了解行业发展走向，四年来的平均绩点为3.65，并且连续三年获得了本科生优秀奖学金。此外，我也积极参与第二课堂，锻炼自己的团队意识和工作能力，例如，我曾组织负责院里面的各项志愿服务活动，曾参与了全国大学生数学建模大赛，并最终荣获市三等奖的成绩。我积极锻炼基本的行业技能，通过了四六级考试，获得了计算机二级证书等。业余时间我习惯再图书馆阅读学习，课堂学习的知识有限，我会利用网络资源进一步学习，并坚持写技术博客，在自己的个人网站上做学习笔记。平时我也有许多爱好，喜欢探索新事物，像自学编程、外语，剪辑视频、坚持跑步等。
+随着本科生涯的结束，我又站在了人生的交叉路口上，但我发现自己的专业知识储备不足，因此计划升学读研，打磨自己。
 以上就是我的自我介绍，谢谢老师的聆听。
 
 ## Why have you chosen this university(SJTU)?
@@ -36,7 +37,7 @@ First,I have utmost interest in electric power which plays a significant role in
 Well,first of all,I plan to read and explore as many research papers as possible to help myself get a better understanding of how to put my research into presentable results.And I also understand that graduate school study isn't all about research papers,so I plan to acquire necessary knowledge and skills to solve problems,either in my future academic pursuit or in my future career.
 
 ## 研究生三年你有什么规划？（具体，可行，丰富）
-我计划建立自己的知识体系，对专业课的知识内容达到融会贯通的地步。坚持知行合一，理论与实际相结合，对于11111
+我计划研一期间认真学习专业课，加深对行业前沿的认识，扎实自己的基础。课余期间多阅读电气行业相关的经典读物，参加相关企业实习或学术交流会等，实现理论与实际相结合，建立自己的知识体系，对专业课的知识内容达到融会贯通的地步。研二研三我会积极跟随导师的课题和项目，多参加学校举办的研讨会、学术论坛等，开阔自己的思路，不断提升自身的学术水平，为早日做出成果，完成毕业要求做出努力。我已经做好了面对一个忙碌而充实的研究生生活。当然我也深知外语学习的重要性，我也计划每天锻炼自身的听说读写能力，为早日达到语言学习的新的境界而努力。
 
 ## Which discipline do you like in the electrical industry and why?
 I prefer the direction of power system.The fundamental reason is that I met professor Hao Liangliang of Beijing Jiaotong University through the teacher's course.Then I deeply realized that the power system is closely related to people's lives.And in reality it is combined with protection devices, communication technology and automation devices,etc.,which is a very rich discipline. And along with the energy reform,the power system is also facing new challenges.
