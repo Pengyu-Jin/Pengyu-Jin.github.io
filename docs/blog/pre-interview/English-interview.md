@@ -1,3 +1,8 @@
+## 注意事项
+- 表达流利、丰富，眼神沟通、自信，不要有明显的背稿嫌疑
+- 克制频繁的小动作
+- 注意个人形象，表情管理，严肃和开朗要把握好
+
 ## Please introduce youself briefly.
 Good afternoon,dear professors,I'm very delighted to be here for this interview.First,let me introduce myself.
 
@@ -12,7 +17,8 @@ That's all.Thank you.
 ## 请简要介绍下你自己
 尊敬的各位老师，下午好。我非常荣幸能够参加这次面试，接下来我会简要介绍自己的个人情况。
 我叫靳鹏宇，今年22岁，来自河南省安阳市，目前就读于上海电力大学电气工程及其自动化专业，我将于今年的5月份毕业，获得工程学士学位。
-本科期间我勤奋刻苦，认真学习专业知识，积极主动了解行业发展走向，四年来的平均绩点为3.65，并且连续三年获得了本科生优秀奖学金。此外，我积极锻炼基本的行业技能，通过了四六级考试，计算机二级证书等。本科期间我虽然没有参与相关的科研工作，但我参加了全国大学生数学建模大赛，并最终荣获市三等奖的成绩。
+本科期间我勤奋刻苦，认真学习专业知识，积极主动了解行业发展走向，四年来的平均绩点为3.65，并且连续三年获得了本科生优秀奖学金。此外，我也积极参与第二课堂，锻炼自己的团队意识和工作能力，例如，我曾组织负责院里面的各项志愿服务活动，曾参与了全国大学生数学建模大赛，并最终荣获市三等奖的成绩。我积极锻炼基本的行业技能，通过了四六级考试，获得了计算机二级证书等。业余时间我习惯再图书馆阅读学习，课堂学习的知识有限，我会利用网络资源进一步学习，并坚持写技术博客，在自己的个人网站上做学习笔记。平时我也有许多爱好，喜欢探索新事物，
+以上就是我的自我介绍，谢谢老师的聆听。
 
 ## Why have you chosen this university(SJTU)?
 Through the communication with the seniors, I was attracted by the academic atmosphere of Shanghai Jiaotong University.In my opinion,as one of the most famous universities in our country,it provides students with opportunities to further their study.So,that's the reasons.
@@ -29,7 +35,7 @@ First,I have utmost interest in electric power which plays a significant role in
 ## What are your plans for the next three years?
 Well,first of all,I plan to read and explore as many research papers as possible to help myself get a better understanding of how to put my research into presentable results.And I also understand that graduate school study isn't all about research papers,so I plan to acquire necessary knowledge and skills to solve problems,either in my future academic pursuit or in my future career.
 
-## 研究生三年你有什么规划？
+## 研究生三年你有什么规划？（具体，可行，丰富）
 我计划建立自己的知识体系，对专业课的知识内容达到融会贯通的地步。坚持知行合一，理论与实际相结合，对于11111
 
 ## Which discipline do you like in the electrical industry and why?
