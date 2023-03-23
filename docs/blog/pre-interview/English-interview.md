@@ -10,7 +10,9 @@ My name is jin-pengyu,I'm 22 years old.My hometown is in Henan.Currently,I am a 
 
 I have been working extremely hard to equip myself with professional knowledge.With a GPA of 3.65,I won the scholarship for three consecutive years.I am proficient in English,and have passed CET4 and CET6.
 
-Although I did not have the opportunity to participate in scientific research at the undergraduate level, I have a strong self-learning ability, and I believe that I can do the basic work of graduate students.
+In my spare time,I used to read and study in the library.Due to the limited knowledge I learned in class,I would use online resources to further my studies,and insisted on writing technical blogs and taking study notes on my personal website. I also have many hobbies and like to explore new things,such as learning programming,foreign languages,editing videos,and running.
+
+With the end of my undergraduate career,I stood at the crossroads of my life again,but I found that my professional knowledge was insufficient,so I planned to go to graduate school to exercise myself.
 
 That's all.Thank you.
 
