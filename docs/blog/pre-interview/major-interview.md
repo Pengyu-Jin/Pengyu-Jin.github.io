@@ -16,7 +16,8 @@
 Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV substation system, then set up various actual fault conditions.For example, reclosing, lightning strikes, three-phase short-circuit faults, single-phase short-circuit faults, etc.Then measure voltage and current waveforms to determine whether ferromagnetic resonance occurs, and analyze the causes of transformer saturation and PT saturation,then calculate the heat generation of PT during ferromagnetic resonance.Finally verify the current mainstream measures to avoid ferromagnetic resonance, simulate verification,and give their own views.
 
 ## 讲述一下你在数学建模比赛中主要承担什么角色，负责的内容有哪些？
-
+数学建模的题目是“乙醇偶合制备C4烯烃实验分析与设计”，主要研究了在制备 C4 烯烃过程中，催化剂组合与温度对 C4 烯烃的选择性和 C4 烯烃收率产生的影响，建立了多元线性和多元非线性回归模型，在此基础上使用粒子群算法迭代求出 C4 烯烃收率最高时的最优解。
+主要是建立出因变量和多个自变量之间的函数关系，我的主要任务是查找相关理论，如何求出这个方程，阅读文献来提供分析的理论基础，并且我们小组的分工并不是非常割裂，而是相互帮助，共同探讨，我也参与了理论部分的撰写和画图分析部分的代码编写等工作。
 
 
 ## 变压器的等值类型？
@@ -62,6 +63,3 @@ Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV subs
 ## 简述以下目前我国电力系统的发展
 目前伴随着双碳政策的提出，
 
-
-
-简历

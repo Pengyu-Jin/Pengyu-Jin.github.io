@@ -39,7 +39,7 @@ First,I have utmost interest in electric power which plays a significant role in
 Well,first of all,I plan to read and explore as many research papers as possible to help myself get a better understanding of how to put my research into presentable results.And I also understand that graduate school study isn't all about research papers,so I plan to acquire necessary knowledge and skills to solve problems,either in my future academic pursuit or in my future career.
 
 ## 研究生三年你有什么规划？（具体，可行，丰富）
-我计划研一期间认真学习专业课，加深对行业前沿的认识，扎实自己的基础。课余期间多阅读电气行业相关的经典读物，参加相关企业实习或学术交流会等，实现理论与实际相结合，建立自己的知识体系，对专业课的知识内容达到融会贯通的地步。研二研三我会积极跟随导师的课题和项目，多参加学校举办的研讨会、学术论坛等，开阔自己的思路，不断提升自身的学术水平，为早日做出成果，完成毕业要求做出努力。我已经做好了面对一个忙碌而充实的研究生生活。当然我也深知外语学习的重要性，我也计划每天锻炼自身的听说读写能力，为早日达到语言学习的新的境界而努力。
+我计划研一期间认真学习专业课，加深对行业前沿的认识，扎实自己的基础。课余期间多阅读电气行业相关的经典读物，参加相关企业实习或学术交流会等，实现理论与实际相结合，建立自己的知识体系，对专业课的知识内容达到融会贯通的地步。研二研三我会积极跟随导师的课题和项目，多参加学校举办的研讨会、学术论坛等，开阔自己的思路，不断提升自身的学术水平，为早日做出成果，完成毕业要求做出努力。我已经做好了面对一个忙碌而充实的研究生生活的准备。当然我也深知外语学习的重要性，我也计划每天锻炼自身的听说读写能力，为早日达到语言学习的新的境界而努力。
 
 ## Which discipline do you like in the electrical industry and why?
 I prefer the direction of power system.The fundamental reason is that I met professor Hao Liangliang of Beijing Jiaotong University through the teacher's course.Then I deeply realized that the power system is closely related to people's lives.And in reality it is combined with protection devices, communication technology and automation devices,etc.,which is a very rich discipline. And along with the energy reform,the power system is also facing new challenges.
