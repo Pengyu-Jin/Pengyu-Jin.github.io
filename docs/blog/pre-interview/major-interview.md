@@ -57,5 +57,5 @@ Ok,well,Its basic research methods are:Through PSCAD to build a simple 10kV subs
 
 
 ## 简述以下目前我国电力系统的发展
-目前伴随着双碳政策的提出，数学
+目前伴随着双碳政策的提出，数学从v发动多次长度
 
