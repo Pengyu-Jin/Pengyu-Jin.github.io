@@ -31,6 +31,8 @@ nav:
       - 影视: blog/vedio/blu-ray.md
       - 游戏:
           - 宝可梦: blog/game/pokemon.md
+      - 日语学习:
+          - 50音: blog/JP-learn/50yin.md
   - 党建:
       - party building/learn1.md
   - 关于:
