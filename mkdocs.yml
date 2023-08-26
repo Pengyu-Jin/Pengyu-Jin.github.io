@@ -8,23 +8,6 @@ site_description: 靳鹏宇的个人网站
 nav:
   - 专业:
       - major/index.md
-      - 电力系统:
-          - 专业英语: major/Power System Analysis/english.md
-          - 第一章：课程绪论: major/Power System Analysis/chapter1.md
-          - 电机学补充知识: major/Power System Analysis/chapter1.5.md
-          - 第二章：电力系统元件的等值电路和参数: major/Power System Analysis/chapter2.md
-          - 第三章：电力系统的标幺值等值电路: major/Power System Analysis/chapter3.md
-          - 第四章：电力传输的基本概念: major/Power System Analysis/chapter4.md
-          - 第五章：开式电力系统的潮流计算: major/Power System Analysis/chapter5.md
-          - 第六章：闭式电力系统的潮流计算: major/Power System Analysis/chapter6.md
-          - 第九章：电力系统三相短路的暂态过程: major/Power System Analysis/chapter9.md
-          - 第十章：同步发电机三相短路定量分析: major/Power System Analysis/chapter10.md
-          - 第十一章：电力系统三相短路电流的实用计算: major/Power System Analysis/chapter11.md
-      - 电力科普:
-          - 第三届北大能源论坛: major/popularization/1.md
-      - 毕业设计:
-          - 组会1: major/graduation project/group meeting.md
-          - PSCAD学习: major/graduation project/PSCAD.md
 
   - 博客:
       - blog/index.md
