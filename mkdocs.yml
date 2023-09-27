@@ -8,12 +8,14 @@ site_description: 靳鹏宇的个人网站
 nav:
   - 专业:
       - major/index.md
+      - 英语: major/life_load/1.md
 
   - 博客:
       - blog/index.md
       - 影视: blog/vedio/blu-ray.md
       - 游戏:
           - 宝可梦: blog/game/pokemon.md
+          - 无畏契约: blog/game/valorant_cn.md
       - 日语学习:
           - 50音: blog/JP-learn/50yin.md
   - 党建:
