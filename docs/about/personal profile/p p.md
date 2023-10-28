@@ -20,7 +20,6 @@
 * 相关链接
     * 个人网站：[(https://jin-pengyu.github.io/)](https://jin-pengyu.github.io/)
     * GitHub:[(https://github.com/Jin-Pengyu)](https://github.com/Jin-Pengyu)
-    * Bilibili:[(https://space.bilibili.com/435864762)](https://space.bilibili.com/435864762)
     * 知乎：[(https://www.zhihu.com/people/zhi-nian-20-34-4)](https://www.zhihu.com/people/zhi-nian-20-34-4)
 
 ## 个人特点
