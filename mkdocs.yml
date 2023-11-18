@@ -13,6 +13,7 @@ nav:
   - 博客:
       - blog/index.md
       - AIGC: blog/AIGC/learn1.md
+      - markdown语法: blog/markdown/markdown.md
       - 英语学习:
           - Larry语法课: blog/EN-learn/Larry.md
       - 日语学习:
