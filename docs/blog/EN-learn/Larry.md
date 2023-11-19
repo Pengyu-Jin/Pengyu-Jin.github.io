@@ -20,10 +20,12 @@ endweight——句末重心
 who（指代某人）、which（指代某物）、that（某人/某物）这三个关系词都可以作定语从句的主语，但是要注意的是，用来指代人时，who比that常用，用来指代物的时候，that比which常用，这是英美人使用关系代词的基本习惯。
 
 eg
+
 - He is reading a book **that** is about human history.
 - A rich person is not one **who** has the most,but is one **who** needs the least.
 
 test
+
 - I like friends who ~~they~~ are passionate fans of Kobe Bryant.
 - Music that ~~have~~ has great lyrics is my favorite.
 - Michael loves friends who ~~is~~ are always ready to help.
@@ -35,6 +37,7 @@ test
 who（指代某人）、whom（指代某人）、which（指代某物）、that（某人/某物）。上述四个关系代词都可以作为形容词性从句中动词的宾语，也可以省略不填。
 
 eg
+
 - I want to have a friend **who/whom/that/不填** I can fully trust.
 - Michael likes every piece of music **that/which/不填** I recommend.
 - This is the book **that/which/不填** I bought yesterday.
