@@ -56,19 +56,46 @@ test
 
 who（指代某人）、whom（指代某人）、which（指代某物）、that（某人/某物）。上述四个关系代词都可以作为形容词性从句中**介词的宾语**，也可以省略不填。不过相比于作为动词宾语的关系代词来说，介词宾语的问题要更复杂，因为涉及到介词后置和介词前置的问题。
 
-eg
+eg1 介词后置
 
 - The little girl ==who a lot of people are interested== is named Lucy.（√）
 - The little girl ==whom a lot of people are interested in== is named Lucy.（√）
 - The little girl ==that a lot of people are interested in== is named Lucy.（√）
 - The little girl ==a lot of people are interested in== is named Lucy.（√）
 
+eg2 介词前置
+
 - The little girl in who a lot of people are interested is named Lucy.（×）
 - The little girl ==in whom a lot of people are interested== is named Lucy.（√）
 - The little girl in that a lot of people are interested is named Lucy.（×）
 - The little girl in a lot of people are interested is named Lucy.（×）
 
+eg3
 
+- The conference room ==in which the meeting will take place== is equipped with state-of-the-art technology.（√）
+- The scholarship ==for which she applied== covers tuition fees and living expenses.（√）
+- The job opportunity ==for which only experienced candidates are eligible== requires strong leadership skills.（√）
+- The software ==with which the team developed the project== significantly improved productivity.（√）
+
+test
+
+- The old house **about which** a lot of people care will be repaired.（√）
+- The old house **about that** a lot of people care will be repaired.（×）
+- The old house **about** a lot of people care will be repaired.（×）
+
+短语动词中包含的介词，一般不前置
+
+- This is the very bag **that** I've been looking for.（√）
+- This is the very bag **which** I've been looking for.（√）
+- This is the very bag **不填** I've been looking for.（√）
+- This is the very bag **for which** I've been looking.（×）
+
+【注】关系代词作宾语（动词宾语+介词宾语）
+
+- 定语从句中大多数作为宾语的关系代词是可以省略的。
+- 句子容易造成歧义时，不要省略关系代词。
+- 作为介词宾语的关系代词，在介词后置的情况下，用法与动词宾语相同；介词前置的情况下，只能使用prep+whom以及prep+which的形式，而不能使用prep+that。
+- 短语动词中的介词，一般不前置。
 
 ### 状语关系副词：when,where,why
 
