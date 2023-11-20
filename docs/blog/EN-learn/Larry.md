@@ -1,3 +1,6 @@
+视频链接：[搭建你的英语语法体系——Larry想做技术大佬](https://www.bilibili.com/video/BV1jF411r73p/?spm_id_from=333.999.0.0&vd_source=a69c9948d8c31b427ccd421455913cab)
+
+
 ## 主体框架
 endweight——句末重心
 
@@ -10,7 +13,7 @@ endweight——句末重心
 | :------------------------ | ------------------- |
 | 主语 关系代词             | who,which,that      |
 | 宾语 关系代词（动词宾语） | who,whom,which,that |
-| 宾语 关系代词（介词宾语） | who,whom,which      |
+| 宾语 关系代词（介词宾语） | who,whom,which,that |
 | 状语 关系副词             | when,where,why      |
 | 定语 关系限定词           | whose,which         |
 | 补语 关系代词             | which,that          |
@@ -49,10 +52,21 @@ test
 - 【注】使用了关系代词后，从句中原本被关系代词指代的部分（宾语）必须删掉。
 - 【注】关系代词与从句谓语动词距离较远的时候，要注意分辨清楚句子的结构，一定要找到真正的谓语动词，同时把从句作为一个简单句分析，将其对应到简单句五种基本句型中的一种，尤其当存在双宾语、宾语补语等结构时，要仔细分析这个“简单句”。
 
-### 宾语关系代词（介词宾语）：who,whom,which
+### 宾语关系代词（介词宾语）：who,whom,which,that
 
-who（指代某人）、whom（指代某人）、which（指代某物）、that（某人/某物）。上述四个关系代词都可以作为形容词性从句中介词的宾语，也可以省略不填。不过相比于作为动词宾语的关系代词来说，介词宾语的问题要更复杂，因为涉及到介词后置和介词前置的问题。
+who（指代某人）、whom（指代某人）、which（指代某物）、that（某人/某物）。上述四个关系代词都可以作为形容词性从句中**介词的宾语**，也可以省略不填。不过相比于作为动词宾语的关系代词来说，介词宾语的问题要更复杂，因为涉及到介词后置和介词前置的问题。
 
+eg
+
+- The little girl ==who a lot of people are interested== is named Lucy.（√）
+- The little girl ==whom a lot of people are interested in== is named Lucy.（√）
+- The little girl ==that a lot of people are interested in== is named Lucy.（√）
+- The little girl ==a lot of people are interested in== is named Lucy.（√）
+
+- The little girl in who a lot of people are interested is named Lucy.（×）
+- The little girl ==in whom a lot of people are interested== is named Lucy.（√）
+- The little girl in that a lot of people are interested is named Lucy.（×）
+- The little girl in a lot of people are interested is named Lucy.（×）
 
 
 
