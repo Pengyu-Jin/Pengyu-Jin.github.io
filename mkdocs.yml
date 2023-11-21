@@ -8,6 +8,7 @@ site_description: 靳鹏宇的个人网站
 nav:
   - 专业:
       - major/index.md
+      - EV: major/EV/EV.md
       - 英语: major/life_load/1.md
 
   - 博客:
