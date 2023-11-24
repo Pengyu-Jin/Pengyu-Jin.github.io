@@ -2,9 +2,9 @@
 
 PLDVs = passenger light-duty vehicles
 
-BEV = battery electric vehicle
-
 LCVs = light-commercial vehicles
+
+BEV = battery electric vehicle
 
 PHEV = plug-in hybrid electric vehicle
 
