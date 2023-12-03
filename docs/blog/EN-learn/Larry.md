@@ -58,7 +58,7 @@ who（指代某人）、whom（指代某人）、which（指代某物）、that�
 
 eg1 介词后置
 
-- The little girl ==who a lot of people are interested== is named Lucy.（√）
+- The little girl ==who a lot of people are interested in== is named Lucy.（√）
 - The little girl ==whom a lot of people are interested in== is named Lucy.（√）
 - The little girl ==that a lot of people are interested in== is named Lucy.（√）
 - The little girl ==a lot of people are interested in== is named Lucy.（√）
@@ -98,6 +98,33 @@ test
 - 短语动词中的介词，一般不前置。
 
 ### 状语关系副词：when,where,why
+
+| 关系副词 | 先行词   | 在定语从句中担当的成分 |
+| :------- | -------- | ---------------------- |
+| where    | 地点名词 | 地点状语               |
+| when     | 时间名词 | 时间状语               |
+| why      | 原因名词 | 原因状语               |
+
+【注】作为关系词，where、when、why这三个是关系副词。==是副词！也是连词！==
+
+e.g.1
+
+简单句1：This is the town.
+
+简单句2：I grew up in this town.
+
+用关系词来替换两个句子的交叉部分，实现合并：
+    - This is the town in which I grew up.
+    - 上句中，副词属性的介词短语 in which 修饰 grew up ，做状语成分
+    - This is the town where I grew up.
+    - 上句中，where是副词属性的关系副词，在定语从句中做地点状语
+    - 综上分析，where 等价于 in which
+
+- This is the town where I grew up.（√√√，更常见，更自然，推荐）
+- This is the town in which I grew up.（√√）
+- This is the town which I grew up in.（√，但没人这么用）
+- This is the town that I grew up in.（√，但没人这么用）
+
 
 ### 定语关系限定词：whose,which
 
