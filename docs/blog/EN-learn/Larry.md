@@ -113,7 +113,7 @@ e.g.1
 
 简单句2：I grew up in this town.
 
-用关系词来替换两个句子的交叉部分，实现合并：
+- 用关系词来替换两个句子的交叉部分，实现合并：
     - This is the town in which I grew up.
     - 上句中，副词属性的介词短语 in which 修饰 grew up ，做状语成分
     - This is the town where I grew up.
@@ -125,6 +125,42 @@ e.g.1
 - This is the town which I grew up in.（√，但没人这么用）
 - This is the town that I grew up in.（√，但没人这么用）
 
+e.g.2
+
+- where引导名词性从句
+  - This is ==where I plant the trees.==
+  - This is ==the place.==（名词性成分替换）
+- where引导形容词性从句
+  - I plant the trees in a place ==where there's a lot of sunshine.==
+  - I plant the trees in a ==sunlit== place.（形容词性成分替换）
+- where引导副词性从句
+  -I plant the trees ==where there's a lot of sunshine.==
+  -I plant the trees ==on the playground.== （副词性成分替换）
+
+e.g.3
+
+简单句1：I'll never forget the day.
+
+简单句2：I met you on that day.
+
+- 用关系词来替换两个句子的交叉部分，实现合并：
+    - I'll never forget the day on which I met you.
+    - 上句中，副词属性的介词短语 on which 修饰 grew up ，做状语成分
+    - I'll never forget the day when I met you.
+    - 上句中，when是副词属性的关系副词，在定语从句中做时间状语
+    - 综上分析，when 等价于 on which
+
+e.g.4
+
+由于时间名词像"tomorrow"、"today"等既是名词，也是副词，因此其派生出来的定语从句结构稍微有点复杂。
+
+- I'll never forget the day when I met you.（√）
+- I'll never forget the day on which I met you.（√）
+- I'll never forget the day which I met you on.（？没人这么说，当作错的）
+- I'll never forget the day that I met you on.（？）
+- I'll never forget the day which I met you on.（？）
+- I'll never forget the day that I met you.（√,that本身是关系名词，但that替代了day,day是名词，是副词，因此that也可以作副词了）
+- I'll never forget the day I met you.（√）
 
 ### 定语关系限定词：whose,which
 
