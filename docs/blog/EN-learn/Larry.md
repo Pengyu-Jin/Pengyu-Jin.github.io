@@ -191,8 +191,34 @@ e.g.7
 
 ### 定语关系限定词：whose,which
 
+e.g.1
 
+简单句1：Michael lives in a house.
 
+简单句2：The roof of the house is leaking.
+
+- 用关系词来替换两个句子的交叉部分，实现合并：
+    - Michael lives in a house of which the roof is leaking.
+    - Michael lives in a house whose roof is leaking.
+    - whose 等价于 of which
+
+e.g.2
+
+- whose表示所有格，构成 whose+名词 结构（常用）
+  - The guy **whose** dad is a billionaire wasted a lot of money.
+- which起指示作用，构成 which+名词 结构（偶见）
+  - That guy whose dad is a billionaire wasted a lot of money,which fact is hard to believe.
+  - which fact指代前面那件事情，共同作为关系词，which作为修饰中心词fact的形容词、限定词
+  - 把fact去掉也是对的，which单独作为关系词
+
+e.g.3
+
+- whose可以用作【人】的所有格，也可以用作【物】的所有格。
+  - I know a doctor whose three sons are all doctors.
+  - Sally studies in a school whose students study like machines.
+- 不使用whose,使用其他关系词将上面第二个句子改写成意思接近的形容词性从句
+  - Sally studies in a school where students study like machines.
+  - Sally studies in a school in which students study like machines.
 
 
 ### 补语关系代词：which,that
