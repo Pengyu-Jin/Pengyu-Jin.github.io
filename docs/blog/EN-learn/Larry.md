@@ -107,7 +107,7 @@ test
 
 【注】作为关系词，where、when、why这三个是关系副词。==是副词！也是连词！==
 
-e.g.1
+e.g.1————where
 
 简单句1：This is the town.
 
@@ -137,7 +137,7 @@ e.g.2
   -I plant the trees ==where there's a lot of sunshine.==
   -I plant the trees ==on the playground.== （副词性成分替换）
 
-e.g.3
+e.g.3————when
 
 简单句1：I'll never forget the day.
 
@@ -145,7 +145,7 @@ e.g.3
 
 - 用关系词来替换两个句子的交叉部分，实现合并：
     - I'll never forget the day on which I met you.
-    - 上句中，副词属性的介词短语 on which 修饰 grew up ，做状语成分
+    - 上句中，副词属性的介词短语 on which 修饰 met ，做状语成分
     - I'll never forget the day when I met you.
     - 上句中，when是副词属性的关系副词，在定语从句中做时间状语
     - 综上分析，when 等价于 on which
@@ -154,15 +154,46 @@ e.g.4
 
 由于时间名词像"tomorrow"、"today"等既是名词，也是副词，因此其派生出来的定语从句结构稍微有点复杂。
 
-- I'll never forget the day when I met you.（√）
-- I'll never forget the day on which I met you.（√）
-- I'll never forget the day which I met you on.（？没人这么说，当作错的）
-- I'll never forget the day that I met you on.（？）
-- I'll never forget the day which I met you on.（？）
-- I'll never forget the day that I met you.（√,that本身是关系名词，但that替代了day,day是名词，是副词，因此that也可以作副词了）
+- I'll never forget the day **when** I met you.（√）
+- I'll never forget the day **on which** I met you.（√）
+- I'll never forget the day **which** I met you **on**.（？没人这么说，当作错的）
+- I'll never forget the day **that** I met you **on**.（？）
+- I'll never forget the day **which** I met you.（？）
+- I'll never forget the day **that** I met you.（√,that本身是关系名词，但that替代了day,day是名词，是副词，因此that也可以作副词了）
 - I'll never forget the day I met you.（√）
 
+e.g.5
+
+- When I met Sally doesn't matter.（When引导名词性从句）
+- September 15,2018 is when I met Sally.（When引导名词性从句）
+- September 15,2018 is the day when I met Sally.（When引导形容词性从句）
+- I was only a little kid when I met Sally. （When引导副词性从句）
+
+e.g.6————why
+
+简单句1：That is the reason.
+
+简单句2：Sally hates her friend Mary for that reason.
+
+- 用关系词来替换两个句子的交叉部分，实现合并：
+    - That is the reason for which Sally hates her friend Mary.
+    - 上句中，副词属性的介词短语 for which 修饰 hates ，做状语成分
+    - That is the reason why Sally hates her friend Mary.
+    - 上句中，why是副词属性的关系副词，在定语从句中做原因状语
+    - 综上分析，why 等价于 for which
+
+e.g.7
+
+- Nobody really knows why Sally left for China.（why引导的名词性从句）
+- Nobody really knows the reason why Sally left for China.（why引导的形容词性从句）
+- I didn't go to the party last night because I was feeling unwell.（why不能引导原因状语从句，一般情况下由because来引导）
+
+
 ### 定语关系限定词：whose,which
+
+
+
+
 
 ### 补语关系代词：which,that
 
