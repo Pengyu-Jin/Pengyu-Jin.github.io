@@ -207,7 +207,7 @@ e.g.2
 - whose表示所有格，构成 whose+名词 结构（常用）
   - The guy **whose** dad is a billionaire wasted a lot of money.
 - which起指示作用，构成 which+名词 结构（偶见）
-  - That guy whose dad is a billionaire wasted a lot of money,which fact is hard to believe.
+  - That guy whose dad is a billionaire wasted a lot of money,**which** fact is hard to believe.
   - which fact指代前面那件事情，共同作为关系词，which作为修饰中心词fact的形容词、限定词
   - 把fact去掉也是对的，which单独作为关系词
 
@@ -222,6 +222,12 @@ e.g.3
 
 
 ### 补语关系代词：which,that
+
+- Sally is a smart person,==which== I am not.
+- which在从句中作表语，表语就是特殊的补语
+- The nickname stupid-ass ==that== those classmates named Michael doesn't sound friendly.
+- that在从句中作宾补
+- 上述两个关系代词在从句中作补语成分
 
 ### 限制性和非限制性
 
