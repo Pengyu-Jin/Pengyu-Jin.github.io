@@ -235,18 +235,24 @@ e.g.3
     - 1.有逗号
     - 2.关系词只能用which（极少用that）,who（极少用that）,where,when
 
+e.g.1
+
 - <u>I don't wear clothes</u>,which makes me different from others.我不穿衣服，这让我与众不同。
 - I don't wear <u>clothes</u> which make me different from others.我不穿奇装异服。
 
 
-- Michael knows a <u>doctor</u>,who has three sons working in the hospital.
-- Michael knows a <u>doctor</u> who has three sons working in the hospital.
+- Michael knows a <u>doctor</u>,who has three sons working in the hospital.麦扣认识一名医生（核心句），顺带一说，他有三个在医院工作的儿子。（补充额外信息）
+- Michael knows a <u>doctor</u> who has three sons working in the hospital.麦扣认识的这个医生，是三个儿子都在医院工作的医生。限制性，具有筛选性，从千千万万个医生中筛选了出来。
 
 - This is the <u>school</u>,where we made lifelong friendships.
-- This is the <u>school</u> where we made lifelong friendships.
+- This is the <u>school</u> where we made lifelong friendships.筛选
 
 - I still remember the <u>summer</u>,when we had an unforgettable road trip.
-- I still remember the <u>summer</u> when we had an unforgettable road trip.
+- I still remember the <u>summer</u> when we had an unforgettable road trip.筛选
+
+e.g.2
+
+
 
 
 
