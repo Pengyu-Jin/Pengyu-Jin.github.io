@@ -214,11 +214,11 @@ e.g.2
 e.g.3
 
 - whose可以用作【人】的所有格，也可以用作【物】的所有格。
-  - I know a doctor whose three sons are all doctors.
-  - Sally studies in a school whose students study like machines.
+    - I know a doctor whose three sons are all doctors.
+    - Sally studies in a school whose students study like machines.
 - 不使用whose,使用其他关系词将上面第二个句子改写成意思接近的形容词性从句
-  - Sally studies in a school where students study like machines.
-  - Sally studies in a school in which students study like machines.
+    - Sally studies in a school where students study like machines.
+    - Sally studies in a school in which students study like machines.
 
 
 ### 补语关系代词：which,that
@@ -232,8 +232,8 @@ e.g.3
 ### 限制性和非限制性
 
 - 非限制性定语从句的简单判断：
-  - 1.有逗号
-  - 2.关系词只能用which（极少用that）,who（极少用that）,where,when
+    - 1.有逗号
+    - 2.关系词只能用which（极少用that）,who（极少用that）,where,when
 
 - <u>I don't wear clothes</u>,which makes me different from others.我不穿衣服，这让我与众不同。
 - I don't wear <u>clothes</u> which make me different from others.我不穿奇装异服。
