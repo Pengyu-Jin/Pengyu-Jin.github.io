@@ -231,6 +231,25 @@ e.g.3
 
 ### 限制性和非限制性
 
+- 非限制性定语从句的简单判断：
+  - 1.有逗号
+  - 2.关系词只能用which（极少用that）,who（极少用that）,where,when
+
+- <u>I don't wear clothes</u>,which makes me different from others.我不穿衣服，这让我与众不同。
+- I don't wear <u>clothes</u> which make me different from others.我不穿奇装异服。
+
+
+- Michael knows a <u>doctor</u>,who has three sons working in the hospital.
+- Michael knows a <u>doctor</u> who has three sons working in the hospital.
+
+- This is the <u>school</u>,where we made lifelong friendships.
+- This is the <u>school</u> where we made lifelong friendships.
+
+- I still remember the <u>summer</u>,when we had an unforgettable road trip.
+- I still remember the <u>summer</u> when we had an unforgettable road trip.
+
+
+
 ## 副词性从句（状语从句）
 体力活
 
