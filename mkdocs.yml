@@ -9,7 +9,10 @@ nav:
   - 专业:
       - major/index.md
       - EV: major/EV/EV.md
+      - Power System: major/Power System.md
       - 英语: major/life_load/1.md
+      - 数学: major/math/math.md
+
 
   - 博客:
       - blog/index.md
