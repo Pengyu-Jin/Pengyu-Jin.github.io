@@ -295,6 +295,36 @@ e.g.6【专有名词做先行词：人物】
     - My grandmother ==who loves programming== is 70 years old.（×，你还有喜欢烹饪的奶奶吗）
     - My grandmother ==who is 70 years old== loves programming.（×，你还有其他岁数的奶奶吗）
 
+e.g.7【要看清先行词是哪一个】
+
+- 非限制性
+    - I went to <u>Xiamen</u>,==which is one of the most beautiful cities in China==.（There is only one Xiamen in China）
+- 限制性
+    - Xiamen is a <u>city</u> ==which is known for its great landscape==.（There are many cities in China.Xiamen is a special one）
+
+e.g.8【普通名词也可能变成“专有名词”】
+
+- This is <u>my hometown</u>,==which a lot of people know==.
+- This is my hometown which a lot of people know.（×）
+
+hometown="专有名词"，一般人只有一个家乡，因此不能被筛选
+
+- <u>My high school</u>,==which has sent a lot of students to Tsinghua University and Peking University==,is a good one.
+- My high school which has sent a lot of students to Tsinghua University and Peking University,is a good one.（×）
+
+my high school="专有名词"，一般人只有一个高中，因此不能筛选
+
+e.g.9【意义有何不同：限制VS非限制】
+
+- My uncle,who always drinks a lot,is liked by nobody.我叔叔这人吧，没人喜欢他，（对了），他总是喝很多酒。
+- My uncle who always drinks a lot is liked by nobody.我爱喝酒的那个叔叔没人喜欢。
+
+- The town,which is known for its street food,enjoys great fame.这座小镇名气很大，（对了），这里的小吃十分有名。
+- The town which is known for its street food enjoys great fame.这座以小吃而闻名的小镇十分有名。
+
+
+
+
 
 
 ## 副词性从句（状语从句）
