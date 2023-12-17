@@ -277,6 +277,7 @@ e.g.4【专有名词做先行词：人物】
     - The Einstein ==who was played by 王俊凯== in that movie looks funny.（There can be various Einstein in lots of movies）
 
 e.g.5【专有名词做先行词：人物】
+
 - 非限制性
     - 张三,==who teaches us English==,is a cool guy.（There is only one 张三 within this small group of people）
 - 限制性
@@ -287,6 +288,7 @@ e.g.5【专有名词做先行词：人物】
 教我们英语的张三只有一个，大家都懂这人是谁，因此不能够被“限定”，除非说话人认识好几个张三。
 
 e.g.6【专有名词做先行词：人物】
+
 - 非限制性
     - My grandmother,==who is 70 years old==,loves programming.（I have only one grandmother）
 - 限制性
