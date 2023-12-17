@@ -250,8 +250,13 @@ e.g.1
 - I still remember the <u>summer</u>,when we had an unforgettable road trip.
 - I still remember the <u>summer</u> when we had an unforgettable road trip.筛选
 
-e.g.2
+e.g.2【注】
 
+1.非限制性定语从句的先行词十分多样化，而限制性定语从句的先行词往往是单纯的名词短语。
+
+2.即便是相同的先行词（皆为名词短语），限制性、非限制性定语从句的意思也不相同。
+
+3.某些先行词，只能使用非限制性定语从句，不能使用限制性定语从句。（因为世界上有些事物是独一无二的，没有办法筛选）
 
 
 
