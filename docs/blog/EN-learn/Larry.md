@@ -328,7 +328,19 @@ e.g.9【意义有何不同：限制VS非限制】
 - This is the time,when we need to come together.时不我待，我们应该联合起来。
 - This is the time when we need to come together.此时此刻就是我们应该联合起来的时候。
 
+summary【总结：限制性=筛选，非限制性=顺便提一嘴】
 
+- I have a friend who never washes his face.**我有一个从不洗脸的朋友。**
+- 1.我的朋友或许有不少；2.其中一个朋友从不洗脸；3.我其他的朋友（大概率）都是洗脸的。
+<br></br>
+- I have a friend,who never washes his face.**我有个朋友，（对了），他从不洗脸。**
+- 1.我的朋友或许有不少；2.刚刚提到的这个朋友，他不洗脸；3.至于其他的朋友洗不洗脸，没提（但一般来说是洗的）。
+<br></br>
+- I have only one friend who never washes his face.**不洗脸的朋友我只有一个。**
+- 1.我的朋友或许有不少；2.不洗脸的朋友，我就这么一个；3.其他朋友都是洗脸的。
+<br></br>
+- I have only one friend,who never washes his face.**我只有一个朋友，他从不洗脸。**
+- 1.我只有一个朋友，有且只有一个；2.就这么一个朋友，他还不洗脸
 
 
 ## 副词性从句（状语从句）
