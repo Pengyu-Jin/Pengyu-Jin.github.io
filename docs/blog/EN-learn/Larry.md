@@ -269,6 +269,30 @@ e.g.3【专有名词做先行词：地点】
 
 Beijing which is capital of China is a great city.（×）
 
+e.g.4【专有名词做先行词：人物】
+
+- 非限制性
+    - Einstein,==who was a great scientist==,created the theory of relativity.（There is only one Einstein in this world,though he's dead already）
+- 限制性
+    - The Einstein ==who was played by 王俊凯== in that movie looks funny.（There can be various Einstein in lots of movies）
+
+e.g.5【专有名词做先行词：人物】
+- 非限制性
+    - 张三,==who teaches us English==,is a cool guy.（There is only one 张三 within this small group of people）
+- 限制性
+    - The 张三 ==who teaches us English== is the most handsome guy in China.（There are many 张三-s in China）
+
+张三 who teaches us English is a cool guy.（×）
+
+教我们英语的张三只有一个，大家都懂这人是谁，因此不能够被“限定”，除非说话人认识好几个张三。
+
+e.g.6【专有名词做先行词：人物】
+- 非限制性
+    - My grandmother,==who is 70 years old==,loves programming.（I have only one grandmother）
+- 限制性
+    - My grandmother ==who loves programming== is 70 years old.（×，你还有喜欢烹饪的奶奶吗）
+    - My grandmother ==who is 70 years old== loves programming.（×，你还有其他岁数的奶奶吗）
+
 
 
 ## 副词性从句（状语从句）
