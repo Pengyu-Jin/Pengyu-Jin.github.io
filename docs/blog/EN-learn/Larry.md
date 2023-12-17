@@ -344,6 +344,14 @@ summary【总结：限制性=筛选，非限制性=顺便提一嘴】
 
 
 ## 副词性从句（状语从句）
-体力活
+![](https://github.com/Jin-Pengyu/image-bed/blob/main/img/20231217184142.png?raw=true)
 
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20231217190216.png)
 
+![]()
+
+![]()
+
+![]()
+
+![]()
