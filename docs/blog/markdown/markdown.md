@@ -1,4 +1,4 @@
-# Markdown 语法学习 精简版
+# Markdown 语法学习
 
 > <span id="top">**文章开头**</span>
 
@@ -6,7 +6,6 @@
 
 点击[这里](#catalog)回到下方介绍 `toc` 的阅读位置
 
-此笔记学习摘抄自[Markdown语法大全(超级版)](https://www.jianshu.com/p/ebe52d2d468f "jianshu.com")，并根据笔者的使用不断更新，基本使用应该足够。
 
 ## 最常用
 
@@ -198,6 +197,13 @@
 不同markdown编辑器可能有不同的换行方式，最简单为直接敲回车
 
 markdown文本内的连续两个或多个回车会被替换为一个回车
+
+### 加空行
+```
+<br></br>
+```
+<br></br>
+
 
 ## 高级
 
