@@ -258,6 +258,16 @@ e.g.2【注】
 
 3.某些先行词，只能使用非限制性定语从句，不能使用限制性定语从句。（因为世界上有些事物是独一无二的，没有办法筛选）
 
+e.g.3【专有名词做先行词：地点】
+
+- 非限制性
+    - Bejing,==which is capital of China==,is a great city.（There is only one Bejing in this world）
+- 限制性
+    - The Bejing ==that used to be the capital of old China== is liked by nobody.（There are two Beijing-s:The old Beijing,and the new Beijing）
+
+大多数情况下，类似Beijing这样的专有名词做先行词的时候，都必须使用加逗号的非限制性定语从句，因为专有名词是独一无二的，因此无法被“限制”，更无需指定。
+
+Beijing which is capital of China is a great city.（×）
 
 
 
