@@ -318,11 +318,15 @@ e.g.9【意义有何不同：限制VS非限制】
 
 - My uncle,who always drinks a lot,is liked by nobody.我叔叔这人吧，没人喜欢他，（对了），他总是喝很多酒。
 - My uncle who always drinks a lot is liked by nobody.我爱喝酒的那个叔叔没人喜欢。
-
+<br></br>
 - The town,which is known for its street food,enjoys great fame.这座小镇名气很大，（对了），这里的小吃十分有名。
 - The town which is known for its street food enjoys great fame.这座以小吃而闻名的小镇十分有名。
-
-
+<br></br>
+- The park,where we used to play,is now a shopping center.那个公园如今已经是购物中心了，（对了），我们以前总去那溜达。
+- The park where we used to play is now a shopping center.我们经常去溜达的那个公园如今已经是购物中心了。
+<br></br>
+- This is the time,when we need to come together.时不我待，我们应该联合起来。
+- This is the time when we need to come together.此时此刻就是我们应该联合起来的时候。
 
 
 
