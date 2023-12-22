@@ -25,4 +25,6 @@ $f \in C^n[a, b]$：函数$f(x)$在区间$[a,b]$上至少具有$n$阶连续导�
 
 ## 定理
 
-$Rolle's \ \  Theorem:$若$f(x)$充分光滑
+$Rolle's \ \  Theorem:$ 若$f(x)$充分光滑，$\varphi(x_0)=\varphi(x_1)=0$，则$\exists \ \xi \in [x_0,x_1]$使得$\varphi^{'}(\xi)=0$
+
+定理中的充分光滑指的是满足任意阶可导任意阶连续
