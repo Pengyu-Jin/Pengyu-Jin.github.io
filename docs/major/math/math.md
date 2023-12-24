@@ -40,3 +40,10 @@ $\mathbb{R}^n$中的一个典型元素可以写作$(x_1,x_2,...,x_n)$，其中$x
 $Rolle's \ \  Theorem:$ 若$f(x)$充分光滑，$\varphi(x_0)=\varphi(x_1)=0$，则$\exists \ \xi \in [x_0,x_1]$使得$\varphi^{'}(\xi)=0$
 
 定理中的充分光滑指的是满足任意阶可导任意阶连续
+
+<br></br>
+
+若$\varphi_0(x),\varphi_1(x),...,\varphi_{n-1}(x)$是[a,b]上的线性无关函数，且$a_0,a_1,...,a_{n-1}$是任意实数，则$$S(x)=a_0\varphi_0(x)+a_1\varphi_1(x)+...+a_{n-1}\varphi_{n-1}(x)$$的全体是$C[a,b]$中的一个子集，记作
+$$\Phi=span\{\varphi_0,\varphi_1,...,\varphi_{n-1}\}$$
+
+上式表示由这组线性无关的函数$\varphi_k(x),(k=0,1,...,n-1)$，所张成的子空间，或子集。即$[a,b]$区间上连续函数空间的一个子集。
