@@ -45,7 +45,9 @@ $Rolle's \ \  Theorem:$ 若$f(x)$充分光滑，$\varphi(x_0)=\varphi(x_1)=0$，
 
 若$\varphi_0(x),\varphi_1(x),...,\varphi_{n-1}(x)$是[a,b]上的线性无关函数，且$a_0,a_1,...,a_{n-1}$是任意实数，则
 
-$$S(x)=a_0\varphi_0(x)+a_1\varphi_1(x)+...+a_{n-1}\varphi_{n-1}(x)$$的全体是$C[a,b]$中的一个子集，记作
+$$S(x)=a_0\varphi_0(x)+a_1\varphi_1(x)+...+a_{n-1}\varphi_{n-1}(x)$$
+
+的全体是$C[a,b]$中的一个子集，记作
 
 $$\Phi=span\{\varphi_0,\varphi_1,...,\varphi_{n-1}\}$$
 
