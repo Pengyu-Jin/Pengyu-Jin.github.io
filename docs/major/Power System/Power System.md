@@ -7,4 +7,4 @@ $EPS—Emergency Power Supply:$紧急电力供应。
 
 p.u.=per unit，百分比，标幺值
 
-%SOC$：state of charge
+$SOC$：state of charge

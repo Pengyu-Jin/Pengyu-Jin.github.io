@@ -17,6 +17,11 @@ $\tilde{x}$  读作： x tilde
 
 $\delta(t)$ 冲激函数  $Kronecker \ Delta$函数
 
+$ODE:Ordinary Differential Equation$  常微分方程
+
+$\Omicron(x^2)$表示$x^2$的同阶无穷小，$\omicron(x^2)$表示$x^2$的高阶无穷小
+
+
 <br></br>
 
 $C^n[a, b]$：这表示在区间$[a,b]$上具有连续$n$次导数的函数集合。
