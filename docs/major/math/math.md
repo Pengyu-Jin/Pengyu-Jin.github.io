@@ -19,7 +19,7 @@ $\delta(t)$ 冲激函数  $Kronecker \ Delta$函数
 
 $ODE:Ordinary Differential Equation$  常微分方程
 
-$\Omicron (x^2)$表示$x^2$的同阶无穷小，$\omicron (x^2)$表示$x^2$的高阶无穷小
+$O(x^2)$表示$x^2$的同阶无穷小，$\omicron o(x^2)$表示$x^2$的高阶无穷小
 
 
 
@@ -60,4 +60,13 @@ $$\Phi=span\{\varphi_0,\varphi_1,...,\varphi_{n-1}\}$$
 $Rolle's \ \  Theorem:$ 若$f(x)$充分光滑，$\varphi(x_0)=\varphi(x_1)=0$，则$\exists \ \xi \in [x_0,x_1]$使得$\varphi^{'}(\xi)=0$
 
 定理中的充分光滑指的是满足任意阶可导任意阶连续
+
+二元函数的$Taylor's formula$：
+
+$$f(x, y) = f(a, b) + \frac{\partial f}{\partial x}(a, b)(x - a) + \frac{\partial f}{\partial y}(a, b)(y - b) + \frac{1}{2!}\left(\frac{\partial^2 f}{\partial x^2}(a, b)(x - a)^2 + 2\frac{\partial^2 f}{\partial x \partial y}(a, b)(x - a)(y - b) + \frac{\partial^2 f}{\partial y^2}(a, b)(y - b)^2\right) + \cdots
+$$
+
+这里，$f(x, y)$是二元函数，$(a,b)$是展开点，而$\frac{\partial f}{\partial x}$，$\frac{\partial f}{\partial y}$，$\frac{\partial^2 f}{\partial x^2}$，$\frac{\partial^2 f}{\partial x \partial y}$，$\frac{\partial^2 f}{\partial y^2}$，等分别表示函数$f(x, y)$关于$x$和$y$的一阶和二阶偏导数。
+
+
 
