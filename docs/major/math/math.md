@@ -61,6 +61,8 @@ $Rolle's \ \  Theorem:$ 若$f(x)$充分光滑，$\varphi(x_0)=\varphi(x_1)=0$，
 
 定理中的充分光滑指的是满足任意阶可导任意阶连续
 
+<br></br>
+
 二元函数的$Taylor's formula$：
 
 $$f(x, y) = f(a, b) + \frac{\partial f}{\partial x}(a, b)(x - a) + \frac{\partial f}{\partial y}(a, b)(y - b) + \frac{1}{2!}\left(\frac{\partial^2 f}{\partial x^2}(a, b)(x - a)^2 + 2\frac{\partial^2 f}{\partial x \partial y}(a, b)(x - a)(y - b) + \frac{\partial^2 f}{\partial y^2}(a, b)(y - b)^2\right) + \cdots

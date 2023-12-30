@@ -1,3 +1,11 @@
+## Mindset for Conducting Research
+
+科研心态分享的一篇blog:[Why Can't I Reproduce Their Results?](https://theorangeduck.com/page/reproduce-their-results)
+
+[对应的知乎回答](https://www.zhihu.com/question/364269312/answer/3107942044)
+
+## abbreviation
+
 ECE——Electrical and Computer Engineering
 
 CS——Computer Science
