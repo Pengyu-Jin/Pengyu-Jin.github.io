@@ -19,7 +19,9 @@ $\delta(t)$ 冲激函数  $Kronecker \ Delta$函数
 
 $ODE:Ordinary Differential Equation$  常微分方程
 
-$\Omicron(x^2)$表示$x^2$的同阶无穷小，$\omicron(x^2)$表示$x^2$的高阶无穷小
+$\Omicron (x^2)$表示$x^2$的同阶无穷小，$\omicron (x^2)$表示$x^2$的高阶无穷小
+
+
 
 
 <br></br>
