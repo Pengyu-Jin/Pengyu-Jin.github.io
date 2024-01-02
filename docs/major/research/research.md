@@ -7,8 +7,10 @@
 
 [傅里叶分析神文](https://www.zhihu.com/search?type=content&q=Heinrich)
 
-## abbreviation
+## :) abbreviation
 
+[//]:() xssx xssx xsx) 
+<!--这里都是缩写 -->
 ECE——Electrical and Computer Engineering
 
 CS——Computer Science
