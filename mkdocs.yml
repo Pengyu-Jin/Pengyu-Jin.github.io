@@ -12,14 +12,15 @@ nav:
       - Power System: major/Power System/Power System.md
       - Mathmatic: major/math/math.md
       - Research: major/research/research.md
-
+      - En_Learn:
+          - Larry语法课: major/EN-learn/Larry.md
+          - phrase: major/EN-learn/phrase.md
 
   - 博客:
       - blog/index.md
       - AIGC: blog/AIGC/learn1.md
       - markdown语法: blog/markdown/markdown.md
-      - 英语学习:
-          - Larry语法课: blog/EN-learn/Larry.md
+     
       - 日语学习:
           - 50音: blog/JP-learn/50yin.md
       - Vehicle: blog/Vehicle/Vehicle_infor.md
