@@ -39,6 +39,9 @@ nav:
 ## [top]
 
 theme:
+  font:
+    text: Poppins
+
   name: material
   palette:
     - scheme: default # 日间模式
