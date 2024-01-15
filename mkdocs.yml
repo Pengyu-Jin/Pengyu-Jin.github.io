@@ -8,7 +8,9 @@ site_description: 靳鹏宇的个人网站
 nav:
   - 专业:
       - major/index.md
-      - EV: major/EV/EV.md
+      - EV: 
+          - EV: major/EV/EV.md
+          - EV_newsletter: major/EV/EV_newsletter.md
       - Power System: major/Power System/Power System.md
       - Mathmatic: major/math/math.md
       - Research: major/research/research.md
