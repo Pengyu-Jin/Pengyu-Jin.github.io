@@ -6,7 +6,7 @@ site_description: 靳鹏宇的个人网站
 
 #[Navigation]
 nav:
-  - 专业:
+  - Major:
       - major/index.md
       - EV: 
           - EV: major/EV/EV.md
@@ -18,7 +18,7 @@ nav:
           - Larry语法课: major/EN-learn/Larry.md
           - phrase: major/EN-learn/phrase.md
 
-  - 博客:
+  - Blog:
       - blog/index.md
       - AIGC: blog/AIGC/learn1.md
       - markdown语法: blog/markdown/markdown.md
@@ -31,7 +31,7 @@ nav:
           - 宝可梦: blog/game/pokemon.md
 
 
-  - 关于:
+  - About:
       - about/index.md
       - 个人履历: about/personal profile/p p.md
 #[UI]
