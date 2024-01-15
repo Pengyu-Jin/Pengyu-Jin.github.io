@@ -1,4 +1,4 @@
 ## normal
-$pros \ and \ cons$:the advantages and disadvantages of something
+pros and cons: the advantages and disadvantages of something
 
-$invaluable \ support$:extremely useful support
+invaluable support: extremely useful support
