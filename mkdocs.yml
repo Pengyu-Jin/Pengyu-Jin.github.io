@@ -120,8 +120,7 @@ markdown_extensions:
   - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
   - pymdownx.details # admonition需要
 
-markdown_extensions: # 添加emoji 
-  - attr_list
+  - attr_list  # 添加emoji 
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
