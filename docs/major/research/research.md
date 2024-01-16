@@ -7,11 +7,10 @@
 
 [傅里叶分析神文](https://www.zhihu.com/search?type=content&q=Heinrich)
 
-## :) abbreviation
+## :smiley: abbreviation
 
 <!--这里都是缩写 -->
-:smile:这个emjoy能不能upload
-:smiley:cd
+:smiling_face_with_3_hearts:这个emjoy能不能upload,yes!
 
 ECE——Electrical and Computer Engineering
 
