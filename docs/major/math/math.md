@@ -45,7 +45,7 @@ $\mathbb{R}^n$中的一个典型元素可以写作$(x_1,x_2,...,x_n)$，其中$x
 <br></br>
 
 
-若$\varphi_0(x),\varphi_1(x),...,\varphi_{n-1}(x)$是[a,b]上的线性无关函数，且$a_0,a_1,...,a_{n-1}$是任意实数，则
+若$\varphi_0(x),\varphi_1(x),...,\varphi_{n-1}(x)$是$[a,b]$上的线性无关函数，且$a_0,a_1,...,a_{n-1}$是任意实数，则
 
 $$S(x)=a_0\varphi_0(x)+a_1\varphi_1(x)+...+a_{n-1}\varphi_{n-1}(x)$$
 
