@@ -10,7 +10,7 @@ nav:
       - major/index.md
       - EV: 
           - EV: major/EV/EV.md
-          - EV_newsletter: major/EV/EV_newsletter.md
+          - EV Newsletter: major/EV/EV_newsletter.md
       - Power System: major/Power System/Power System.md
       - Mathmatic: major/math/math.md
       - Research: major/research/research.md
@@ -119,6 +119,12 @@ markdown_extensions:
   - meta # 支持Markdown文件上方自定义标题标签等
   - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
   - pymdownx.details # admonition需要
+
+markdown_extensions: # 添加emoji 
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
   #- mkdocs/css/no-footer.css # 不使用底部的翻页
