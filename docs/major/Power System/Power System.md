@@ -3,7 +3,7 @@
 
 UPS—Uninterruptible Power Supply：不间断电源，在电网异常（如停电、欠压、干扰或浪涌（涌浪电流））的情况下不间断的为电器负载设备提供后备交流电源。
 
-EPS—Emergency Power Supply:紧急电力供应。
+EPS—Emergency Power Supply: 紧急电力供应。
 
 p.u.=per unit，百分比，标幺值
 
