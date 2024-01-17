@@ -1,8 +1,9 @@
-# 你好
+# Hello!
 
-这里是靳鹏宇的个人网站 [(https://jin-pengyu.github.io/)](https://jin-pengyu.github.io/).
+This is the Peng-yu Jin's personal website.[(https://jin-pengyu.github.io/)](https://jin-pengyu.github.io/).{:target="_blank"}
 
-- 通过主题和目录以打开文章
-    - PC 端在上方标签栏选择主题，在左侧目录选择文章
-    - 移动端点击左上角图标选择主题和文章
-- 搜索关键词以打开文章
+- Open an article by theme and directory:
+    - On the PC, select a theme from the top tab bar and choose an article from the left-side directory.
+    - On mobile, tap the icon in the top left corner to select a theme and article.
+- Open an article by searching keywords.
+

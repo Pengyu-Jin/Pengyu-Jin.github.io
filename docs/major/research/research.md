@@ -1,13 +1,13 @@
 ## Mindset for Conducting Research
 
-科研心态分享的一篇blog:[Why Can't I Reproduce Their Results?](https://theorangeduck.com/page/reproduce-their-results)
+科研心态分享的一篇blog:[Why Can't I Reproduce Their Results?](https://theorangeduck.com/page/reproduce-their-results){:target="_blank"}
 
-[对应的知乎回答](https://www.zhihu.com/question/364269312/answer/3107942044)
+[对应的知乎回答](https://www.zhihu.com/question/364269312/answer/3107942044){:target="_blank"}
 
 
-[傅里叶分析神文](https://www.zhihu.com/search?type=content&q=Heinrich)
+[傅里叶分析神文](https://www.zhihu.com/search?type=content&q=Heinrich){:target="_blank"}
 
-## :smiley:abbreviation
+## :smiley:abbreviations
 
 <!--这里都是缩写 -->
 :smiling_face_with_3_hearts:这个emjoy能不能upload,yes!
