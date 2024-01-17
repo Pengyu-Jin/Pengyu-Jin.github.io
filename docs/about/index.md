@@ -1,1 +1,1 @@
-点击左侧目录打开文章
+Click on the left-side directory to open the articles.

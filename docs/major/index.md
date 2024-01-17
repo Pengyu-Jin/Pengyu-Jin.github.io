@@ -1,2 +1,3 @@
-#这是专业相关的笔记
-点击左侧目录打开文章
+#This is professionally related notes.
+Click on the left-side directory to open the articles.
+
