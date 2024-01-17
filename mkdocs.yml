@@ -73,7 +73,7 @@ edit_uri: edit/main/docs # 编辑按钮跳转的链接
 
 ## [top-right corner]
 
-repo_url: https://github.com/Jin-Pengyu/jin-pengyu.github.io # 右上角点击跳转的链接
+repo_url: https://github.com/Jin-Pengyu/jin-pengyu.github.io{:target="_blank"} # 右上角点击跳转的链接
 repo_name: jin-pengyu.github.io # 右上角的名字
 
 ## [bottom-left corner]
