@@ -145,6 +145,13 @@
 
 右边是链接[GitHub](https://github.com "GitHub")
 
+想要单击链接，在新的标签页打开的话，代码修改如下
+
+```
+右边是链接[GitHub](https://github.com "GitHub"){:target="_blank"}
+```
+右边是链接[GitHub](https://github.com "GitHub"){:target="_blank"}
+
 ### 插入图片
 
 **格式**：`!` `[图片标题]` `(图片地址 "图片Title”)`
