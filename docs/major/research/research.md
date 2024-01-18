@@ -36,3 +36,4 @@ JCI——Journal Citation Indicator
 
 2024年新出的nature子刊[learn it](https://www.nature.com/natrevelectreng/){:target="_blank"}
 
+[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}
