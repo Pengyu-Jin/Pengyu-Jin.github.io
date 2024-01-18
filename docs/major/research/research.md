@@ -34,3 +34,5 @@ JCI——Journal Citation Indicator
 
 [科研科普向文章，各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
 
+2024年新出的nature子刊[learn it](https://www.nature.com/natrevelectreng/){:target="_blank"}
+

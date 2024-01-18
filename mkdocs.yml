@@ -34,7 +34,7 @@ nav:
 
   - About:
       - about/index.md
-      - 个人履历: about/personal profile/p p.md
+      - profile: about/personal profile/p p.md
 #[UI]
 
 ## [top]
