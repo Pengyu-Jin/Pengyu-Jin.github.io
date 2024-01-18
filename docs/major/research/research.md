@@ -30,3 +30,7 @@ JIF——Journal Inpact Factor
 
 JCI——Journal Citation Indicator
 
+整理
+
+[科研科普向文章，各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
+
