@@ -2,7 +2,7 @@
 
 科研心态分享的一篇blog:[Why Can't I Reproduce Their Results?](https://theorangeduck.com/page/reproduce-their-results){:target="_blank"}
 
-[对应的知乎回答](https://www.zhihu.com/question/364269312/answer/3107942044){:target="_blank"}
+科研心态对应的[知乎回答](https://www.zhihu.com/question/364269312/answer/3107942044){:target="_blank"}
 
 
 [傅里叶分析神文](https://www.zhihu.com/search?type=content&q=Heinrich){:target="_blank"}
@@ -30,7 +30,7 @@ JIF——Journal Inpact Factor
 
 JCI——Journal Citation Indicator
 
-整理
+## 每日整理
 
 [科研科普向文章，各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
 
