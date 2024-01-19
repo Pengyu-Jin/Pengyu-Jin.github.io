@@ -39,7 +39,6 @@ JCI——Journal Citation Indicator
 [power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}
 
 !!! tip
-
     到底是绝对不会是觉得是多少
     电视剧的海报设计大赛
 
@@ -52,5 +51,4 @@ JCI——Journal Citation Indicator
     穿的那件的刹那间
 
 !!! quote"当时只道是寻常"
-    
     让我再看你一遍，从南到北。像是被五环路蒙住的双眼。
