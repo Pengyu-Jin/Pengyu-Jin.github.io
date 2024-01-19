@@ -119,7 +119,7 @@ markdown_extensions:
   - pymdownx.superfences # 代码块高亮插件
   - meta # 支持Markdown文件上方自定义标题标签等
   
-  - admonition   # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
+  - admonition   #添加admonition  https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
   - pymdownx.details  # admonition需要
   - pymdownx.superfences
 
