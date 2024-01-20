@@ -8,13 +8,13 @@ site_description: 靳鹏宇的个人网站
 nav:
   - Major:
       - major/index.md
+      - Research: major/research/research.md
       - EV: 
           - EV: major/EV/EV.md
           - EV Newsletter: major/EV/EV_newsletter.md
       - Electric Motor: major/electric-motor/electric-motor.md
       - Power System: major/Power System/Power System.md
       - Mathmatic: major/math/math.md
-      - Research: major/research/research.md
       - En Learn:
           - Larry语法课: major/EN-learn/Larry.md
           - phrase: major/EN-learn/phrase.md

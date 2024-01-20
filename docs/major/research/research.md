@@ -38,25 +38,13 @@ JCI——Journal Citation Indicator
 
 [power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}
 
-网站建设[mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/){:target="_blank"}
+[网站建设mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/){:target="_blank"}
 
-xxxxxxxxx
-dshjdsxhsd
 
 !!! tip
-    到底是绝对不会是觉得是多少
-    电视剧的海报设计大赛
+    20岁-30岁是知识汲取，不断成长的10年
 
-??? question "How to add plugins to the Docker image?"
-    新华社东京下班后的时间shjncjnsxcjncs
-    sxcjncdjndc
-    cdnj
 
-??? tip "能不能展开下"
-    穿的那件的刹那间
-
-???+ tip "能不能展开下"
-    穿的那件的刹那间
 
 !!! quote "当时只道是寻常"
     让我再看你一遍，从南到北。像是被五环路蒙住的双眼。
