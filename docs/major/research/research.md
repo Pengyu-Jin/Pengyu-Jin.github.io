@@ -40,7 +40,8 @@ JCI——Journal Citation Indicator
 
 网站建设[mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/){:target="_blank"}
 
-上传成功好不好
+xxxxxxxxx
+
 !!! tip
     到底是绝对不会是觉得是多少
     电视剧的海报设计大赛
