@@ -2,14 +2,11 @@
 
 从每分钟转数（rpm）到弧度每秒的转换可以通过以下公式完成：
 
-<div style="text-align:center">
-
-$ \text{角速度} (\omega) = \frac{2\pi \times \text{转速} (\text{rpm})}{60}$
-
-</div>
+$$ \text{角速度} (\omega) = \frac{2\pi \times \text{转速} (\text{rpm})}{60}$$
 
 其中，
-- $\omega$ 是角速度，单位是弧度每秒（rad/s），
+
+- $\omega$ 是角速度，单位是弧度每秒（rad/s）。
 - 转速是每分钟转数（rpm）。
 
 这个公式利用了角度和弧度之间的关系，其中一圈（360度）等于 $2\pi$ 弧度，而每分钟有60秒。因此，将每分钟的转速乘以 $\frac{2\pi}{60}$ 可以得到弧度每秒的角速度。
