@@ -7,6 +7,11 @@
 
 [傅里叶分析神文](https://www.zhihu.com/search?type=content&q=Heinrich){:target="_blank"}
 
+研究生学位论文格式：
+
+[word&latex](https://www.seiee.sjtu.edu.cn/xzzx_xzzq_yjs.html){:target="_blank"}
+
+
 ## :smiley:abbreviations
 
 <!--这里都是缩写 -->
