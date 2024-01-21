@@ -1,4 +1,6 @@
 ## 每日整理
+!!! quote
+    Chance favors the prepared mind.
 
 科研科普向文章：[各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
 
@@ -6,7 +8,7 @@
 
 申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}
 
-国家自然科学基金委：[2024年电气工程领域研究热点](){:target="_blank"}
+国家自然科学基金委：[2024年电气工程领域研究热点](https://www.nsfc.gov.cn/publish/portal0/tab1514/info91204.htm){:target="_blank"}
 
 网站设计：[网站建设mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/){:target="_blank"}
 
@@ -16,8 +18,10 @@
 
 学习博士的做事习惯：[北交大电机博士](https://www.zhihu.com/people/yi-dun-jiu-yi-wan){:target="_blank"}
 
+
+
 !!! tip
-    20岁-30岁是知识汲取，不断成长的10年
+    Those who refuse to accept their destiny should seize every opportunity to make a difference in their lives.
 
 ## Mindset for Conducting Research
 
