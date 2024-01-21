@@ -1,13 +1,16 @@
 ## 每日整理
 
-[科研科普向文章，各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
+科研科普向文章：[各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
 
-2024年新出的nature子刊[learn it](https://www.nature.com/natrevelectreng/){:target="_blank"}
+2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
 
-[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}
+申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}
 
-[网站建设mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/){:target="_blank"}
+国家自然科学基金委：[2024年电气工程领域研究热点](){:target="_blank"}
 
+网站设计：[网站建设mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/){:target="_blank"}
+
+寒假整理：[完善markdown语法](https://teedoc.neucrack.com/get_started/zh/syntax/syntax_markdown.html){:target="_blank"}
 
 !!! tip
     20岁-30岁是知识汲取，不断成长的10年
