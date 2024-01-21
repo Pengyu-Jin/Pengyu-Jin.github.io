@@ -21,7 +21,7 @@
 
 科研心态对应的[知乎回答](https://www.zhihu.com/question/364269312/answer/3107942044){:target="_blank"}
 
-[傅里叶分析人生感悟文章](https://www.zhihu.com/search?type=content&q=Heinrich){:target="_blank"}
+傅里叶分析人生感悟文章：[与时间无关的故事](https://www.zhihu.com/search?type=content&q=Heinrich){:target="_blank"}
 
 研究生学位论文格式：[word&latex](https://www.seiee.sjtu.edu.cn/xzzx_xzzq_yjs.html){:target="_blank"}
 
