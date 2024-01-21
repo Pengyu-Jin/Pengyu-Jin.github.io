@@ -12,7 +12,9 @@
 
 寒假整理：[完善markdown语法](https://teedoc.neucrack.com/get_started/zh/syntax/syntax_markdown.html){:target="_blank"}
 
-回复reviewer话术：[整理](https://zhuanlan.zhihu.com/p/656414843?utm_medium=social&utm_oi=1126163311523348480&utm_psn=1732478792868753409&utm_source=wechat_session)
+回复reviewer话术：[整理](https://zhuanlan.zhihu.com/p/656414843?utm_medium=social&utm_oi=1126163311523348480&utm_psn=1732478792868753409&utm_source=wechat_session){:target="_blank"}
+
+学习博士的做事习惯：[北交大电机博士](https://www.zhihu.com/people/yi-dun-jiu-yi-wan){:target="_blank"}
 
 !!! tip
     20岁-30岁是知识汲取，不断成长的10年
