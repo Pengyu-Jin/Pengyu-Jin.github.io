@@ -2,6 +2,8 @@
 !!! quote
     Chance favors the prepared mind.
 
+科研习惯和记录：[ability](https://www.zhihu.com/question/458196603/answer/3031343553){:target="_blank"}
+
 科研科普向文章：[各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
 
 2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
