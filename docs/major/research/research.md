@@ -2,6 +2,11 @@
 !!! quote
     Chance favors the prepared mind.
 
+!!! tip "电机大作业"
+    canvas,12月19日，18：00视频——讲作业1
+    canvas,12月26日，18：00视频——讲作业2
+
+
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
 科研习惯和记录：[ability](https://www.zhihu.com/question/458196603/answer/3031343553){:target="_blank"}
