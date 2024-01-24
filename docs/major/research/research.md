@@ -6,6 +6,9 @@
     canvas,12月19日，18：00视频——讲作业1
     canvas,12月26日，18：00视频——讲作业2
 
+!!! abstract
+    会议投稿。2月20日截至！！！
+
 电力电子学习：
 
 - [西瓜粥](https://space.bilibili.com/287344644/?spm_id_from=333.999.0.0){:target="_blank"}
