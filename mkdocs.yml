@@ -19,17 +19,19 @@ nav:
           - Larry语法课: major/EN-learn/Larry.md
           - phrase: major/EN-learn/phrase.md
 
-  - Blog:
-      - blog/index.md
-      - AIGC: blog/AIGC/learn1.md
-      - markdown grammar: blog/markdown/markdown.md
-      - 生活感悟: blog/LifeRoad/liferoad.md
+  - Interest:
+      - interest/index.md
+      - programming: 
+          - Python: interest/programming/Python.md
+      - AIGC: interest/AIGC/learn1.md
+      - markdown grammar: interest/markdown/markdown.md
+      - 生活感悟: interest/LifeRoad/liferoad.md
       - 日语学习:
-          - 50音: blog/JP-learn/50yin.md
-      - Vehicle: blog/Vehicle/Vehicle_infor.md
-      - 影视: blog/vedio/blu-ray.md
+          - 50音: interest/JP-learn/50yin.md
+      - Vehicle: interest/Vehicle/Vehicle_infor.md
+      - 影视: interest/vedio/blu-ray.md
       - 游戏:
-          - 宝可梦: blog/game/pokemon.md
+          - 宝可梦: interest/game/pokemon.md
 
 
   - About:
