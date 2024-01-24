@@ -7,9 +7,10 @@
     canvas,12月26日，18：00视频——讲作业2
 
 电力电子学习：
-    - [西瓜粥](https://space.bilibili.com/287344644/?spm_id_from=333.999.0.0){:target="_blank"}
-    - [上科大](https://www.bilibili.com/video/BV1pS4y1g7D9/?spm_id_from=333.999.0.0&vd_source=e6e034e60a13df17f44b30b9956d6d70){:target="_blank"}
-    - [Power Electronics](https://www.coursera.org/specializations/power-electronics#instructors){:target="_blank"}
+- [西瓜粥](https://space.bilibili.com/287344644/?spm_id_from=333.999.0.0){:target="_blank"}
+- [上科大](https://www.bilibili.com/video/BV1pS4y1g7D9/?spm_id_from=333.999.0.0&vd_source=e6e034e60a13df17f44b30b9956d6d70){:target="_blank"}
+- [Power Electronics](https://www.coursera.org/specializations/power-electronics#instructors){:target="_blank"}
+
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
