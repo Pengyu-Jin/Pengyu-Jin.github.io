@@ -108,6 +108,7 @@ plugins:
 plugins:
   - blog: #blog 插件
       authors_profiles: true
+      post_date_format: full
 
 
 markdown_extensions:
