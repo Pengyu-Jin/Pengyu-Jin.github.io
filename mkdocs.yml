@@ -107,8 +107,7 @@ plugins:
   - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
 plugins:
   - blog: #blog 插件
-      authors_profiles: true
-      blog_toc: true
+      blog_toc: true ##显示 Blog中每篇博客的标题 构成的目录
 
 
 
