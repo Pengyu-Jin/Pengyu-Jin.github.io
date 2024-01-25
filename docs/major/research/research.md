@@ -2,10 +2,6 @@
 !!! quote
     Chance favors the prepared mind.
 
-!!! tip "电机大作业"
-    canvas,12月19日，18：00视频——讲作业1
-    canvas,12月26日，18：00视频——讲作业2
-
 !!! abstract
     会议投稿。2月20日截至！！！
 
