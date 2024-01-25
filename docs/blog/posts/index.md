@@ -4,9 +4,7 @@ date: 2024-01-26
 authors: [Pengyu-Jin]
 slug: Blog-1-ee-Athome
 description: >
-  Share the love – We can do this. - Steve Jobs
-categories:
-  - General
+  Share the love – We can do this.Steve Jobs
 ---
 
 Q: 什么叫次同步振荡风险评估？
