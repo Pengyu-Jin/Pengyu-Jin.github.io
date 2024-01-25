@@ -13,3 +13,11 @@ article ul ul ul{
 article ul ul ul ul{
     list-style-type: disc !important
 }
+
+.md-content .md-date {
+    margin-bottom: 0; /* 移除日期底部的间距 */
+}
+
+.md-content .md-readtime {
+    margin-top: 0; /* 移除阅读时间顶部的间距 */
+}
