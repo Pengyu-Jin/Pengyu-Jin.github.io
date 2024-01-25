@@ -108,6 +108,8 @@ plugins:
 plugins:
   - blog: #blog 插件
       blog_toc: true ##显示 Blog中每篇博客的标题 构成的目录
+      archive: true
+      categories: true
 
 
 
