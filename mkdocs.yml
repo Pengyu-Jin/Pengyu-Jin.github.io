@@ -33,7 +33,7 @@ nav:
       - 游戏:
           - 宝可梦: interest/game/pokemon.md
 
-  - Blog: blog/posts/index.md
+  - Blog: blog/index.md
 
   - About:
       - about/index.md
