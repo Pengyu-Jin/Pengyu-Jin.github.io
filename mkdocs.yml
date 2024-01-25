@@ -32,7 +32,8 @@ nav:
       - 影视: interest/vedio/blu-ray.md
       - 游戏:
           - 宝可梦: interest/game/pokemon.md
-
+  - blog:
+      - blog/posts/index.md
 
   - About:
       - about/index.md
@@ -106,7 +107,7 @@ plugins:
   - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
   
   - blog #blog 插件
-  
+
 markdown_extensions:
   - footnotes #添加注脚footnotes
   - pymdownx.caret
