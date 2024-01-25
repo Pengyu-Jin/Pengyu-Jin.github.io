@@ -32,8 +32,8 @@ nav:
       - 影视: interest/vedio/blu-ray.md
       - 游戏:
           - 宝可梦: interest/game/pokemon.md
-  - blog:
-      - blog/posts/index.md
+
+  - Blog: blog/posts/index.md
 
   - About:
       - about/index.md
