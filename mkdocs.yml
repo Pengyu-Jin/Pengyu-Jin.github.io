@@ -105,9 +105,9 @@ plugins:
         - en
         - ja
   - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
-  
+plugins:
   - blog: #blog 插件
-    authors_profiles: true
+      authors_profiles: true
 
 markdown_extensions:
   - footnotes #添加注脚footnotes
