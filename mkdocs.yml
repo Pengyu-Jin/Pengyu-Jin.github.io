@@ -109,6 +109,7 @@ plugins:
   - blog: #blog 插件
       authors_profiles: true
 
+
 markdown_extensions:
   - footnotes #添加注脚footnotes
   - pymdownx.caret

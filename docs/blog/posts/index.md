@@ -6,7 +6,7 @@ categories:
   - Test
 tags:
   - Test
-slug: hello-world
+
 ---
 
 # Hello world!
