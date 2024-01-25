@@ -1,11 +1,9 @@
 ---
 title: Blog-1-ee-Athome
 date: 2024-01-26
-authors: [squidfunk]
 slug: Blog-1-ee-Athome
 description: >
-  Share the love – you can now add a badge to your README, showing that your
-  project is built with Material for MkDocs
+  Share the love – We can do this. - Steve Jobs
 categories:
   - General
 ---
