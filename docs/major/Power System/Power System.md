@@ -30,6 +30,10 @@ SOC：state of charge
 
 **开展次同步振荡评估的依据是什么？**
 
-强制性标准《电力系统安全稳定导则》（GB38755-2019）规定如下
+强制性标准[《电力系统安全稳定导则》（GB38755-2019）]规定如下
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240126111756.png)
+
+    [《电力系统安全稳定导则》（GB38755-2019）]: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1D988D54A435E864E67CAA13217E8A99
 
 **次同步振荡评估的工作内容是什么？**
