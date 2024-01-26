@@ -34,11 +34,12 @@ SOC：state of charge
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240126111756.png)
 
-[《电力系统安全稳定导则》（GB38755-2019）]: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1D988D54A435E864E67CAA13217E8A99
+[《电力系统安全稳定导则》（GB38755-2019）]: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1D988D54A435E864E67CAA13217E8A99{:target="_blank"}
 
 **次同步振荡评估的工作内容是什么？**
 
 主要工作包括但不限于：
+
 - 收集机组厂家和电网的模型和数据
 - 采用专用工具软件开展每个机型的全工况阻抗建模与分析
 - 采用专用工具软件开展次同步振荡风险的阻抗网络分析
