@@ -72,5 +72,6 @@ JIF——Journal Inpact Factor
 JCI——Journal Citation Indicator
 
 !!! tip
-    cdhbcj加油，耐心就没有问题
+    cdhbcj加油，耐心就没有问题xsbhxbd 
+    xsbjcbds 
 
