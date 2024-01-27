@@ -14,7 +14,6 @@
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
-科研习惯和记录：[ability](https://www.zhihu.com/question/458196603/answer/3031343553){:target="_blank"}
 
 科研科普向文章：[各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
 
@@ -72,3 +71,5 @@ JIF——Journal Inpact Factor
 JCI——Journal Citation Indicator
 
 ## Publication
+
+conference
