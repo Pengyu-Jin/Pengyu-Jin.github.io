@@ -13,6 +13,7 @@ tags:
 ---
 
 **关于ISI、SCI、EI、IEEE、Elsevier、Springer的理解**
+
 文章摘录自知乎作者-[半妆先生](https://zhuanlan.zhihu.com/p/347071525){:target="_blank}
 
 <!-- more -->
@@ -40,18 +41,18 @@ tags:
 
 `SCI`
 
-: SCI(Science Citation Index)是ISI（Institute Scientific Information）做的数据库，其特点为：
-  - SCI不是出版商，只是数据库，不是具体某篇文章内容版权的拥有者；所以在SCI里面，能看到只是题目+摘要+参考文献；
-  - SCI自己有一个自己确定的期刊列表，SCI只是从出版商处抓取某些期刊的论文里面的信息（题目/作者/摘要/参考文献），然后可能添加一些自己的信息，比如分类号一类的东西；
-  - SCI的内容不是原始文献全文，卖点是每年推出JCR，里面给出影响因子。
+:   SCI(Science Citation Index)是ISI（Institute Scientific Information）做的数据库，其特点为：
+    - SCI不是出版商，只是数据库，不是具体某篇文章内容版权的拥有者；所以在SCI里面，能看到只是题目+摘要+参考文献；
+    - SCI自己有一个自己确定的期刊列表，SCI只是从出版商处抓取某些期刊的论文里面的信息（题目/作者/摘要/参考文献），然后可能添加一些自己的信息，比如分类号一类的东西；
+    - SCI的内容不是原始文献全文，卖点是每年推出JCR，里面给出影响因子。
   
 `EI`
 
-: Engineering information Inc.
+:   Engineering information Inc.
 
-  在学术和工程领域，"Engineering Information Inc." 是一个公司，主要以其创办的数据库和文献检索服务而闻名。该公司创建了 "Engineering Village" 平台，该平台提供了许多工程和技术领域的文献数据库，其中最著名的是 "Compendex"。现在隶属于Elsevier旗下；
+    在学术和工程领域，"Engineering Information Inc." 是一个公司，主要以其创办的数据库和文献检索服务而闻名。该公司创建了 "Engineering Village" 平台，该平台提供了许多工程和技术领域的文献数据库，其中最著名的是 "Compendex"。现在隶属于Elsevier旗下；
 
-  大家常说的EI Compendex 收录论文的题录、摘要，并加个主题词、分类号什么的。
+    大家常说的EI Compendex 收录论文的题录、摘要，并加个主题词、分类号什么的。
   
-  EI只是从出版商处抓取某些期刊的论文里面的信息（题目/作者/摘要/参考文献）。
+    EI只是从出版商处抓取某些期刊的论文里面的信息（题目/作者/摘要/参考文献）。
  
