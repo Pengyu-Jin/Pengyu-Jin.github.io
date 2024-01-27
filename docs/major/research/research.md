@@ -71,6 +71,4 @@ JIF——Journal Inpact Factor
 
 JCI——Journal Citation Indicator
 
-!!! tip "坚持就是胜利"
-    你可以的！
-
+## Publication
