@@ -14,9 +14,6 @@
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
-
-科研科普向文章：[各个单位之间的关系](https://zhuanlan.zhihu.com/p/347071525){:target="_blank"}
-
 2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
 
 申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}
