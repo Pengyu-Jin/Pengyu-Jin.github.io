@@ -78,6 +78,6 @@ JCI——Journal Citation Indicator
 
 !!! quote
     dhjcsb
-    吃点好吃
+    吃点好吃都是错的
 
 
