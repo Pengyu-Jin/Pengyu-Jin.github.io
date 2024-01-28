@@ -67,12 +67,6 @@ IS——Information System
 
 IC——Integrated Circuit 
 
-## 期刊相关
-
-JIF——Journal Inpact Factor
-
-JCI——Journal Citation Indicator
-
 ## Publication
 
 conference
