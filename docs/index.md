@@ -1,4 +1,4 @@
-# Hello!
+# Hello!  :material-human-greeting-variant:
 
 This is the Peng-yu Jin's personal website.[(https://jin-pengyu.github.io/)](https://jin-pengyu.github.io/){:target="_blank"}.
 
