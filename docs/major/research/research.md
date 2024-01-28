@@ -5,6 +5,12 @@
 !!! abstract
     会议投稿。2月20日截至！！！
 
+专利交底书
+会议论文
+题库编写
+视频录制
+
+
 电力电子学习：
 
 - [西瓜粥](https://space.bilibili.com/287344644/?spm_id_from=333.999.0.0){:target="_blank"}

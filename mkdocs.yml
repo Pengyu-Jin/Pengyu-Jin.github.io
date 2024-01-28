@@ -30,8 +30,6 @@ nav:
           - 50音: interest/JP-learn/50yin.md
       - Vehicle: interest/Vehicle/Vehicle_infor.md
       - 影视: interest/vedio/blu-ray.md
-      - 游戏:
-          - 宝可梦: interest/game/pokemon.md
 
   - Blog:
       - blog/index.md
