@@ -70,6 +70,8 @@ SCI是由美国科学信息研究所(ISI)1961年创办出版的一部世界著�
 
 ISI通过它严格的选刊标准和评估程序挑选刊源，而且每年略有增减，从而做到SCI收录的文献能全面覆盖全世界最重要和最有影响力的研究成果。40多年来，SCI数据库不断发展，已经成为当代世界最为重要的大型数据库，被列在国际六大著名检索系统[^1]（SCI，EI，CA,SA，AJ，JST）和三大检索工具（SCI，EI，ISTP）之首。它不仅是一部重要的检索工具书，而且也是科学研究成果评价一项重要依据。在我国，经国家科学技术部有关部门和领导研究，决定从2000年的统计工作起，SCI论文统计用检索系统改为用SCIE。也就是说：如果某位作者的论文被2000年版以后的SCIE收录，就算是被SCI收录了。
 
+[^1]:参考Blog文章retrieval
+
 ISI于1960年由Eugene Garfield创立。1992被加拿大汤姆森公司(The Thomson Corporation)的分公司Thomson Scientific & Healthcare收购，于是就成了现在有名的Thomson ISI。后来这个分公司在2006年又分为Thomson Scientific 和 Thomson Healthcare两个子公司。
 
 至于现在的汤森路透[(Thomson Reuters)](http://thomsonreuters.com/){:target="_blank"}，成立于2008年4月17日，是由Thomson公司与英国路透集团(Reuters Group PLC)合并组成的商务和专业智能信息提供商。现在的路透社只是其新闻业务的一部分。以下就介绍一下Thomson Scientific的SCI相关的产品。

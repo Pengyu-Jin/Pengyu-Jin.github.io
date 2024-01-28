@@ -67,3 +67,9 @@ EE方向
 ## EE方向顶刊
 2023-07-10中国电工技术学会发布[电气工程领域高质量科技期刊分级目录（2022版）](https://www.ces.org.cn/html/report/23070728-1.htm){:target="_blank"}
 
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-28%20103510.png)
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240128111047.png)
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240128111136.png)
+
