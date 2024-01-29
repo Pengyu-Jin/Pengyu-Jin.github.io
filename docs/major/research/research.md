@@ -5,14 +5,29 @@
     如果这件事早晚都得做，一定要早做，情况瞬息万变，天有不测风云，晚做可能就做不了了，所以不要等，不要拖，立刻马上去做。
 
 ## 快捷键小技巧
-win+上下左右 ——分屏
-win+I ——设置
-win+R ——shell
-win shift S ——截屏
 
-vscode中ctrl shift ~ ——新建终端
+==for windows==
 
-word中ctrl shift Q ——打开axmath
+| Mshortcut key | function |
+| ----------- | --------- |
+| `win+上下左右`| 分屏  |
+| `win+I`     | 设置 |
+| `win+R`    | shell |
+| `win+R`    | 截屏 |
+
+==for vscode==
+
+| Mshortcut key | function |
+| ----------- | --------- |
+| `ctrl shift ~`| 新建终端  |
+
+==for word==
+
+| Mshortcut key | function |
+| ----------- | --------- |
+| `ctrl shift Q`| 行内axmath |
+
+
 
 ## 每日整理
 !!! quote
