@@ -23,6 +23,10 @@
 - [上科大](https://www.bilibili.com/video/BV1pS4y1g7D9/?spm_id_from=333.999.0.0&vd_source=e6e034e60a13df17f44b30b9956d6d70){:target="_blank"}
 - [Power Electronics](https://www.coursera.org/specializations/power-electronics#instructors){:target="_blank"}
 
+Latex:[SJTUbeamer指南](https://github.com/sjtug/SJTUBeamer/discussions/139){:target="_blank"}
+
+!!! tip
+    学习博士的专业学习态度，要习惯阅读英文文档
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
