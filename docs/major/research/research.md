@@ -4,6 +4,16 @@
     你觉得博一杂事太多，博二再进实验室不迟，可能博二来一拨疫情联系好的实验室就不接收了。你觉得今晚累了，某个任务想明天再做，但明天可能被同学拉出去聚餐或者又有新的任务，最后总是不了了之。
     如果这件事早晚都得做，一定要早做，情况瞬息万变，天有不测风云，晚做可能就做不了了，所以不要等，不要拖，立刻马上去做。
 
+## 快捷键小技巧
+win+上下左右 ——分屏
+win+I ——设置
+win+R ——shell
+win shift S ——截屏
+
+vscode中ctrl shift ~ ——新建终端
+
+word中ctrl shift Q ——打开axmath
+
 ## 每日整理
 !!! quote
     Chance favors the prepared mind.
@@ -16,6 +26,7 @@
 题库编写
 视频录制
 
+sumatra PDF+sublime+Texlive=高效科研，加油
 
 电力电子学习：
 
