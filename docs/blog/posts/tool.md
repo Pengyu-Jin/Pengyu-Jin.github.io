@@ -24,6 +24,7 @@ tags:
 | `win+I`     | 设置 |
 | `win+R`    | shell |
 | `win+R`    | 截屏 |
+| `win+.`|打开emoji|
 
 ==for vscode==
 

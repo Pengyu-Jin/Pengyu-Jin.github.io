@@ -45,6 +45,10 @@ theme:
   font:
     text: Poppins
 
+  font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
+  font-weight: 450;
+  font-size: 16px;
+
   name: material
   palette:
     - scheme: default # 日间模式
@@ -145,6 +149,9 @@ markdown_extensions:
 #extra_css:
 #   - mkdocs/css/no-footer.css # 不使用底部的翻页
 #   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
+
+extra_css: #修改字体，定制化的字体，网上下载的
+  - stylesheets/extra.css
 
 extra_javascript:
   # latex支持
