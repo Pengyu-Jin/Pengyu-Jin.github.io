@@ -1,8 +1,8 @@
 ---
-title: retrieval
+title: paper
 date: 2024-01-28
 authors: [Pengyu-Jin]
-slug: retrieval
+slug: paper
 categories:
   - Research
 tags:
@@ -64,7 +64,7 @@ EE方向
 !!! tip "两者的关系"
     一般条件下，CSCD核心和扩展期刊都是北大核心期刊，所以CSCD更挑肥拣瘦些。一般情况下，中文稿能投CSCD就选CSCD吧。
 
-## EE方向顶刊
+## EE方向期刊
 2023-07-10中国电工技术学会发布[电气工程领域高质量科技期刊分级目录（2022版）](https://www.ces.org.cn/html/report/23070728-1.htm){:target="_blank"}
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-28%20103510.png)

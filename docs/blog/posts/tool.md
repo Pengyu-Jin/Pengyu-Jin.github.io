@@ -8,6 +8,11 @@ categories:
 tags:
   - tool
 ---
+**Tool**
+
+方便日常科研工作的工具和小技巧
+
+<!-- more -->
 
 ## 快捷键小技巧
 
