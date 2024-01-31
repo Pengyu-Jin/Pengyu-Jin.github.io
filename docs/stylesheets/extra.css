@@ -33,16 +33,15 @@
     font-style: normal;
 }
 
-/* Apply the font to specific elements */
+/* Apply the font to specific elements 
 body {
     font-family: 'Chillax-Variable', sans-serif;
-    /* Adjust other styles as needed */
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Chillax-Variable', sans-serif;
-    /* Adjust other styles as needed */
-}
+}*/
 
-/* Add more styling rules as per your website's design */
+
+
 
