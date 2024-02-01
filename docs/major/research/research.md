@@ -11,6 +11,10 @@ MFT-Medium Frequency Transformer，中频变压器，连接低压直流和中压
 !!! success
     任何一种方法都会存在缺点。能量是守恒的。
 
+这个世界没有黑魔法，任何东西都是人发明出来的。
+
+
+
 ## 每日整理:memo:
 !!! quote
     Chance favors the prepared mind.

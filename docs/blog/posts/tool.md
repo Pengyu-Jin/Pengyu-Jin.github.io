@@ -23,8 +23,9 @@ tags:
 | `win+上下左右`| 分屏  |
 | `win+I`     | 设置 |
 | `win+R`    | shell |
-| `win+R`    | 截屏 |
-| `win+.`|打开emoji|
+| `win+shift+s`| 截屏 |
+| `win+.`   |打开emoji|
+|`win+c`   |打开Copilot |
 
 ==for vscode==
 
