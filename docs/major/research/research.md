@@ -1,6 +1,7 @@
 ## 记录
 
 MFT-Medium Frequency Transformer，中频变压器，连接低压直流和中压交流
+PET-Power Electronic Transformer，电力电子变压器
 
 ## Remember:hugging:
 !!! success
@@ -18,6 +19,13 @@ MFT-Medium Frequency Transformer，中频变压器，连接低压直流和中压
 ## 每日整理:memo:
 !!! quote
     Chance favors the prepared mind.
+
+!!! quote "Steve Jobs"
+    Apple resonates with people because there's a humanism that runs deep in our innovation.
+    苹果之所以能与人们产生共鸣，是因为在我们的创新中深藏着一种人文精神。
+    I think great artists and great engineers are similar in that they both have a desire for self-expression.
+    我认为伟大的艺术家和伟大的工程师是相似的，他们都有自我表达的欲望。
+    
 
 !!! abstract
     会议投稿。2月20日截至！！！
