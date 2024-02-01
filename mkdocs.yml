@@ -76,7 +76,8 @@ theme:
   icon:
     logo: material/paw
     repo: fontawesome/brands/github
-  edit_uri: edit/main/docs # 编辑按钮跳转的链接
+  
+edit_uri: edit/main/docs # 编辑按钮跳转的链接
 
 ## [top-right corner]
 
