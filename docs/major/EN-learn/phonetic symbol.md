@@ -7,25 +7,28 @@
 ## 元音（20个）
 ### 单元音12个
 
-| 短元音   | <span style="font-weight:normal;">/ɪ/</span>   |<span style="font-weight:normal;">/ə/</span>  | <span style="font-weight:normal;">/ɒ/</span>  | <span style="font-weight:normal;">/ʊ/</span>  | <span style="font-weight:normal;">/ʌ/</span>  | <span style="font-weight:normal;">/æ/</span>  | <span style="font-weight:normal;">/e/</span>  |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| **长元音**  | /i:/| /ɜ:/ | /ɔ:/|/u:/ | /ɑ:/ |     |
+| 短元音   | <span style="font-weight:normal;">/ɪ/ /ə/ /ɒ/ /ʊ/ /ʌ/ /æ/ /e/</span>  |
+|-----|-----|
+| **长元音**  | /i:/ /ɜ:/ /ɔ:/ /u:/ /ɑ:/ |
+
+
 
 ## 双元音8个
 
-| 双元音   | <span style="font-weight:normal;">/aɪ/</span>   |<span style="font-weight:normal;">/eɪ/</span>  | <span style="font-weight:normal;">/ɒɪ/</span>  | <span style="font-weight:normal;">/ɪə/</span>  | <span style="font-weight:normal;">/eə/</span>  | <span style="font-weight:normal;">/ʊə/</span>  | <span style="font-weight:normal;">/əʊ/</span>  | <span style="font-weight:normal;">/aʊ/</span>  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 双元音   | <span style="font-weight:normal;">/aɪ/ /eɪ/ /ɒɪ/ /ɪə/ /eə/ /ʊə/ /əʊ/ /aʊ/</span>  |
+|-----|-----|
 
 ## 辅音（28个）
 ### 清浊成对的辅音10对
-| 清辅音   | <span style="font-weight:normal;">/p/</span>   |<span style="font-weight:normal;">/t/</span>  | <span style="font-weight:normal;">/k/</span>  | <span style="font-weight:normal;">/s/</span>  | <span style="font-weight:normal;">/ts/</span>  | <span style="font-weight:normal;">/tr/</span>  | <span style="font-weight:normal;">/ʃ/</span>  | <span style="font-weight:normal;">/tʃ/</span>  | <span style="font-weight:normal;">/f/</span>  | <span style="font-weight:normal;">/θ/</span>  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|**浊辅音** |/b/|/d/|/g/|/z/|/dz/|/dr/|/ʒ/|/dʒ/|/v/|/ð/|
+| 清辅音   | <span style="font-weight:normal;">/p/ /t/ /k/ /s/ /ts/ /tr/ /ʃ/ /tʃ/ /f/ /θ/</span>  |
+|-----|-----|
+|**浊辅音** |/b/ /d/ /g/ /z/ /dz/ /dr/ /ʒ/ /dʒ/ /v/ /ð/|
+
 
 ### 其他辅音8个
 
-| 其他辅音   | <span style="font-weight:normal;">/h/</span>   |<span style="font-weight:normal;">/m/</span>  | <span style="font-weight:normal;">/n/</span>  | <span style="font-weight:normal;">/ŋ/</span>  | <span style="font-weight:normal;">/ǀ/</span>  | <span style="font-weight:normal;">/r/</span>  | <span style="font-weight:normal;">/w/</span>  | <span style="font-weight:normal;">/j/</span>  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 其他辅音   | <span style="font-weight:normal;">/h/ /m/ /n/ /ŋ/ /ǀ/ /r/ /w/ /j/</span>  |
+|-----|-----|
 
 ```
 the在元音前读[ði],在辅音前读[ðə]，而元辅音的判断不是第一个单词，而是第一个音素，或说发音。
