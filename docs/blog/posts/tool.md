@@ -24,8 +24,11 @@ tags:
 | `win+I`     | 设置 |
 | `win+R`    | shell |
 | `win+shift+s`| 截屏 |
-| `win+.`   |打开emoji|
-|`win+c`   |打开Copilot |
+| `win+.`    |打开emoji|
+|`win+C`  |打开Copilot|
+|`win+tab`   |打开任务视图 |
+|`win+ctrl+左右`|切换任务视图桌面 |
+|`win+ctrl+D` |新建任务视图桌面 |
 
 ==for vscode==
 
