@@ -36,7 +36,6 @@ PET-Power Electronic Transformer，电力电子变压器
 !!! abstract
     会议投稿。2月20日截至！！！
 
-专利交底书
 会议论文
 视频录制
 
