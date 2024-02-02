@@ -18,6 +18,7 @@ nav:
       - En Learn:
           - Larry语法课: major/EN-learn/Larry.md
           - phrase: major/EN-learn/phrase.md
+          - phonetic symbol: major/EN-learn/phonetic symbol.md
 
   - Interest:
       - interest/index.md
