@@ -8,3 +8,17 @@ a cheat sheet：a written or graphic aid (as a sheet of notes) that can be refer
 !!! example
     After a long day of programming, I created a cheat sheet with the most commonly used code snippets to save time during future projects.
 
+## verb phrase
+take forever:
+
+You take forever in front of the mirror in the morning.
+
+work overtime: means that an individual is working beyond their regular or standard working hours.
+
+I have to work overtime today to get it done.
+
+## casual conversation
+
+Can I gat you something to drink?你想喝点什么嘛？
+
+
