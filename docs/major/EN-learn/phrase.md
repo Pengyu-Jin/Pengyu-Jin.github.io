@@ -19,6 +19,9 @@ I have to work overtime today to get it done.
 
 ## casual conversation
 
-Can I gat you something to drink?你想喝点什么嘛？
+Can I gat you something to drink?你想喝点什么嘛？  
+
+Would you like an aisle or window seat?你想要靠走道的位置还是靠窗的位置？`alsle-/aɪl/`
+
 
 
