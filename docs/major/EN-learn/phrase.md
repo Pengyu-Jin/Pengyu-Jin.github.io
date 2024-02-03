@@ -5,8 +5,7 @@
 
 **a cheat sheet**：a written or graphic aid (as a sheet of notes) that can be referred to for help in understanding or remembering something complex
 
-🖍️After a long day of programming, I created a cheat sheet with the most commonly used code snippets to save time during future projects.
-
+&#x1F58D;&#xFE0F;After a long day of programming, I created a cheat sheet with the most commonly used code snippets to save time during future projects.
 
 
 ## verb phrase
