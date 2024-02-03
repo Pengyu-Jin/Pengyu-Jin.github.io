@@ -15,10 +15,6 @@
 
 ## 双元音8个
 
-| 双元音   | <span style="font-weight:normal;">/aɪ/ /eɪ/ /ɒɪ/ /ɪə/ /eə/ /ʊə/ /əʊ/ /aʊ/</span>  |
-|-----|-----|
-
-
 <table>
     <tr>
         <th>双元音</th>
@@ -37,11 +33,15 @@
 
 ### 其他辅音8个
 
-| 其他辅音   | <span style="font-weight:normal;">/h/ /m/ /n/ /ŋ/ /ǀ/ /r/ /w/ /j/</span>  |
-|-----|-----|
+<table>
+    <tr>
+        <th>其他辅音</th>
+        <td><span style="font-weight:normal;">/h/ /m/ /n/ /ŋ/ /ǀ/ /r/ /w/ /j/</span></td>
+    </tr>
+</table>
 
 
-# 发音
+## 发音
 
 ### 短元音
 短元音发音短促有力
@@ -120,7 +120,7 @@
 * `/w/` wet
 * `/j/` yellow
 
-## 对比
+## 发音细节对比
 
 ### f v w
  
@@ -139,7 +139,7 @@
     There are three persons who support the fourth player.
     /ðɛr/ /ɑr/ /θri/ /ˈpɜrsənz/ /hu/ /səˈpɔrt/ /ðə/ /fɔrθ/ /ˈpleɪər/.
 
-## 变化
+## 发音变化
 
 ### the
 !!! tips
