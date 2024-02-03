@@ -18,6 +18,16 @@
 | 双元音   | <span style="font-weight:normal;">/aɪ/ /eɪ/ /ɒɪ/ /ɪə/ /eə/ /ʊə/ /əʊ/ /aʊ/</span>  |
 |-----|-----|
 
+
+<table>
+    <tr>
+        <th>双元音</th>
+        <td><span style="font-weight:normal;">/aɪ/ /eɪ/ /ɒɪ/ /ɪə/ /eə/ /ʊə/ /əʊ/ /aʊ/</span></td>
+    </tr>
+</table>
+
+
+
 ## 辅音（28个）
 ### 清浊成对的辅音10对
 | 清辅音   | <span style="font-weight:normal;">/p/ /t/ /k/ /s/ /ts/ /tr/ /ʃ/ /tʃ/ /f/ /θ/</span>  |
@@ -30,8 +40,6 @@
 | 其他辅音   | <span style="font-weight:normal;">/h/ /m/ /n/ /ŋ/ /ǀ/ /r/ /w/ /j/</span>  |
 |-----|-----|
 
-
----
 
 # 发音
 
