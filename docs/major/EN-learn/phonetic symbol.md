@@ -1,8 +1,9 @@
-> 文章部分摘录自杨希杰的个人网站-[](){:target="_blank}
+> 文章部分摘录自[杨希杰的个人网站-讲稿-英语音标教学](https://yang-xijie.github.io/LECTURE/English/phonetic-symbol/){:target="_blank}
+> :partying_face:
 
-# 英语音标表
+# 英语音标
 
-这是一张英语音标表，包含48个音标，分为元音和辅音两部分。
+如下是一张英语音标表，包含48个音标，分为元音和辅音两部分。
 
 ## 元音（20个）
 ### 单元音12个
@@ -13,7 +14,7 @@
 
 
 
-## 双元音8个
+### 双元音8个
 
 <table>
     <tr>
@@ -137,6 +138,7 @@
 
 !!! example
     There are three persons who support the fourth player.
+
     /ðɛr/ /ɑr/ /θri/ /ˈpɜrsənz/ /hu/ /səˈpɔrt/ /ðə/ /fɔrθ/ /ˈpleɪər/.
 
 ## 发音变化
@@ -144,8 +146,9 @@
 ### the
 !!! tips
     the在元音前读[ði],在辅音前读[ðə]，而元辅音的判断不是第一个单词，而是第一个音素，或说发音。
-    如：
-    the United States的第一个音素是[j],半元音，按辅音读[ðə]
+
+    如：the United States的第一个音素是[j],半元音，按辅音读[ðə]
+
     /ðə/ /juˈnaɪtəd/ /steɪts/
 
 * the cat `/ðə/` 普通
