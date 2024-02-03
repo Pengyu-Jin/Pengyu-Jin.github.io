@@ -11,17 +11,20 @@
 ## verb phrase
 **take forever**: It is often used informally to express impatience, frustration, or exaggeration about the perceived slowness of a process, event, or task
 
-You take forever in front of the mirror in the morning.
+✒️You take forever in front of the mirror in the morning.
+
+
+:pen_ballpoint:
 
 **work overtime**: means that an individual is working beyond their regular or standard working hours.
 
-I have to work overtime today to get it done.
+✒️I have to work overtime today to get it done.
 
 ## casual conversation
 
-Can I gat you something to drink?你想喝点什么嘛？  
+Can I gat you something to drink? 你想喝点什么嘛？  
 
-Would you like an aisle or window seat?你想要靠走道的位置还是靠窗的位置？`alsle-/aɪl/`
+Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗的位置？`alsle-/aɪl/`
 
 
 
