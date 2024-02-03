@@ -11,11 +11,11 @@
 ## verb phrase
 **take forever**: It is often used informally to express impatience, frustration, or exaggeration about the perceived slowness of a process, event, or task
 
-:black_nib:You take forever in front of the mirror in the morning.
+✒️You take forever in front of the mirror in the morning.
 
 **work overtime**: means that an individual is working beyond their regular or standard working hours.
 
-:black_nib:I have to work overtime today to get it done.
+✒️I have to work overtime today to get it done.
 
 ## casual conversation
 
