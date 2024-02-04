@@ -34,6 +34,10 @@
 
 ✒️She saw her guests off at the front door after the party.
 
+**back sb. up**: means to support or assist someone, often in a challenging situation or in their actions or opinions. It can be used in various contexts to convey the idea of providing assistance or reinforcement.
+
+✒️My wife backed me up over my decision to quit my job.
+
 ## casual conversation
 
 Can I get you something to drink? 我给你拿点喝的嘛？
