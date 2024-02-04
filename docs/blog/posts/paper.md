@@ -11,7 +11,7 @@ tags:
 
 **检索和期刊评价体系**
 
-EE方向
+学术期刊科普and电气专业期刊排名
 
 <!-- more -->
 
@@ -87,6 +87,10 @@ EE方向
 
 ### 中国科学院的journal ranking🌏
 2023-12-27正式发布《2023年中国科学院文献情报中心期刊分区表》[收藏｜2023版SCI期刊影响因子及中科院分区](https://mp.weixin.qq.com/s/ZILlqI6PQIXH_Kp0iXWHtg){:target="_blank"}
+
+从2022年开始，只发布升级版分区结果。红色部分为国产SCI期刊。
+
+中国主办的五本电气工程领域SCI期刊依旧保持着良好的发展势头。分别是？？
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/1.png)
 

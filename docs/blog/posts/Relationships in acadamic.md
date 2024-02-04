@@ -47,7 +47,7 @@ tags:
     - SCI的内容不是原始文献全文，卖点是每年推出JCR，里面给出影响因子。
 
 
-`EI`
+*`EI`*
 
 :   Engineering information Inc.
 
@@ -79,15 +79,15 @@ ISI于1960年由Eugene Garfield创立。1992被加拿大汤姆森公司(The Thom
 
 至于现在的汤森路透[(Thomson Reuters)](http://thomsonreuters.com/){:target="_blank"}，成立于2008年4月17日，是由Thomson公司与英国路透集团(Reuters Group PLC)合并组成的商务和专业智能信息提供商。现在的路透社只是其新闻业务的一部分。以下就介绍一下Thomson Scientific的SCI相关的产品。
 
-`ISI web of knowledge`
+*`ISI web of knowledge`*
 
 :   Thomson Scientific的网络平台，收费的，通过[网址](http://apps.webofknowledge.com){:target="_blank"}进入,或通过你所在学校图书馆或机构网站提供的入口进入。该产品是汤森路透公司的online学术服务产品，它包含了子产品 “web of science”数据库以及其他资源。Web of science数据库就是我们平时检索SCI数据时所使用的网页，除SCI数据库外，Web of science数据库还包含另外的6个数据库：SSCI，AHCI，IC，CCR，CPCI:Science和CPCI:Social science and Humanities。
 
-`Master Journal List`
+*`Master Journal List`*
 
 :   是免费的，汤森路透公司提供的ISI收录的期刊总列表。包括SCI，SCI-E，AHCI，SSCI，CC等众多索引数据库收录的期刊的信息。现在ISI收录的期刊总数是16415个。其中SCI 3772个，SCI-E 8198个。
 
-`Journal Citation Reports`
+*`Journal Citation Reports`*
 
 :   ISI大概每年6月份公布上一年的期刊引用报告（Journal Citation Reports on the Web, JCR Web），JCR对包括SCI收录的SCI-Expanded（包括SCI核心区期刊）的期刊之间引用和被引用数据进行统计、运算，并针对每种期刊定义了影响因子(Impact Factor)等指数加以报道。
 
@@ -97,22 +97,22 @@ ISI于1960年由Eugene Garfield创立。1992被加拿大汤姆森公司(The Thom
 
 ## 关于ISBN、ISSN、EISSN、SICI、DOI的理解
 
-`ISBN`
+*`ISBN`*
 
 :   International Standard Book Number，国际标准图书编号，是专门为识别图书而设计的国际编号。
 
-`ISSN`
+*`ISSN`*
 
 :   International Standard Serial Number，国际标准连续出版物号，是为各种内容类型和载体类型的连续出版物（例如报纸、杂志期刊、年鉴等）所分配的具有唯一识别性的代码。[官方网站](https://portal.issn.org/){:target="_blank"}
 
-`EISSN`
+*`EISSN`*
 
 :   Electronic International Standard Serial Number，电子国际标准连续出版物号，主要用于标识电子版连续出版物。期刊出版物如果出版印刷版和电子版，就会具有两个ISSN号，一个是印刷版的ISSN，一个是电子版的ISSN号即EISSN。
 
-`SICI`
+*`SICI`*
 
 :   Serial Item and Contribution Identifier，连续出版物项目和贡献标识符，是一种用于标识期刊文章和其他连续出版物项的编码系统，旨在提供更精细的信息，包括出版物的卷号、期号、起始页码等。这种标识符有助于准确地引用和检索期刊文章。
 
-`DOI`
+*`DOI`*
 
 :   Digital Object Identifier，数字对象标识符，是一种用于标识数字对象（如网络文档、学术文章、电子书等）的系统，旨在提供持久性和唯一性的标识。通过使用DOI，可以确保对特定数字对象的可靠引用，不受其位置或格式的影响。DOI通常以类似于"10.1234/abcd"的格式表示。
