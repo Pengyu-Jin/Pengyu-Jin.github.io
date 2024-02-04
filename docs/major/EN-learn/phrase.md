@@ -1,12 +1,19 @@
-## normal
+## noun phrase
 **pros and cons**: the advantages and disadvantages of something
 
 **invaluable support**: extremely useful support
 
 **a cheat sheet**：a written or graphic aid (as a sheet of notes) that can be referred to for help in understanding or remembering something complex
 
-&#x1F58D;&#xFE0F;After a long day of programming, I created a cheat sheet with the most commonly used code snippets to save time during future projects.
+🖍️After a long day of programming, I created a cheat sheet with the most commonly used code snippets to save time during future projects.
 
+**jet lag**: "jet lag" refers to the physical and mental discomfort experienced by a person after a long flight across different time zones. 
+
+🖍️Every time I fly to the States,I get really bad jet lag.
+
+**blind date**: A "blind date" refers to a social engagement where two people who have not met each other before agree to meet for the purpose of getting to know each other, usually with the potential of developing a romantic relationship. 
+
+🖍️My parents met each other through a blind date.
 
 ## verb phrase
 **take forever**: It is often used informally to express impatience, frustration, or exaggeration about the perceived slowness of a process, event, or task
