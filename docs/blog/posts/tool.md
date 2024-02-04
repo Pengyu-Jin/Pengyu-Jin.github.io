@@ -42,6 +42,14 @@ tags:
 | ----------- | --------- |
 | `ctrl shift Q`| 行内axmath |
 
+==for markdown==
+
+| shortcut key | function |
+| ----------- | --------- |
+| `ctrl I`| 斜体 |
+| `ctrl B`| 加粗 |
+
+
 ## 话术
 
 We have carefully considered all comments from the reviewer and revised our manuscript accordingly. The manuscript has also been double-checked, and the typos and grammar errors we found have been corrected.
