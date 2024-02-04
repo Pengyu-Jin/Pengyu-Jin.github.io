@@ -15,4 +15,5 @@ categories:
 
 ## 常用软件
 **欧陆词典**：添加朗文词库和韦氏大学词库，参考bilibili的[up主-昂克英文君](https://www.bilibili.com/video/BV1fK4y1E7mC?p=1&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
+
 **word插件**：[小恐龙公文排版助手](https://xkonglong.com/){:target="_blank"}、AXmath

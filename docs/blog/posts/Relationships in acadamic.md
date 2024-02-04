@@ -13,6 +13,8 @@ tags:
 
 文章部分摘录自知乎-[作者：半妆先生](https://zhuanlan.zhihu.com/p/347071525){:target="_blank}
 
+**关于ISBN、ISSN、EISSN、SICI、DOI的理解**
+
 <!-- more -->
 
 ## 关于会议组织者、出版商、科研工作者的关系
@@ -91,3 +93,9 @@ ISI于1960年由Eugene Garfield创立。1992被加拿大汤姆森公司(The Thom
     JCR可以告知用户的信息包括：每种期刊在当前年被引用的总次数(Total Cites)、每种期刊的影响因子(即该刊前两年发表的文章在当前年的平均被引次数(Impact Factor))、每种期刊当前年发表的文章在当前年的平均被引次数(Immediacy Index)、每种期刊当前年的文章总数(Articles)、每种期刊论文研究课题的延续时间(Cited Half-life)、每种期刊的引用期刊列表(Citing Journal)、每种期刊的被引用期刊列表(Cited Journal)、每种期刊的影响因子在近几年的变化情况(Trends)、每种期刊的来源数据情况(Source Data)等。
 
 ==Thomson Scientific 还有许多著名的产品。如EndNote 和 Science Watch等。==
+
+## 关于ISBN、ISSN、EISSN、SICI、DOI的理解
+
+`ISBN`
+
+xxx

@@ -65,7 +65,9 @@ EE方向
     一般条件下，CSCD核心和扩展期刊都是北大核心期刊，所以CSCD更挑肥拣瘦些。一般情况下，中文稿能投CSCD就选CSCD吧。
 
 ## EE方向期刊
+### 电工技术学会的journal ranking🌏
 2023-07-10中国电工技术学会发布[电气工程领域高质量科技期刊分级目录（2022版）](https://www.ces.org.cn/html/report/23070728-1.htm){:target="_blank"}
+
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-28%20103510.png)
 
@@ -73,3 +75,20 @@ EE方向
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240128111136.png)
 
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240205004506.png)
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240205004651.png)
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240205004800.png)
+
+
+### 中国科学院的journal ranking🌏
+2023-12-27正式发布《2023年中国科学院文献情报中心期刊分区表》[收藏｜2023版SCI期刊影响因子及中科院分区](https://mp.weixin.qq.com/s/ZILlqI6PQIXH_Kp0iXWHtg){:target="_blank"}
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/1.png)
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/2.png)
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/3.png)
+
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/4.png)
