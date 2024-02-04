@@ -17,9 +17,19 @@
 
 ✒️I have to work overtime today to get it done.
 
+**come before**: means to take precedence or be considered more important than something else in terms of priority or order. 
+
+✒️Your family should always come before your job.
+
+**see sb. off**: it is a phrasal verb that means to accompany someone who is leaving, especially for a journey, to their point of departure, often as a gesture of farewell or to show support. When you "see someone off," you typically go with them to the airport, train station, bus stop, or another departure location and stay with them until they actually leave.
+
+✒️I'll come to the airport to see you off before your flight.
+
+✒️She saw her guests off at the front door after the party.
+
 ## casual conversation
 
-Can I gat you something to drink? 你想喝点什么嘛？  
+Can I get you something to drink? 我给你拿点喝的嘛？
 
 Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗的位置？`alsle-/aɪl/`
 
