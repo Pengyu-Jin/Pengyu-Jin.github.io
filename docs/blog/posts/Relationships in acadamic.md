@@ -38,14 +38,15 @@ tags:
 - 检索工具可能能帮你拿到论文的全文（比如Elsevier的Procedia的全文就是免费公开的，很方便下载）；
 - 也可能不能帮你拿到全文（比如IEEExplorer是收费的，LNCS也是收费的），需要有权限才能下载全文；
 
-`SCI`
+*`SCI`*
 
 :   SCI(Science Citation Index)是ISI（Institute Scientific Information）做的数据库，其特点为：
 
     - SCI不是出版商，只是数据库，不是具体某篇文章内容版权的拥有者；所以在SCI里面，能看到只是题目+摘要+参考文献；
     - SCI自己有一个自己确定的期刊列表，SCI只是从出版商处抓取某些期刊的论文里面的信息（题目/作者/摘要/参考文献），然后可能添加一些自己的信息，比如分类号一类的东西；
     - SCI的内容不是原始文献全文，卖点是每年推出JCR，里面给出影响因子。
-  
+
+
 `EI`
 
 :   Engineering information Inc.
