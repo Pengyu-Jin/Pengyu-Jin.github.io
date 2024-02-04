@@ -72,7 +72,7 @@ SCI是由美国科学信息研究所(ISI)1961年创办出版的一部世界著�
 
 ISI通过它严格的选刊标准和评估程序挑选刊源，而且每年略有增减，从而做到SCI收录的文献能全面覆盖全世界最重要和最有影响力的研究成果。40多年来，SCI数据库不断发展，已经成为当代世界最为重要的大型数据库，被列在国际六大著名检索系统[^1]（SCI，EI，CA,SA，AJ，JST）和三大检索工具（SCI，EI，ISTP）之首。它不仅是一部重要的检索工具书，而且也是科学研究成果评价一项重要依据。在我国，经国家科学技术部有关部门和领导研究，决定从2000年的统计工作起，SCI论文统计用检索系统改为用SCIE。也就是说：如果某位作者的论文被2000年版以后的SCIE收录，就算是被SCI收录了。
 
-[^1]:参考Blog文章retrieval
+[^1]:参考Blog文章paper
 
 ISI于1960年由Eugene Garfield创立。1992被加拿大汤姆森公司(The Thomson Corporation)的分公司Thomson Scientific & Healthcare收购，于是就成了现在有名的Thomson ISI。后来这个分公司在2006年又分为Thomson Scientific 和 Thomson Healthcare两个子公司。
 
@@ -98,4 +98,20 @@ ISI于1960年由Eugene Garfield创立。1992被加拿大汤姆森公司(The Thom
 
 `ISBN`
 
-xxx
+:   International Standard Book Number，国际标准图书编号，是专门为识别图书而设计的国际编号。
+
+`ISSN`
+
+:   International Standard Serial Number，国际标准连续出版物号，是为各种内容类型和载体类型的连续出版物（例如报纸、杂志期刊、年鉴等）所分配的具有唯一识别性的代码。[官方网站](https://portal.issn.org/){:target="_blank"}
+
+`EISSN`
+
+:   Electronic International Standard Serial Number，电子国际标准连续出版物号，主要用于标识电子版连续出版物。期刊出版物如果出版印刷版和电子版，就会具有两个ISSN号，一个是印刷版的ISSN，一个是电子版的ISSN号即EISSN。
+
+`SICI`
+
+:   Serial Item and Contribution Identifier，连续出版物项目和贡献标识符，是一种用于标识期刊文章和其他连续出版物项的编码系统，旨在提供更精细的信息，包括出版物的卷号、期号、起始页码等。这种标识符有助于准确地引用和检索期刊文章。
+
+`DOI`
+
+:   Digital Object Identifier，数字对象标识符，是一种用于标识数字对象（如网络文档、学术文章、电子书等）的系统，旨在提供持久性和唯一性的标识。通过使用DOI，可以确保对特定数字对象的可靠引用，不受其位置或格式的影响。DOI通常以类似于"10.1234/abcd"的格式表示。

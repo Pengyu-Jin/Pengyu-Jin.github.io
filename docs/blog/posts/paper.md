@@ -68,6 +68,9 @@ EE方向
 ### 电工技术学会的journal ranking🌏
 2023-07-10中国电工技术学会发布[电气工程领域高质量科技期刊分级目录（2022版）](https://www.ces.org.cn/html/report/23070728-1.htm){:target="_blank"}
 
+图片中的ISSN/EISSN[^1]表示国际刊号，CN表示国内刊号。因此像序号14、15的期刊`CSEE JPES`和`MPCE`虽然名字是英文，语种是英文，但其实是国内创办的期刊，下一个section会详细解释。
+
+[^1]:参考Blog文章Relationships in acadamic
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-28%20103510.png)
 
