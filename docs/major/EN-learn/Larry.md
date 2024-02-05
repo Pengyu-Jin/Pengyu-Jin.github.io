@@ -1,5 +1,7 @@
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/Jin-Pengyu/pdf/c135dc7f898a103d5118142c47ad9de74705b2f0/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf" width="100%" height="600px"></iframe>
+
+
+[预览PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/Jin-Pengyu/pdf/c135dc7f898a103d5118142c47ad9de74705b2f0/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf){:target="_blank"}
 
 
 视频链接：[搭建你的英语语法体系——Larry想做技术大佬](https://www.bilibili.com/video/BV1jF411r73p/?spm_id_from=333.999.0.0&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
