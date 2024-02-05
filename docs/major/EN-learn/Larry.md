@@ -3,6 +3,26 @@
 
 [123pdf](https://github.com/Jin-Pengyu/pdf/raw/main/%E8%AF%BE%E8%A1%A8.pdf){:target="_blank"}
 
+<script src="docs\PDFObject-2.2.12\pdfobject.js"></script>
+<script>
+    function openPDF(pdfUrl, target) {
+        // Embed the PDF using PDFObject
+        PDFObject.embed(pdfUrl, "#pdf-viewer");
+
+        // Open the new tab/window
+        window.open("", target);
+
+        // Prevent the default link behavior
+        return false;
+    }
+</script>
+
+<div id="pdf-viewer"></div>
+
+
+
+
+
 
 视频链接：[搭建你的英语语法体系——Larry想做技术大佬](https://www.bilibili.com/video/BV1jF411r73p/?spm_id_from=333.999.0.0&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
