@@ -96,7 +96,7 @@ tags:
 
 中国主办的五本电气工程领域SCI期刊依旧保持着良好的发展势头。分别是：
   - Protection and Control of Modern Power Systems (PCMP) 
-  - CSEE Journal of Power and Energy Systems (CSEE JPES)，这里的CSEE指的是[中国电机工程学会](https://www.csee.org.cn/index.html){:target="_blank"}，全称为Chinese Society for Electrical Engineering
+  - CSEE Journal of Power and Energy Systems (CSEE JPES)，这里的CSEE指的是[中国电机工程学会](https://www.csee.org.cn/index.html){:target="_blank"}，全称为Chinese Society for Electrical Engineering。当年被SCI收录时的[交大电气快讯](https://eei.sjtu.edu.cn/display.php?id=686){:target="_blank"}
   - Journal of Modern Power Systems and Clean Energy (MPCE)
   - Hign Voltage
   - Plasma Science & Technology
