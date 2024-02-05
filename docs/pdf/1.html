@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Preview</title>
+    <script src="docs\PDFObject-2.2.12\pdfobject.js"></script>
+    <script>
+        function loadPDF() {
+            // Embed the PDF using PDFObject
+            PDFObject.embed("https://github.com/Jin-Pengyu/pdf/raw/main/%E8%AF%BE%E8%A1%A8.pdf", "#pdf-viewer");
+        }
+
+        // Call the loadPDF function when the page is loaded
+        window.onload = loadPDF;
+    </script>
+</head>
+<body>
+    <div id="pdf-viewer"></div>
+</body>
+</html>
