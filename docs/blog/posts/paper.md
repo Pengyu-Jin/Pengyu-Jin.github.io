@@ -88,9 +88,19 @@ tags:
 ### 中国科学院的journal ranking🌏
 2023-12-27正式发布《2023年中国科学院文献情报中心期刊分区表》[收藏｜2023版SCI期刊影响因子及中科院分区](https://mp.weixin.qq.com/s/ZILlqI6PQIXH_Kp0iXWHtg){:target="_blank"}
 
-从2022年开始，只发布升级版分区结果。红色部分为国产SCI期刊。
+从2022年开始，只发布升级版[^2]分区结果。红色部分为国产SCI期刊。
 
-中国主办的五本电气工程领域SCI期刊依旧保持着良好的发展势头。分别是？？
+2023年期刊分区表收录期刊为自然科学期刊（SCIE）、社会科学期刊（SSCI）和ESCI收录的中国期刊（自科+社科），共设置了21个大类
+
+[^2]:中科院分区表的升级版比基础版，大类设置更多，期刊范围更广，采用JSI-期刊超越指数。
+
+中国主办的五本电气工程领域SCI期刊依旧保持着良好的发展势头。分别是：
+  - Protection and Control of Modern Power Systems (PCMP) 
+  - CSEE Journal of Power and Energy Systems (CSEE JPES)，这里的CSEE指的是[中国电机工程学会](https://www.csee.org.cn/index.html){:target="_blank"}，全称为Chinese Society for Electrical Engineering
+  - Journal of Modern Power Systems and Clean Energy (MPCE)
+  - Hign Voltage
+  - Plasma Science & Technology
+以上5本期刊中，除了MPCE，其他也都在电工技术学会的ranking中。
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/1.png)
 
@@ -99,3 +109,11 @@ tags:
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/3.png)
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/4.png)
+
+!!! tip
+    1.top期刊是中科院所选的代表各个领域最优秀的期刊，每年会与分区一起公布。
+
+    2.表中小类分区仅展示排名靠前的结果，例如：IEEE Transactions on Industry Applications在工程：综合小类中分区为2，在工程：电子与电气小类中分区为3，表中展示其在工程：综合小类的分区。
+
+    3.需要注意的是，一本期刊只可属于一个大类，但可以属于多个不同的小类。例如期刊IEEE Access只属于“工程技术”大类，但具体可进一步细分为3个小类，分别是计算机：信息系统、工程：电气与电子、电信学。
+
