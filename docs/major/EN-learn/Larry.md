@@ -1,6 +1,5 @@
-[123pdf](https://github.com/Jin-Pengyu/pdf/blog/main/%E8%AF%BE%E8%A1%A8.pdf){:target="_blank"}
 
-[123pdf](https://github.com/Jin-Pengyu/pdf/raw/main/%E8%AF%BE%E8%A1%A8.pdf){:target="_blank"}
+[123pdf](D:\mkdocs-site\docs\blog\pdf\1.html){:target="_blank"}
 
 
 视频链接：[搭建你的英语语法体系——Larry想做技术大佬](https://www.bilibili.com/video/BV1jF411r73p/?spm_id_from=333.999.0.0&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
