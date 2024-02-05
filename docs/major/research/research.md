@@ -4,6 +4,8 @@ MFT-Medium Frequency Transformer，中频变压器，连接低压直流和中压
 
 PET-Power Electronic Transformer，电力电子变压器
 
+含金量：SCI正刊＞SCI专刊＞EI期刊＞中文核心≥EI会议＞＞中文普刊≥英文普刊
+
 ## Remember:hugging:
 !!! success
     永远要放弃一种"等到啥啥啥时候，我就能啥啥啥"的想法。
