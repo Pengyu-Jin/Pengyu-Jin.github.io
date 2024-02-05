@@ -1,12 +1,10 @@
 ---
 title: paper
-date: 2024-01-28
+date: 2024-02-05
 authors: [Pengyu-Jin]
 slug: paper
 categories:
   - Research
-tags:
-  - popularization
 ---
 
 **检索和期刊评价体系**
@@ -95,6 +93,7 @@ tags:
 [^2]:中科院分区表的升级版比基础版，大类设置更多，期刊范围更广，采用JSI-期刊超越指数。
 
 中国主办的五本电气工程领域SCI期刊依旧保持着良好的发展势头。分别是：
+
   - Protection and Control of Modern Power Systems (PCMP) 
   - CSEE Journal of Power and Energy Systems (CSEE JPES)，这里的CSEE指的是[中国电机工程学会](https://www.csee.org.cn/index.html){:target="_blank"}，全称为Chinese Society for Electrical Engineering。当年被SCI收录时的[交大电气快讯](https://eei.sjtu.edu.cn/display.php?id=686){:target="_blank"}
   - Journal of Modern Power Systems and Clean Energy (MPCE)
