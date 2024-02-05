@@ -1,8 +1,10 @@
-<!-- insert just before the closing body tag </body> -->
-<script src='docs\PDFObject-2.2.12\pdfobject.js'></script>
-<script>
-  PDFObject.embed("https://raw.githubusercontent.com/Jin-Pengyu/pdf/c135dc7f898a103d5118142c47ad9de74705b2f0/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf?inline=true");
-</script>
+
+[点击这里预览 PDF](javascript:(function() {
+    var pdfWindow = window.open("");
+    pdfWindow.document.write("<html><head><title>PDF预览</title></head><body style='margin:0;'><embed width='100%' height='100%' src='https://raw.githubusercontent.com/Jin-Pengyu/pdf/c135dc7f898a103d5118142c47ad9de74705b2f0/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf' type='application/pdf' /></body></html>");
+})())
+
+
 
 [ssss](docs\pdf\1.html)
 
