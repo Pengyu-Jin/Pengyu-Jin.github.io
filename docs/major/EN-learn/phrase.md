@@ -44,5 +44,13 @@ Can I get you something to drink? 我给你拿点喝的嘛？
 
 Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗的位置？`alsle-/aɪl/`
 
+## adjective phrase
+
+**brick and mortar**: relating to or being a traditional business serving customers in a building as contrasted to an online business.
+
+✏️The explosive growth of online shopping and the death of brick and mortar stores.
+
+
+
 
 
