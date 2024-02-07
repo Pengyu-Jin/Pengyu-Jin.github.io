@@ -16,4 +16,10 @@ categories:
 ## 常用软件
 **欧陆词典**：添加朗文词库和韦氏大学词库，参考bilibili的[up主-昂克英文君](https://www.bilibili.com/video/BV1fK4y1E7mC?p=1&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
-**word插件**：[小恐龙公文排版助手](https://xkonglong.com/){:target="_blank"}、AXmath
+**word插件**：[小恐龙公文排版助手](https://xkonglong.com/){:target="_blank"}、AXmath[^1]
+
+**idm[^2]-Internet Download Manager**：下载管理器，参考bilibili的[up主-赤峰飞人乔尔特](https://www.bilibili.com/video/BV1uT4y1h7y5/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
+
+[^1]:百度网盘/我的资源/Axmath
+
+[^2]:百度网盘/我的资源/idm
