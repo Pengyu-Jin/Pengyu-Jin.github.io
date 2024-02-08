@@ -18,3 +18,7 @@
 ## 2024-01-23
 人生绕绕远路也不错
 
+## 2024-02-08
+精通一件事需要10,000小时，但是学会一件事只需要20小时，You can get it!
+
+<iframe src="//player.bilibili.com/player.html?aid=50668972&bvid=BV144411b7Uk&cid=88706634&p=1"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="autoplay; encrypted-media" autoplay="false"> </iframe>
