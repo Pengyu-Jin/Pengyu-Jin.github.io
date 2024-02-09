@@ -23,6 +23,7 @@ tags:
 | `win+上下左右`| 分屏  |
 | `win+I`     | 设置 |
 | `win+R`    | shell |
+|`win+L`     | 锁屏 |
 | `win+shift+s`| 截屏 |
 | `win+.`    |打开emoji|
 |`win+C`  |打开Copilot|
@@ -40,14 +41,16 @@ tags:
 
 | shortcut key | function |
 | ----------- | --------- |
-| `ctrl shift Q`| 行内axmath |
+| `ctrl+shift+Q`| 行内axmath |
+|`alt+Q`| 行间axmath |
 
 ==for markdown==
 
 | shortcut key | function |
 | ----------- | --------- |
-| `ctrl I`| 斜体 |
-| `ctrl B`| 加粗 |
+| `ctrl+I`| 斜体 |
+| `ctrl+B`| 加粗 |
+|`shift+H`| 高亮 |
 
 
 ## 话术

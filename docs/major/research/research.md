@@ -89,6 +89,20 @@ IS——Information System
 
 IC——Integrated Circuit 
 
+## 重要国际学术会议目录
+
+会议排名来源：[清华大学图书馆-投稿导引](https://lib.tsinghua.edu.cn/kyzc/tgdy.htm){:target="_blank"}
+会议排名文件：[清华大学各院系（学科）重要国际学术会议目录-2020](){:target="_blank"}
+
+!!! note
+    - 顶尖级国际会议
+    - A类会议：表示国际上极少数的顶级刊物和会议，鼓励我国学者去突破
+    - B类会议：指国际上著名和非常重要的会议、刊物，代表一领域的较高水平，鼓励国内同行投稿
+    - C类会议：指国际上重要、为国际学术界所认可的会议和刊物
+    - 其他会议
+
+    按ABC分类的来源：[中国计算机学会启动“CCF推荐国际学术刊物和国际会议目录”的制定工作](https://www.ccf.org.cn/YOCSEF/Branches/YOCSEF/News/2007-01-05/614350.shtml){:target="_blank"}
+
 ## Newsletter:newspaper:
 >文章来源:[国家自然科学基金委，2024年电气工程领域研究热点](https://www.nsfc.gov.cn/publish/portal0/tab1514/info91204.htm){:target="_blank"}
 
