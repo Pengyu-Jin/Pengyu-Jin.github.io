@@ -1,28 +1,4 @@
-<!-- 在Markdown文件中插入HTML代码 -->
-<a id="pdfLink" href="#" target="_blank">View PDF</a>
-
-<script>
-    // 在JavaScript中定义打开PDF的函数
-    function openPdf() {
-        var pdfUrl = 'https://raw.githubusercontent.com/Jin-Pengyu/pdf/2c1906b80c3f3ea327c54ff5b88f5bb48ea6f75a/%E8%AF%BE%E8%A1%A8.pdf';
-        var viewerUrl = 'https://mozilla.github.io/pdf.js/web/viewer.html';
-
-        // 创建一个新的窗口
-        var newWindow = window.open(viewerUrl, '_blank');
-
-        // 在新窗口中加载 PDF 文件
-        newWindow.onload = function () {
-            newWindow.PDFViewerApplication.open(pdfUrl);
-        };
-    }
-
-    // 将函数绑定到链接的点击事件上
-    document.getElementById('pdfLink').addEventListener('click', openPdf);
-</script>
-
-
-
-
+[View PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/Jin-Pengyu/pdf/2c1906b80c3f3ea327c54ff5b88f5bb48ea6f75a/%E8%AF%BE%E8%A1%A8.pdf){:target="_blank"}
 
 
 

@@ -46,7 +46,6 @@ nav:
 theme:
   font:
     text: Poppins
-  custom_dir: docs/pdfjs
 
   font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
   font-weight: 450;
@@ -164,3 +163,9 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # https://cdn.bytedance.com/?query=mathjax&version=3.2.0
 
+extra_javascript:
+  - 'https://mozilla.github.io/pdf.js/build/pdf.js'
+  - 'https://mozilla.github.io/pdf.js/build/pdf.worker.js'
+
+extra_css:
+  - 'https://mozilla.github.io/pdf.js/web/viewer.css'
