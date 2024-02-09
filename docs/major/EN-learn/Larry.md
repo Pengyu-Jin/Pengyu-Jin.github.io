@@ -1,5 +1,3 @@
-[View PDF](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/Jin-Pengyu/pdf/2c1906b80c3f3ea327c54ff5b88f5bb48ea6f75a/%E8%AF%BE%E8%A1%A8.pdf){:target="_blank"}
-
 
 
 视频链接：[搭建你的英语语法体系——Larry想做技术大佬](https://www.bilibili.com/video/BV1jF411r73p/?spm_id_from=333.999.0.0&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
