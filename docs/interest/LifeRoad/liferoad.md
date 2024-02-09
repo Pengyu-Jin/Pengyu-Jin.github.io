@@ -22,3 +22,10 @@
 精通一件事需要10,000小时，但是学会一件事只需要20小时，You can get it!
 
 <iframe src="//player.bilibili.com/player.html?aid=50668972&bvid=BV144411b7Uk&cid=88706634&p=1"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="autoplay; encrypted-media" autoplay="false"> </iframe>
+
+## 2024-02-09
+田老师的这个习惯非常有趣，每到一个新的地方，买一份当地的报纸，收藏起来。[在成长中记录，在记录中成长](https://www.bilibili.com/video/BV1q6421u7XP/?spm_id_from=333.1365.list.card_archive.click&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
+
+!!! quote
+    没有一件事情是白白经历的，没有一件事情是没有意义的。将人生的旅程、成长的阶段进行记录，回过头时便是宝贵的财富。
+
