@@ -3,7 +3,7 @@
 
 本地文件能打开吗？不能呜呜呜
 
-<embed src="[img/1.pdf](https://raw.githubusercontent.com/Jin-Pengyu/pdf/main/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf)" type="application/pdf" width="100%" height="480px">	
+<embed src="https://raw.githubusercontent.com/Jin-Pengyu/pdf/main/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf" type="application/pdf" width="100%" height="480px">	
 
 视频链接：[搭建你的英语语法体系——Larry想做技术大佬](https://www.bilibili.com/video/BV1jF411r73p/?spm_id_from=333.999.0.0&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
