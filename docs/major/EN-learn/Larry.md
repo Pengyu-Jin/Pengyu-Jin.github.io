@@ -3,7 +3,33 @@
 
 本地文件能打开吗？不能呜呜呜
 
-<embed src="https://raw.githubusercontent.com/Jin-Pengyu/pdf/main/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf" type="application/pdf" width="100%" height="480px">	
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/Jin-Pengyu/pdf/main/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf" width="100%" height="600px"></iframe>
+
+
+
+<!-- 在Markdown文件中插入HTML代码 -->
+<a id="pdfLink" href="#" target="_blank">View PDF</a>
+
+<script>
+    // 在JavaScript中定义打开PDF的函数
+    function openPdf() {
+        var pdfUrl = 'https://raw.githubusercontent.com/Jin-Pengyu/pdf/2c1906b80c3f3ea327c54ff5b88f5bb48ea6f75a/%E8%AF%BE%E8%A1%A8.pdf';
+        window.open('pdfjs/web/viewer.html?file=' + encodeURIComponent(pdfUrl), '_blank');
+    }
+
+    // 将函数绑定到链接的点击事件上
+    document.getElementById('pdfLink').addEventListener('click', openPdf);
+</script>
+
+
+
+
+
+
+
+
+
+
 
 视频链接：[搭建你的英语语法体系——Larry想做技术大佬](https://www.bilibili.com/video/BV1jF411r73p/?spm_id_from=333.999.0.0&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
