@@ -46,7 +46,7 @@ nav:
 theme:
   font:
     text: Poppins
-  custom_dir: D:\mkdocs-site\docs\pdfjs
+  custom_dir: docs\pdfjs
 
   font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
   font-weight: 450;
