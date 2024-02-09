@@ -1,12 +1,4 @@
 
-[123pdf](file:///D:/mkdocs-site/docs/pdf/1.html){:target="_blank"}
-
-本地文件能打开吗？不能呜呜呜
-
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/Jin-Pengyu/pdf/main/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf" width="100%" height="600px"></iframe>
-
-
-
 <!-- 在Markdown文件中插入HTML代码 -->
 <a id="pdfLink" href="#" target="_blank">View PDF</a>
 
@@ -20,11 +12,6 @@
     // 将函数绑定到链接的点击事件上
     document.getElementById('pdfLink').addEventListener('click', openPdf);
 </script>
-
-
-
-
-
 
 
 
