@@ -22,7 +22,7 @@ categories:
 
 **Adobe Acrobat[^3]**：Adobe PDF阅读器，参考bilibili的[up主-云渲视觉](https://www.bilibili.com/video/BV1nB4y1o7Py/?spm_id_from=333.337.search-card.all.click&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
-**SimpleTex[^4]**：公式识别，生成对应的LaTex代码。[SimpleTex主页](https://simpletex.cn/){:target="_blank"}
+**SimpleTex**：公式识别，生成对应的LaTex代码。[SimpleTex主页](https://simpletex.cn/){:target="_blank"}
 
 [^1]:百度网盘/我的资源/Axmath
 
@@ -30,4 +30,4 @@ categories:
 
 [^3]:百度网盘/我的资源/Adobe Acrobat
 
-[^4]:百度网盘/我的资源/SimpleTex
+
