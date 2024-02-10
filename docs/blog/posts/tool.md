@@ -52,6 +52,12 @@ tags:
 | `ctrl+B`| 加粗 |
 |`shift+H`| 高亮 |
 
+==for google chrome==
+
+| shortcut key | function |
+| ----------- | --------- |
+| `ctrl+shift+T`| 恢复关闭的标签页 |
+|  `alt+V`  |打开侧边栏|
 
 ## 话术
 
