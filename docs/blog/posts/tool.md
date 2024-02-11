@@ -5,8 +5,6 @@ authors: [Pengyu-Jin]
 slug: efficient configuration
 categories:
   - Research
-tags:
-  - tool
 ---
 **Tool**
 
