@@ -5,8 +5,6 @@ authors: [Pengyu-Jin]
 slug: Relationships in acadamic
 categories:
   - Research
-tags:
-  - popularization
 ---
 
 **关于ISI、SCI、EI、IEEE、Elsevier、Springer的理解**
