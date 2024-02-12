@@ -24,6 +24,8 @@ categories:
 
 **SimpleTex**：公式识别，生成对应的LaTex代码。[SimpleTex主页](https://simpletex.cn/){:target="_blank"}
 
+**PicGo**：上传图片到图床的软件，获取对应的URL。[PicGo主页](https://picgo.github.io/PicGo-Doc/){:target="_blank"}
+
 [^1]:百度网盘/我的资源/Axmath
 
 [^2]:百度网盘/我的资源/idm
