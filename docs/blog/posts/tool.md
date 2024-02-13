@@ -57,6 +57,14 @@ categories:
 | `ctrl+shift+T`| 恢复关闭的标签页 |
 |  `alt+V`  |打开侧边栏|
 
+==for Adobe Acrobat==
+
+| shortcut key | function |
+| ----------- | --------- |
+| `双击高亮注释`| 添加or查看文本注释 |
+
+
+
 ## 话术
 
 We have carefully considered all comments from the reviewer and revised our manuscript accordingly. The manuscript has also been double-checked, and the typos and grammar errors we found have been corrected.
