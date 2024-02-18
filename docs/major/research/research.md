@@ -15,10 +15,9 @@
 !!! abstract
     会议投稿。2月20日截至！！！
 
-会议论文
 视频录制
 
-sumatra PDF+sublime+Texlive=高效科研，加油
+sumatra PDF+sublime+Texlive=高效科研，加油！
 
 电力电子学习：
 
@@ -30,7 +29,7 @@ sumatra PDF+sublime+Texlive=高效科研，加油
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
-寒假整理：[完善markdown语法](https://teedoc.neucrack.com/get_started/zh/syntax/syntax_markdown.html){:target="_blank"}
+整理：[完善markdown语法](https://teedoc.neucrack.com/get_started/zh/syntax/syntax_markdown.html){:target="_blank"}
 
 2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
 
