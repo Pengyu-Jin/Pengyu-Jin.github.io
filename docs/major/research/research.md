@@ -33,7 +33,9 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 
 2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
 
-申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}
+申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
+
+
 
 !!! tip
     Those who refuse to accept their destiny should seize every opportunity to make a difference in their lives.
