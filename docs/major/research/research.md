@@ -19,6 +19,8 @@
 
 sumatra PDF+sublime+Texlive=高效科研，加油！
 
+主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
+
 电力电子学习：
 
 - [西瓜粥](https://space.bilibili.com/287344644/?spm_id_from=333.999.0.0){:target="_blank"}
