@@ -241,14 +241,10 @@ e.g.3
 
 - <u>I don't wear clothes</u>, which makes me different from others.我不穿衣服，这让我与众不同。
 - I don't wear <u>clothes</u> which make me different from others.我不穿奇装异服。
-
 <br></br>
-
 - Michael knows a <u>doctor</u>, who has three sons working in the hospital.麦扣认识一名医生（核心句），顺带一说，他有三个在医院工作的儿子。（补充额外信息）
 - Michael knows a <u>doctor</u> who has three sons working in the hospital.麦扣认识的这个医生，是三个儿子都在医院工作的医生。（限制性，具有筛选性，从千千万万个医生中筛选了出来。）
-  
 <br></br>
-
 - This is the <u>school</u>,where we made lifelong friendships.
 - This is the <u>school</u> where we made lifelong friendships.筛选
 
@@ -277,9 +273,7 @@ Beijing which is capital of China is a great city.（×）
     - Einstein,==who was a great scientist==,created the theory of relativity.（There is only one Einstein in this world,though he's dead already）
 - 限制性
     - The Einstein ==who was played by 王俊凯== in that movie looks funny.（There can be various Einstein in lots of movies）
-
 <br></br>
-
 - 非限制性
     - 张三,==who teaches us English==,is a cool guy.（There is only one 张三 within this small group of people）
 - 限制性
@@ -288,9 +282,7 @@ Beijing which is capital of China is a great city.（×）
 张三 who teaches us English is a cool guy.（×）
 
 教我们英语的张三只有一个，大家都懂这人是谁，因此不能够被“限定”，除非说话人认识好几个张三。
-
 <br></br>
-
 - 非限制性
     - My grandmother,==who is 70 years old==,loves programming.（I have only one grandmother）
 - 限制性
@@ -310,7 +302,7 @@ Beijing which is capital of China is a great city.（×）
 - This is my hometown which a lot of people know.（×）
 
 hometown="专有名词"，一般人只有一个家乡，因此不能被筛选
-
+<br></br>
 - <u>My high school</u>,==which has sent a lot of students to Tsinghua University and Peking University==,is a good one.
 - My high school which has sent a lot of students to Tsinghua University and Peking University,is a good one.（×）
 
