@@ -341,13 +341,9 @@ my high school="专有名词"，一般人只有一个高中，因此不能筛选
 
 ## 副词性从句（状语从句）
 
-
+[课件_3.7_副词性从句.pdf](../pdf_collection/课件_3.7_副词性从句.pdf)
 
 <object data="../pdf_collection/课件_3.7_副词性从句.pdf" type="application/pdf" width="100%" height="800">
     <embed src="../pdf_collection/课件_3.7_副词性从句.pdf" />
 </object>
-
-![](https://github.com/Jin-Pengyu/image-bed/blob/main/img/20231217184142.png?raw=true)
-
-![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20231217190216.png)
 
