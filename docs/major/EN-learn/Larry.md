@@ -304,6 +304,7 @@ Beijing which is capital of China is a great city.（×）
 
 hometown="专有名词"，一般人只有一个家乡，因此不能被筛选
 <br></br>
+
 - <u>My high school</u>,==which has sent a lot of students to Tsinghua University and Peking University==,is a good one.
 - My high school which has sent a lot of students to Tsinghua University and Peking University,is a good one.（×）
 
