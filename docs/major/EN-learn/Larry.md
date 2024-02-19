@@ -341,20 +341,13 @@ my high school="专有名词"，一般人只有一个高中，因此不能筛选
 
 ## 副词性从句（状语从句）
 
-<object data="https://raw.githubusercontent.com/Jin-Pengyu/pdf/c135dc7f898a103d5118142c47ad9de74705b2f0/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf?inline=true" type="application/pdf" width="100%" height="800">
-    <embed src="https://raw.githubusercontent.com/Jin-Pengyu/pdf/c135dc7f898a103d5118142c47ad9de74705b2f0/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf?inline=true" type="application/pdf" />
+
+
+<object data="../pdf_collection/课件_3.7_副词性从句.pdf" type="application/pdf" width="100%" height="800">
+    <embed src="../pdf_collection/课件_3.7_副词性从句.pdf" />
 </object>
 
 ![](https://github.com/Jin-Pengyu/image-bed/blob/main/img/20231217184142.png?raw=true)
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20231217190216.png)
 
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-[副词性从句讲义](https://raw.githubusercontent.com/Jin-Pengyu/pdf/c135dc7f898a103d5118142c47ad9de74705b2f0/%E8%AF%BE%E4%BB%B6_3.7_%E5%89%AF%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5.pdf?inline=true)
