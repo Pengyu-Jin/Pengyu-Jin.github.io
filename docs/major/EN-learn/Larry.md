@@ -237,7 +237,7 @@ e.g.3
     1. 有逗号
     2. 关系词只能用which（极少用that）,who（极少用that）,where,when
 
-e.g.1
+:bookmark_tabs:e.g.1
 
 - <u>I don't wear clothes</u>, which makes me different from others.我不穿衣服，这让我与众不同。
 - I don't wear <u>clothes</u> which make me different from others.我不穿奇装异服。
@@ -260,7 +260,7 @@ e.g.1
     2. 即便是相同的先行词（皆为名词短语），限制性、非限制性定语从句的意思也不相同。
     3. 某些先行词，只能使用非限制性定语从句，不能使用限制性定语从句。（因为世界上有些事物是独一无二的，没有办法筛选）
 
-e.g.2【专有名词做先行词：地点】
+:bookmark_tabs:e.g.2【专有名词做先行词：地点】
 
 - 非限制性
     - Bejing,==which is capital of China==,is a great city.（There is only one Bejing in this world）
@@ -271,14 +271,14 @@ e.g.2【专有名词做先行词：地点】
 
 Beijing which is capital of China is a great city.（×）
 
-e.g.3【专有名词做先行词：人物】
+:bookmark_tabs:e.g.3【专有名词做先行词：人物】
 
 - 非限制性
     - Einstein,==who was a great scientist==,created the theory of relativity.（There is only one Einstein in this world,though he's dead already）
 - 限制性
     - The Einstein ==who was played by 王俊凯== in that movie looks funny.（There can be various Einstein in lots of movies）
 
-e.g.4【专有名词做先行词：人物】
+<br></br>
 
 - 非限制性
     - 张三,==who teaches us English==,is a cool guy.（There is only one 张三 within this small group of people）
@@ -289,7 +289,7 @@ e.g.4【专有名词做先行词：人物】
 
 教我们英语的张三只有一个，大家都懂这人是谁，因此不能够被“限定”，除非说话人认识好几个张三。
 
-e.g.5【专有名词做先行词：人物】
+<br></br>
 
 - 非限制性
     - My grandmother,==who is 70 years old==,loves programming.（I have only one grandmother）
@@ -297,14 +297,14 @@ e.g.5【专有名词做先行词：人物】
     - My grandmother ==who loves programming== is 70 years old.（×，你还有喜欢烹饪的奶奶吗）
     - My grandmother ==who is 70 years old== loves programming.（×，你还有其他岁数的奶奶吗）
 
-e.g.7【要看清先行词是哪一个】
+:bookmark_tabs:e.g.4【要看清先行词是哪一个】
 
 - 非限制性
     - I went to <u>Xiamen</u>,==which is one of the most beautiful cities in China==.（There is only one Xiamen in China）
 - 限制性
     - Xiamen is a <u>city</u> ==which is known for its great landscape==.（There are many cities in China.Xiamen is a special one）
 
-e.g.8【普通名词也可能变成“专有名词”】
+:bookmark_tabs:e.g.5【普通名词也可能变成“专有名词”】
 
 - This is <u>my hometown</u>,==which a lot of people know==.
 - This is my hometown which a lot of people know.（×）
@@ -316,7 +316,7 @@ hometown="专有名词"，一般人只有一个家乡，因此不能被筛选
 
 my high school="专有名词"，一般人只有一个高中，因此不能筛选
 
-e.g.9【意义有何不同：限制VS非限制】
+:bookmark_tabs:e.g.6【意义有何不同：限制VS非限制】
 
 - My uncle,who always drinks a lot,is liked by nobody.我叔叔这人吧，没人喜欢他，（对了），他总是喝很多酒。
 - My uncle who always drinks a lot is liked by nobody.我爱喝酒的那个叔叔没人喜欢。
@@ -330,7 +330,7 @@ e.g.9【意义有何不同：限制VS非限制】
 - This is the time,when we need to come together.时不我待，我们应该联合起来。
 - This is the time when we need to come together.此时此刻就是我们应该联合起来的时候。
 
-summary【总结：限制性=筛选，非限制性=顺便提一嘴】
+:material-bookmark:summary【总结：限制性=筛选，非限制性=顺便提一嘴】
 
 - I have a friend who never washes his face.**我有一个从不洗脸的朋友。**
 - 1.我的朋友或许有不少；2.其中一个朋友从不洗脸；3.我其他的朋友（大概率）都是洗脸的。
