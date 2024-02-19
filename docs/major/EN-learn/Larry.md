@@ -233,18 +233,21 @@ e.g.3
 
 ### 限制性和非限制性
 
-- 非限制性定语从句的简单判断：
-    - 1.有逗号
-    - 2.关系词只能用which（极少用that）,who（极少用that）,where,when
+!!! abstract 非限制性定语从句的简单判断
+    1. 有逗号
+    2. 关系词只能用which（极少用that）,who（极少用that）,where,when
 
 e.g.1
 
-- <u>I don't wear clothes</u>,which makes me different from others.我不穿衣服，这让我与众不同。
+- <u>I don't wear clothes</u>, which makes me different from others.我不穿衣服，这让我与众不同。
 - I don't wear <u>clothes</u> which make me different from others.我不穿奇装异服。
 
+<br></br>
 
-- Michael knows a <u>doctor</u>,who has three sons working in the hospital.麦扣认识一名医生（核心句），顺带一说，他有三个在医院工作的儿子。（补充额外信息）
-- Michael knows a <u>doctor</u> who has three sons working in the hospital.麦扣认识的这个医生，是三个儿子都在医院工作的医生。限制性，具有筛选性，从千千万万个医生中筛选了出来。
+- Michael knows a <u>doctor</u>, who has three sons working in the hospital.麦扣认识一名医生（核心句），顺带一说，他有三个在医院工作的儿子。（补充额外信息）
+- Michael knows a <u>doctor</u> who has three sons working in the hospital.麦扣认识的这个医生，是三个儿子都在医院工作的医生。（限制性，具有筛选性，从千千万万个医生中筛选了出来。）
+  
+<br></br>
 
 - This is the <u>school</u>,where we made lifelong friendships.
 - This is the <u>school</u> where we made lifelong friendships.筛选
@@ -252,15 +255,12 @@ e.g.1
 - I still remember the <u>summer</u>,when we had an unforgettable road trip.
 - I still remember the <u>summer</u> when we had an unforgettable road trip.筛选
 
-e.g.2【注】
+!!! warning 注意
+    1. 非限制性定语从句的先行词十分多样化，而限制性定语从句的先行词往往是单纯的名词短语。
+    2. 即便是相同的先行词（皆为名词短语），限制性、非限制性定语从句的意思也不相同。
+    3. 某些先行词，只能使用非限制性定语从句，不能使用限制性定语从句。（因为世界上有些事物是独一无二的，没有办法筛选）
 
-1.非限制性定语从句的先行词十分多样化，而限制性定语从句的先行词往往是单纯的名词短语。
-
-2.即便是相同的先行词（皆为名词短语），限制性、非限制性定语从句的意思也不相同。
-
-3.某些先行词，只能使用非限制性定语从句，不能使用限制性定语从句。（因为世界上有些事物是独一无二的，没有办法筛选）
-
-e.g.3【专有名词做先行词：地点】
+e.g.2【专有名词做先行词：地点】
 
 - 非限制性
     - Bejing,==which is capital of China==,is a great city.（There is only one Bejing in this world）
@@ -271,14 +271,14 @@ e.g.3【专有名词做先行词：地点】
 
 Beijing which is capital of China is a great city.（×）
 
-e.g.4【专有名词做先行词：人物】
+e.g.3【专有名词做先行词：人物】
 
 - 非限制性
     - Einstein,==who was a great scientist==,created the theory of relativity.（There is only one Einstein in this world,though he's dead already）
 - 限制性
     - The Einstein ==who was played by 王俊凯== in that movie looks funny.（There can be various Einstein in lots of movies）
 
-e.g.5【专有名词做先行词：人物】
+e.g.4【专有名词做先行词：人物】
 
 - 非限制性
     - 张三,==who teaches us English==,is a cool guy.（There is only one 张三 within this small group of people）
@@ -289,7 +289,7 @@ e.g.5【专有名词做先行词：人物】
 
 教我们英语的张三只有一个，大家都懂这人是谁，因此不能够被“限定”，除非说话人认识好几个张三。
 
-e.g.6【专有名词做先行词：人物】
+e.g.5【专有名词做先行词：人物】
 
 - 非限制性
     - My grandmother,==who is 70 years old==,loves programming.（I have only one grandmother）
