@@ -358,10 +358,23 @@ my high school="专有名词"，一般人只有一个高中，因此不能筛选
     非谓语动词在句子中已经失去了作为动词的词性，要当作名词（主、宾、表、补）、形容词（定、表、补）、或者副词（状）来对待，但其本身保留了动词的特征，可以有时态变化，且可以携带自己的宾语、状语等。
 
 
-
-
-
 ### 不定式
+
+不定式的结构：
+
+|   | 主动 | 被动 | 
+| --- | --- | --- |
+| 一般时态 | to write | to be writen | 
+| 进行时态 | to be writing | 没有 | 
+| 完成时态 | to have written | to have been written |
+| 完成进行时态 | to have been writing | 没有 |
+
+不定式的表现形式：
+
+- 不定式：**不一定是什么词性**的一个东西
+- 不定式具备<font color=red>名词属性</font>、<font color=gold>形容词属性</font>、<font color=green>副词属性</font>
+- 不定式在句子中作<font color=red>主语</font>、<font color=red>宾语</font>、<font color=red>补</font><font color=gold>语</font>、<font color=red>定语</font>、<font color=green>状语</font>
+
 
 ### 动名词
 
