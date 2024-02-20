@@ -375,6 +375,17 @@ my high school="专有名词"，一般人只有一个高中，因此不能筛选
 - 不定式具备<font color=red>名词属性</font>、<font color=gold>形容词属性</font>、<font color=green>副词属性</font>
 - 不定式在句子中作<font color=red>主语</font>、<font color=red>宾语</font>、<font color=red>补</font><font color=gold>语</font>、<font color=red>定语</font>、<font color=green>状语</font>
 
+:bookmark_tabs:e.g.1
+
+It is foolish **to lie**.（主语）
+
+Our plan is **to finish the work in two weeks**.（表语/补语，the work和in two weeks就是非谓语动词to finish携带的宾语和状语）
+
+Sally doesn't like **to be praised**.（宾语）
+
+The question **to be discussed** is important.（定语）
+
+We eat **to live**.（状语）
 
 ### 动名词
 
