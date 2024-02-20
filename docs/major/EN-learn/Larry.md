@@ -377,31 +377,27 @@ my high school="专有名词"，一般人只有一个高中，因此不能筛选
 
 :bookmark_tabs:e.g.1
 
-- It is foolish **to lie**.（主语）
-
-- Our plan is **to finish the work in two weeks**.（表语/补语，the work和in two weeks就是非谓语动词to finish携带的宾语和状语）
-
-- Sally doesn't like **to be praised**.（宾语）
-
-- The question **to be discussed** is important.（定语）
-
-- We eat **to live**.（状语）
+- It is foolish <u>to lie</u>.（主语）
+- Our plan is <u>to finish the work in two weeks</u>.（表语/补语，the work和in two weeks就是非谓语动词to finish携带的宾语和状语）
+- Sally doesn't like <u>to be praised</u>.（宾语）
+- The question <u>to be discussed</u> is important.（定语）
+- We eat <u>to live</u>.（状语）
 
 名词属性的不定式：作为主语、表语、宾语
 
 - 作主语
-  - **To make you understand me** is impossible.
-  - It is impossible **to make you understand me**.
+  - <u>To make you understand me</u> is impossible.
+  - It is impossible <u>to make you understand me</u>.
 <br></br>
 - 作表语（主语补语） 
-  - To know everything is **to know nothing**.
-  - The problem is **where to find a guide**.（注意这不是从句，where在这里是非谓语动词to find所携带的状语）
-  - He was seen **to enter the laboratory**.
+  - To know everything is <u>to know nothing</u>.
+  - The problem is <u>where to find a guide</u>.（注意这不是从句，where在这里是非谓语动词to find所携带的状语）
+  - He was seen <u>to enter the laboratory</u>.
 <br></br>
 - 作宾语
-  - I will try to forget you.
-  - He decided to return after receiving a letter from Michael.
-  - He forgot which way to take.
+  - I will try <u>to forget you</u>.
+  - He decided <u>to return</u> after receiving a letter from Michael.
+  - He forgot <u>which way to take</u>.
 
 
 
