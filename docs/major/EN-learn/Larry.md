@@ -377,15 +377,26 @@ my high school="专有名词"，一般人只有一个高中，因此不能筛选
 
 :bookmark_tabs:e.g.1
 
-It is foolish **to lie**.（主语）
+- It is foolish **to lie**.（主语）
 
-Our plan is **to finish the work in two weeks**.（表语/补语，the work和in two weeks就是非谓语动词to finish携带的宾语和状语）
+- Our plan is **to finish the work in two weeks**.（表语/补语，the work和in two weeks就是非谓语动词to finish携带的宾语和状语）
 
-Sally doesn't like **to be praised**.（宾语）
+- Sally doesn't like **to be praised**.（宾语）
 
-The question **to be discussed** is important.（定语）
+- The question **to be discussed** is important.（定语）
 
-We eat **to live**.（状语）
+- We eat **to live**.（状语）
+
+名词属性的不定式：作为主语、表语、宾语
+
+- 作主语
+  - To make you understand me is impossible.
+  - It is impossible to make you understand me.
+- 作表语（主语补语） 
+  - To know everything is to know nothing.
+  - The problem is where to find a guide.
+  - He was seen to enter the laboratory.
+
 
 ### 动名词
 
