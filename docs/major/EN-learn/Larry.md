@@ -390,13 +390,19 @@ my high school="专有名词"，一般人只有一个高中，因此不能筛选
 名词属性的不定式：作为主语、表语、宾语
 
 - 作主语
-  - To make you understand me is impossible.
-  - It is impossible to make you understand me.
+  - **To make you understand me** is impossible.
+  - It is impossible **to make you understand me**.
 <br></br>
 - 作表语（主语补语） 
-  - To know everything is to know nothing.
-  - The problem is where to find a guide.
-  - He was seen to enter the laboratory.
+  - To know everything is **to know nothing**.
+  - The problem is **where to find a guide**.（注意这不是从句，where在这里是非谓语动词to find所携带的状语）
+  - He was seen **to enter the laboratory**.
+<br></br>
+- 作宾语
+  - I will try to forget you.
+  - He decided to return after receiving a letter from Michael.
+  - He forgot which way to take.
+
 
 
 ### 动名词
