@@ -38,17 +38,32 @@
 
 ✒️My wife backed me up over my decision to quit my job.
 
+## adjective phrase
+
+**brick and mortar**: relating to or being a traditional business serving customers in a building as contrasted to an online business.
+
+✏️The explosive growth of online shopping and the death of brick and mortar stores.
+
 ## casual conversation
 
 Can I get you something to drink? 我给你拿点喝的嘛？
 
 Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗的位置？`alsle-/aɪl/`
 
-## adjective phrase
+## suffix
 
-**brick and mortar**: relating to or being a traditional business serving customers in a building as contrasted to an online business.
+!!! warning Definition
+    
+    a letter or letters added to the end of a word to form a new word, such as `ness` in `kindness` or `ly` in `suddenly`.
 
-✏️The explosive growth of online shopping and the death of brick and mortar stores.
+`-free`
+
+:   without something that you do not want 无…的
+    e.g.    a trouble-free journey无忧无虑的旅行
+        duty-free cigarettes免税香烟
+        a salt-free diet无盐饮食
+        They live in the house rent-free.他们住的房子是免租金的
+        virtually fat-free yogurt几乎无脂的酸奶
 
 
 
