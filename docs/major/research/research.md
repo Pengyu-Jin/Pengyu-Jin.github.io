@@ -12,11 +12,6 @@
 
 ## 每日整理:memo:
 
-!!! abstract
-    会议投稿。2月20日截至！！！
-
-视频录制
-
 sumatra PDF+sublime+Texlive=高效科研，加油！
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
