@@ -59,11 +59,14 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 `-free`
 
 :   without something that you do not want 无…的
-    e.g.    a trouble-free journey无忧无虑的旅行
-        duty-free cigarettes免税香烟
-        a salt-free diet无盐饮食
-        They live in the house rent-free.他们住的房子是免租金的
-        virtually fat-free yogurt几乎无脂的酸奶
+
+    e.g.
+    
+    - a trouble-free journey无忧无虑的旅行
+    - duty-free cigarettes免税香烟
+    - a salt-free diet无盐饮食
+    - They live in the house rent-free.他们住的房子是免租金的
+    - virtually fat-free yogurt几乎无脂的酸奶
 
 
 
