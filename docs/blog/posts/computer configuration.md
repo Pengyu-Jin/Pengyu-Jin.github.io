@@ -18,7 +18,7 @@ categories:
 
 **word插件**：[小恐龙公文排版助手](https://xkonglong.com/){:target="_blank"}、AXmath[^1]
 
-**idm[^2]-Internet Download Manager**：下载管理器，参考bilibili的[up主-赤峰飞人乔尔特](https://www.bilibili.com/video/BV1uT4y1h7y5/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
+**idm[^2]-Internet Download Manager**：下载管理器
 
 **Adobe Acrobat[^3]**：Adobe PDF阅读器，参考bilibili的[up主-云渲视觉](https://www.bilibili.com/video/BV1nB4y1o7Py/?spm_id_from=333.337.search-card.all.click&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
@@ -32,4 +32,7 @@ categories:
 
 [^3]:百度网盘/我的资源/Adobe Acrobat
 
+## 配置问题
+
+装的acrobat在显示缩略图上出现问题，即桌面上的pdf文件有的显示缩略图，有的没有显示。解决办法是安装SumatraPDF，安装的时候在选项里面勾选在windows资源管理器显示pdf预览，然后acrobat就可以显示预览了。
 
