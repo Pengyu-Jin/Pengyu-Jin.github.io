@@ -20,6 +20,7 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 例如，如果父亲的名字是John Smith，那么他的儿子可能被命名为John Smith Jr.，表示他是John Smith的儿子。因此父亲则被称为John Smith Sr.，表示他是家庭中的长辈。这种使用方式有助于清晰地区分家庭中不同代人的名字，并指示家庭成员之间的年龄或辈分关系。
 
 句子中写成Martin Luther King, Jr.而不是Martin Luther King Jr.的原因是，在较正式或官方的场合，添加逗号以明确标示 "Jr." 是更为常见的做法，这种规范可能是出于清晰表达、避免歧义的目的。
+<br></br>
 
 !!! info
 
@@ -28,5 +29,7 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 🕵️使用i.e.表示：即，也就是。后面为什么加逗号？
 
 在句子中使用 i.e.（即）时，逗号的作用是将解释或说明引入句子。逗号有助于突显解释性质的部分，使得读者更容易理解。在你提供的句子中，逗号用来引入解释性的部分，使得读者能够明确知道 "i.e." 后面的内容是对前面部分的解释，起到补充说明的作用。这样的使用方式有助于提高句子的清晰度和可读性。
+
+
 
 
