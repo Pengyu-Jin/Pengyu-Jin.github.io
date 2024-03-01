@@ -59,8 +59,6 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 *`-free`*
 
 :   without something that you do not want 无…的
-
-    e.g.
     
     - a trouble-free journey无忧无虑的旅行
     - duty-free cigarettes免税香烟
