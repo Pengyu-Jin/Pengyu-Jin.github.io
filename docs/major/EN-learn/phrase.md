@@ -66,7 +66,17 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
     - They live in the house rent-free.他们住的房子是免租金的
     - virtually fat-free yogurt几乎无脂的酸奶
 
+## prefix
 
+!!! warning "Definition"
+    
+    a group of letters that is added to the beginning of a word to change its meaning and make a new word, such as `un` in `untie` or `mis` in `misunderstand`.
+
+*`hyper-`*
+
+:   more than normal; too much
+
+    - hypercritical过分挑剔的，苛求的
 
 
 
