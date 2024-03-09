@@ -38,7 +38,8 @@ Don't be afraid; go question the world.
 
 只要咱们足够努力，机会就一直会在的。
 
-
+## 2024-03-08
+不要过度宏大叙事，关心身边具体的人，父母，朋友，你会发现生活也会很美好。
 
 <div style='display: none'>
 
