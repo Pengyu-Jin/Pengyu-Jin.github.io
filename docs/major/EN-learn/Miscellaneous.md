@@ -30,6 +30,12 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 
 在句子中使用 i.e.（即）时，逗号的作用是将解释或说明引入句子。逗号有助于突显解释性质的部分，使得读者更容易理解。在你提供的句子中，逗号用来引入解释性的部分，使得读者能够明确知道 "i.e." 后面的内容是对前面部分的解释，起到补充说明的作用。这样的使用方式有助于提高句子的清晰度和可读性。
 
+!!! info
 
+    “I would love to talk about happiness while making balloon animals at your granddaughter’s birthday party in Fairbanks!” Later, I may regret it. (No offense to your lovely granddaughter.)
 
+    来自于文章[Overwhelmed? Just Say 'No.'](https://www.theatlantic.com/ideas/archive/2024/02/saying-no-science-happiness/677579/){:target="_blank"}
 
+🕵️最后括号内容表示额外说明
+
+只是举例说明要勇于说不，没有冒犯的含义。
