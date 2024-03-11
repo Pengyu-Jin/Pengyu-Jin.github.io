@@ -1,4 +1,6 @@
 ## 2024-01-20
+在2024年的今天，努力这两个字似乎已经变得非常廉价，甚至已经生出了一丝讽刺的味道，但是，相信我，这是你唯一能够得着且有用的东西。
+
 2024年了，努力依然有用。Larry分享的人生小故事：
 
 <iframe src="//player.bilibili.com/player.html?aid=539026586&bvid=BV1Gi4y1W7Jt&cid=1413238812&p=1"width="640" height="360" scrolling="no" border="1" frameborder="yes" framespacing="0" allowfullscreen="true" allow="autoplay; encrypted-media" autoplay="false"> </iframe>
