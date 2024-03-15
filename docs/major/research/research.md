@@ -19,6 +19,8 @@
 
 机会就在那里，你只要努力，就能够得到。不是的，不是这样的，我努力过无数次，机会只在其中的一两次中。
 
+你的极限不过是别人的起点。
+
 好好科研，有机会出去的！
 
 每天任务：3小时内阅读一片外刊，进行科研论文阅读，课程预习复习。
@@ -42,7 +44,6 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
 
 申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
-
 
 
 !!! tip
