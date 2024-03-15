@@ -22,7 +22,7 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 句子中写成Martin Luther King, Jr.而不是Martin Luther King Jr.的原因是，在较正式或官方的场合，添加逗号以明确标示 "Jr." 是更为常见的做法，这种规范可能是出于清晰表达、避免歧义的目的。
 <br></br>
 
-!!! info
+!!! example
 
     EV aggregator is a third party between energy supplier i.e., system operator and energy consumer i.e., EV user/owner.
 
@@ -40,3 +40,10 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 🕵️最后括号内容表示额外说明
 
 只是举例说明要勇于说不，没有冒犯的含义。
+<br></br>
+
+!!! example
+
+    xxxx
+
+🕵️xxx使用i.e.表示：即，也就是。后面为什么加逗号？
