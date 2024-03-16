@@ -53,6 +53,7 @@ theme:
   font-size: 16px;
 
   name: material
+  logo: logo.ico
   palette:
     - scheme: default # 日间模式
       primary: white # 上方的
