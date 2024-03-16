@@ -77,9 +77,7 @@ theme:
     - search.highlight # 搜索出的文章关键词加入高亮
     - content.code.copy #copy code 按钮
   language: zh # 一些提示性的文字会变成中文
-  icon:
-    logo: material/paw
-    repo: fontawesome/brands/github
+
   
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 
