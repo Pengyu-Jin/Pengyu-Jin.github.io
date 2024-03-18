@@ -42,6 +42,13 @@ categories:
 | `ctrl+shift+Q`| 行内axmath |
 |`alt+Q`| 行间axmath |
 
+==for excel==
+
+| shortcut key | function |
+| ----------- | --------- |
+| `alt+enter`| 单元格内换行 |
+
+
 ==for markdown==
 
 | shortcut key | function |
