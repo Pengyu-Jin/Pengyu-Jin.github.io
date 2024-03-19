@@ -23,8 +23,6 @@
 
 好好科研，有机会出去的！
 
-每天任务：3小时内阅读一片外刊，进行科研论文阅读，课程预习复习。
-
 sumatra PDF+sublime+Texlive=高效科研，加油！
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
