@@ -46,9 +46,9 @@
 
 ## adverb phrase
 
-**over time**: if something happens over time, it happens gradually during a long period
+**over time**: if something happens over time, it happens gradually during a long period.
 
-✏️They don't help right away, but over time can make lungs healthier.
+🪶They don't help right away, but over time can make lungs healthier.
 
 ## casual conversation
 
