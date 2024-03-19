@@ -44,6 +44,12 @@
 
 ✏️The explosive growth of online shopping and the death of brick and mortar stores.
 
+## adverb phrase
+
+**over time**: if something happens over time, it happens gradually during a long period
+
+✏️They don't help right away, but over time can make lungs healthier.
+
 ## casual conversation
 
 Can I get you something to drink? 我给你拿点喝的嘛？
