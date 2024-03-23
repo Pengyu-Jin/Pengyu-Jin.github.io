@@ -84,5 +84,9 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 
     - hypercritical过分挑剔的，苛求的
 
+*`pro-`*
 
+:   supporting or approving of something
 
+    - the pro-choice lobby主张堕胎合法的游说团体
+    - The rally is the largest pro- life event in the world, and the White House says it stands with the marchers.这次集会是世界上最大的反堕胎活动，白宫表示与游行者站在一起。
