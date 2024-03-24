@@ -66,7 +66,7 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 
 🖊️Well, you would have hardly got a bed in that room, never mind anything else.
 
-**gonna**: _spoken informal_ a way of saying 'going to' 
+**gonna**: [_spoken informal_] a way of saying 'going to' 
 
 🖊️My video went viral last night, I'm gonna be an internet celebrity.
 
