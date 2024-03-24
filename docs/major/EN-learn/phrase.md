@@ -56,6 +56,20 @@ Can I get you something to drink? 我给你拿点喝的嘛？
 
 Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗的位置？`alsle-/aɪl/`
 
+## miscellaneous
+
+**among other things**: used when you are giving one fact, reason, effect etc but want to suggest that there are many others.
+
+🖊️The substance is used in the manufacture of cosmetics and drugs, among other things.
+
+**never mind**: used to say that something is not possible or likely, because even a less extreme thing is not possible or likely.
+
+🖊️Well, you would have hardly got a bed in that room, never mind anything else.
+
+**gonna**: _spoken informal_ a way of saying 'going to' 
+
+🖊️My video went viral last night, I'm gonna be an internet celebrity.
+
 ## suffix
 
 !!! warning "Definition"
