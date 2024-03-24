@@ -38,4 +38,14 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 ### 🕵️语句中的括号内容（one hopes）表示什么意思？
 !!! example
 
-    xxxx
+    Increasing the supply of educated and (one hopes) less angry men would be good for the women who must share the same world.
+
+    来自于文章[Making sense of the gulf between young men and women](https://www.economist.com/leaders/2024/03/14/making-sense-of-the-gulf-between-young-men-and-women){:target="_blank"}
+
+这句话中的“one hopes”是一种插入语，用来表示说话人的希望或期望。在这个上下文中，它表达的是说话人希望通过增加受教育的男性数量，这些男性将会（希望如此）变得不那么愤怒，这对于不得不与他们共享同一个世界的女性来说是件好事。
+
+在这种用法中，“one”不指特定的人，而是用作不特定主语，相当于“人们希望”。“hopes”使用复数形式，并不是指多个希望，而是一种英语表达习惯，用来表达一种广泛或普遍的希望、期待或愿望,不是具体的、个别的愿望。
+
+
+
+
