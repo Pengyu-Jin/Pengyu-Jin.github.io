@@ -5,6 +5,7 @@
 - 1.99s  0-60mph:从0加速到60mph所用的时间仅为1.99s
 - 【注】：60mph=60miles/h=60*1.609=96.54km/h，与我们所说的百公里加速时间有一定误差
 - mpg:miles per (American) gallon(fuel-economy standards)
+
 ## vehicle kind
 sport-utility vehicle (SUV)
 
