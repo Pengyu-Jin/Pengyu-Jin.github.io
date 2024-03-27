@@ -1,12 +1,16 @@
 ## Popular Science
 !!! question "Common abbreviations?"
-    mph:miles per hour
-    mpg:miles per (American) gallon(fuel-economy standards)
+    mph: miles per hour
+
+    mpg: miles per (American) gallon(fuel-economy standards)
 
 - After Est.Gas savings:After estimated gas savings
 - 396mi  range(EPA est.):续航里程为396英里，根据美国环境保护署EPA的估算。
 - 1.99s  0-60mph:从0加速到60mph所用的时间仅为1.99s
 - 【注】：60mph=60miles/h=60*1.609=96.54km/h，与我们所说的百公里加速时间有一定误差
+
+## culture
+gas-guzzler:  a car that uses a lot of petrol 高油耗汽车，油老虎
 
 ## vehicle kind
 sport-utility vehicle (SUV)
