@@ -1,6 +1,5 @@
 ## Popular Science
 !!! question Common abbreviations?
-
     mph:miles per hour
     mpg:miles per (American) gallon(fuel-economy standards)
 
