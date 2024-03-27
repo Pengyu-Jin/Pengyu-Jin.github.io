@@ -17,6 +17,8 @@
 
         60mph=60miles/h=60*1.609=96.54km/h，与我们所说的百公里加速时间有一定误差
 
+        27.5mpg=27.5miles/gallon=27.5*1.609/3.78541=11.69km/litre，英里每加仑转化为公里每升
+
 ## culture
 gas-guzzler:  a car that uses a lot of petrol 高油耗汽车，油老虎
 
