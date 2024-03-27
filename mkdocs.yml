@@ -119,6 +119,7 @@ plugins:
 
 
 
+
 markdown_extensions:
   - footnotes #添加注脚footnotes
   - pymdownx.caret
@@ -142,6 +143,8 @@ markdown_extensions:
   - admonition   #添加admonition  https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
   - pymdownx.details  # admonition需要
   - pymdownx.superfences
+
+  - md_in_html  #add annotation
 
   - attr_list  # 添加emoji 
   - pymdownx.emoji:
