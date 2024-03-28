@@ -1,9 +1,10 @@
 ## Popular Science
 !!! question "Common abbreviations?"
 
-    - After Est.Gas savings:After estimated gas savings
-    - 396mi  range(EPA est.):续航里程为396英里，根据美国环境保护署EPA的估算。
-    many knowledge you must learn
+    - After Est.Gas savings: After estimated gas savings
+    - 396mi  range(EPA est.): 续航里程为396英里，根据美国环境保护署EPA的估算。
+    - 16.1"中控大屏: 车辆中控台上的一个大型触摸屏幕，通常用于控制车辆的多媒体系统、导航、车辆设置等，16.1英寸(inch)是屏幕的对角线长度。
+    - 56"HUD: 56 inches Head-Up Display
 
     === "abbreviations"
 
