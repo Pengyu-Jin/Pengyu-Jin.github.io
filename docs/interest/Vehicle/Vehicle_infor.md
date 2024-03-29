@@ -24,9 +24,13 @@
 gas-guzzler:  a car that uses a lot of petrol 高油耗汽车，油老虎
 
 ## vehicle kind
+sedan
+
 sport-utility vehicle (SUV)
 
 pickup trucks
+
+
 
 ## brand
 Volkswagen大众
