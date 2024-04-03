@@ -17,13 +17,7 @@ miss out on
 
 先考虑好好发文章，坚持每天学习上的收获，2年时间，1年时间加油！
 
-搞明白
-
 机会就在那里，你只要努力，就能够得到。不是的，不是这样的，我努力过无数次，机会只在其中的一两次中。
-
-你的极限不过是别人的起点。还是要好好学点东西的。
-
-好好科研，有机会出去的！
 
 sumatra PDF+sublime+Texlive=高效科研，加油！
 
@@ -50,11 +44,7 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
     Those who refuse to accept their destiny should seize every opportunity to make a difference in their lives.
 
 
-## 记录
-
-MFT-Medium Frequency Transformer，中频变压器，连接低压直流和中压交流
-
-PET-Power Electronic Transformer，电力电子变压器
+## emm
 
 论文含金量：SCI正刊＞SCI专刊＞EI期刊＞中文核心≥EI会议＞＞中文普刊≥英文普刊
 
