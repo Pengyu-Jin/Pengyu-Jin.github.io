@@ -104,3 +104,10 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 
     - the pro-choice lobby主张堕胎合法的游说团体
     - The rally is the largest pro-life event in the world, and the White House says it stands with the marchers.这次集会是世界上最大的反堕胎活动，白宫表示与游行者站在一起。
+
+*`post-`*
+
+:   later than or after something
+
+    - the post-war years (=the years after a particular war)战后的年月
+    - post-operative care手术后护理
