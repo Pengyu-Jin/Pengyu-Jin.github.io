@@ -12,6 +12,8 @@
 
 
 ## 每日整理:memo:
+[知乎老哥给的建议](https://www.zhihu.com/question/629221784/answer/3444753585){:target="_blank"}
+
 miss out on
 
 先考虑好好发文章，坚持每天学习上的收获，2年时间，1年时间加油！
