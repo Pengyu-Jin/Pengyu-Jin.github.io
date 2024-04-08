@@ -1,16 +1,6 @@
 !!! quote
     Chance favors the prepared mind.
 
-!!! quote "Steve Jobs"
-    Apple resonates with people because there's a humanism that runs deep in our innovation.
-
-    苹果之所以能与人们产生共鸣，是因为在我们的创新中深藏着一种人文精神。
-
-    I think great artists and great engineers are similar in that they both have a desire for self-expression.
-
-    我认为伟大的艺术家和伟大的工程师是相似的，他们都有自我表达的欲望。
-
-
 ## 每日整理:memo:
 [知乎老哥给的建议](https://www.zhihu.com/question/629221784/answer/3444753585){:target="_blank"}
 
@@ -41,7 +31,6 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
 
 申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
-
 
 !!! tip
     Those who refuse to accept their destiny should seize every opportunity to make a difference in their lives.
