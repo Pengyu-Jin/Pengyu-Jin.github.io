@@ -21,9 +21,6 @@ sumatra PDF+sublime+Texlive=高效科研，加油！
 - [西瓜粥](https://space.bilibili.com/287344644/?spm_id_from=333.999.0.0){:target="_blank"}
 - [Power Electronics](https://www.coursera.org/specializations/power-electronics#instructors){:target="_blank"}
 
-!!! tip
-    学习博士的专业学习态度，要习惯阅读英文文档
-
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
 整理：[完善markdown语法](https://teedoc.neucrack.com/get_started/zh/syntax/syntax_markdown.html){:target="_blank"}
@@ -32,21 +29,13 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 
 申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
 
-!!! tip
-    Those who refuse to accept their destiny should seize every opportunity to make a difference in their lives.
-
-
 ## emm
 
 论文含金量：SCI正刊＞SCI专刊＞EI期刊＞中文核心≥EI会议＞＞中文普刊≥英文普刊
 
 ## Remember:hugging:
-!!! success
-    永远要放弃一种"等到啥啥啥时候，我就能啥啥啥"的想法。
-
-    你觉得博一杂事太多，博二再进实验室不迟，可能博二来一拨疫情联系好的实验室就不接收了。你觉得今晚累了，某个任务想明天再做，但明天可能被同学拉出去聚餐或者又有新的任务，最后总是不了了之。
-
-    如果这件事早晚都得做，一定要早做，情况瞬息万变，天有不测风云，晚做可能就做不了了，所以不要等，不要拖，立刻马上去做。
+!!! tip
+    Those who refuse to accept their destiny should seize every opportunity to make a difference in their lives.
 
 !!! success
     任何一种方法都会存在缺点。能量是守恒的。
