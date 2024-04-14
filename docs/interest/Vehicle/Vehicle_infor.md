@@ -38,9 +38,13 @@ pickup trucks
 
     华为和赛里斯汽车合作
 
-=== "Luxeed智界"
+=== "LUXEED智界"
 
     华为和奇瑞汽车合作
+
+=== "STELATO享界"
+
+    华为和北汽集团合作
 
 Volkswagen大众
 
