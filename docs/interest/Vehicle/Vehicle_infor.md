@@ -33,6 +33,17 @@ pickup trucks
 
 
 ## brand
+华为汽车
+=== "AITO问界-Adding Intelligence to Auto"
+
+    华为和赛里斯汽车合作
+
+ === "Luxeed智界"
+
+    华为和奇瑞汽车合作
+
+
+
 Volkswagen大众
 
 Honda本田
