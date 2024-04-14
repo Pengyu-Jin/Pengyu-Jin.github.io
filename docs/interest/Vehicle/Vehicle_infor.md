@@ -34,9 +34,9 @@ pickup trucks
 
 ## brand
 华为汽车
-=== "AITO问界-Adding Intelligence to Auto"
+=== "AITO问界"
 
-    华为和赛里斯汽车合作
+    Adding Intelligence to Auto.华为和赛里斯汽车合作
 
 === "LUXEED智界"
 
