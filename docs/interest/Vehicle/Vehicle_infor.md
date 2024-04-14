@@ -38,31 +38,9 @@ pickup trucks
 
     华为和赛里斯汽车合作
 
- === "Luxeed智界"
+=== "Luxeed智界"
 
     华为和奇瑞汽车合作
-
-=== "C"
-
-    ``` c
-    #include <stdio.h>
-
-    int main(void) {
-      printf("Hello world!\n");
-      return 0;
-    }
-    ```
-
-=== "C++"
-
-    ``` c++
-    #include <iostream>
-
-    int main(void) {
-      std::cout << "Hello world!" << std::endl;
-      return 0;
-    }
-    ```
 
 Volkswagen大众
 
