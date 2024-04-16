@@ -6,7 +6,9 @@
 
 miss out on information
 
-抓住机会，你赢过吗？哪怕一次？我很开心你相信我，艳雯，我愿意赌上一切，甚至生命。
+抓住机会，你赢过吗？哪怕一次？
+
+我很开心你相信我，艳雯，我愿意赌上一切，甚至生命。
 
 先考虑好好发文章，坚持每天学习上的收获，2年时间，1年时间加油！
 
@@ -30,7 +32,6 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
 
 ## 加油
-
 论文含金量：SCI正刊＞SCI专刊＞EI期刊＞中文核心≥EI会议＞＞中文普刊≥英文普刊
 
 ## Remember:hugging:
