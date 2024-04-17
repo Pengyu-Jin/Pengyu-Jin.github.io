@@ -51,6 +51,6 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 
     亲王，公爵，侯爵，伯爵，子爵，男爵
 
-    来自于文章[](){:target="_blank"}
+    来自于文章[The Princess of Wales’s cancer diagnosis is a very public ordeal](https://www.economist.com/britain/2024/03/22/the-princess-of-waless-cancer-diagnosis-is-a-very-public-ordeal){:target="_blank"}
 
 
