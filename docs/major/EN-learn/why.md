@@ -53,4 +53,6 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 
     来自于文章[The Princess of Wales’s cancer diagnosis is a very public ordeal](https://www.economist.com/britain/2024/03/22/the-princess-of-waless-cancer-diagnosis-is-a-very-public-ordeal){:target="_blank"}
 
+最早是由xx国王和伊丽莎白王后，怀得两个女儿，伊丽莎白二世和xxx公主。因此长女继位。
 
+伊丽莎白二世和菲利普结婚。
