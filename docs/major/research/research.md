@@ -2,7 +2,7 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
-[知乎老哥给的建议](https://www.zhihu.com/question/629221784/answer/3444753585){:target="_blank"}
+[知乎老哥给的建议，就业相关](https://www.zhihu.com/question/629221784/answer/3444753585){:target="_blank"}
 
 miss out on information
 
