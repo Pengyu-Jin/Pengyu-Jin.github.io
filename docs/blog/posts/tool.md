@@ -48,6 +48,12 @@ categories:
 | ----------- | --------- |
 | `alt+enter`| 单元格内换行 |
 
+==for PowerPoint==
+
+| shortcut key | function |
+| ----------- | --------- |
+| `ctrl+=`| 数字变下标 |
+| `ctrl+shift+=`| 数字变上标 |
 
 ==for markdown==
 
