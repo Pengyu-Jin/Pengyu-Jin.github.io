@@ -41,6 +41,7 @@ categories:
 | ----------- | --------- |
 | `ctrl+shift+Q`| 行内axmath |
 |`alt+Q`| 行间axmath |
+|`ctrl A全选后按F9`| 全文更新域 |
 
 ==for excel==
 
