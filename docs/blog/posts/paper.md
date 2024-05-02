@@ -116,3 +116,8 @@ categories:
 
     3.需要注意的是，一本期刊只可属于一个大类，但可以属于多个不同的小类。例如期刊IEEE Access只属于“工程技术”大类，但具体可进一步细分为3个小类，分别是计算机：信息系统、工程：电气与电子、电信学。
 
+## 上电研究生要求期刊
+
+![A类期刊](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/13bf62dc4000c7a9a7860ba022d238d.png)
+
+![B类期刊](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/aec945cd81482dc3254b538c2f96796.png)
