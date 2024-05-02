@@ -118,6 +118,7 @@ categories:
 
 ## 上电研究生要求期刊
 
-![A类期刊](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/13bf62dc4000c7a9a7860ba022d238d.png)
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/13bf62dc4000c7a9a7860ba022d238d.png)
 
-![B类期刊](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/aec945cd81482dc3254b538c2f96796.png)
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/aec945cd81482dc3254b538c2f96796.png)
+
