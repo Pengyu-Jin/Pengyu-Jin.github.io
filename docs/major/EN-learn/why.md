@@ -56,5 +56,3 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 最早是由xx国王和伊丽莎白王后，怀得两个女儿，伊丽莎白二世和xxx公主。因此长女继位。
 
 伊丽莎白二世和菲利普结婚。菲利普是希腊王子。**这里记得补充外刊里的贵族继承背景**
-
-don't forget
