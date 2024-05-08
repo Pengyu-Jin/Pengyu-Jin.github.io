@@ -1,11 +1,10 @@
 ## 劳动合同
 
 ## 薪资体系
-```
-文章参考自公众号:career丹姐说
+>文章参考自公众号:career丹姐说
 
-[丹姐说|你想知道的劳动合同、薪酬体系的秘密都在这里了](https://mp.weixin.qq.com/s/YWUj-MjrrBMy3tfbFseH1g?poc_token=HIZHOmajit-wu9G94B-_tsat277R2T6izu45Tu2_){:target=_blank}
-```
+>[丹姐说|你想知道的劳动合同、薪酬体系的秘密都在这里了](https://mp.weixin.qq.com/s/YWUj-MjrrBMy3tfbFseH1g?poc_token=HIZHOmajit-wu9G94B-_tsat277R2T6izu45Tu2_){:target=_blank}
+
 
 ### 收入待遇
 收入不等于待遇，一个好的企业，除了工资性收入外，还有大量的隐性福利。除了收入之外，我们还应关注这个企业是否有人才公寓、租房补贴、购房补助、交通补贴、餐饮补贴、高温费、体检费、疗休养、社保基数、补充公积金、补充医疗保险、补充医疗基金、工会福利以及工作性价比等因素。
