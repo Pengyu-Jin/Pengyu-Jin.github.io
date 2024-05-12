@@ -2,6 +2,7 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
+加油，被人相信的感觉真好。
 
 先考虑好好发文章，坚持每天学习上的收获，2年时间，1年时间加油！
 
@@ -48,6 +49,8 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 "基本项"里面的电子元件都是不可以改变线条粗细，只能通过整体改变形状大小，来调节线条宽度，缺点是不精准。
 
 "基本项-visio2013"里边可以修改元件线条粗细，直接输入宽度为x磅，即可设置线条粗细。
+
+
 
 
 ## abbreviations :material-lightbulb-variant-outline:
