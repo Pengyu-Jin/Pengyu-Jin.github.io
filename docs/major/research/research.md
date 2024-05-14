@@ -2,7 +2,7 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
-加油，被人相信的感觉真好。
+加油，被人相信的感觉真好。珍惜cyw
 
 sumatra PDF+sublime+Texlive=高效科研，加油！
 
