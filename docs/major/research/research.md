@@ -4,8 +4,6 @@
 ## 每日整理:memo:
 加油，被人相信的感觉真好。
 
-先考虑好好发文章，坚持每天学习上的收获，2年时间，1年时间加油！
-
 sumatra PDF+sublime+Texlive=高效科研，加油！
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
