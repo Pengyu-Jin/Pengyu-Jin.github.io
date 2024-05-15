@@ -4,6 +4,8 @@
 ## 每日整理:memo:
 加油，被人相信的感觉真好。珍惜cyw
 
+追求效率
+
 sumatra PDF+sublime+Texlive=高效科研，加油！
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
