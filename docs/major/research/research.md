@@ -2,10 +2,6 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
-加油，被人相信的感觉真好。珍惜cyw
-
-追求效率
-
 sumatra PDF+sublime+Texlive=高效科研，加油！
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
@@ -49,23 +45,6 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 "基本项"里面的电子元件都是不可以改变线条粗细，只能通过整体改变形状大小，来调节线条宽度，缺点是不精准。
 
 "基本项-visio2013"里边可以修改元件线条粗细，直接输入宽度为x磅，即可设置线条粗细。
-
-
-
-
-## abbreviations :material-lightbulb-variant-outline:
-
-ECE——Electrical and Computer Engineering
-
-CS——Computer Science
-
-EE——Electrical Engineering
-
-SE——Software Engineering
-
-IS——Information System
-
-IC——Integrated Circuit 
 
 ## 重要国际学术会议目录
 
