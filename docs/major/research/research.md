@@ -2,7 +2,7 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
-sumatra PDF+sublime+Texlive=高效科研，加油！
+sumatra PDF+sublime+Texlive=高效科研
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
