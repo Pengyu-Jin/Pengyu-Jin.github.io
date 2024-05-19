@@ -4,6 +4,8 @@
 ## 每日整理:memo:
 sumatra PDF+sublime+Texlive=高效科研
 
+外刊-读论文-熟悉课题二PPT-8点开始p图
+
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
 电力电子学习：
