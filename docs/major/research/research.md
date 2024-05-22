@@ -4,9 +4,7 @@
 ## 每日整理:memo:
 sumatra PDF+sublime+Texlive=高效科研
 
-人生总是起起伏伏，开心点
-
-外刊-读论文-熟悉课题二PPT-8点开始p图
+人生总是起起伏伏，开心点。生活很难，但是要做好自己想做的事情，做到极致，是的极致。
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
