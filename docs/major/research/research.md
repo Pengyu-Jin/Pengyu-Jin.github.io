@@ -31,8 +31,6 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 !!! success
     任何一种方法都会存在缺点。能量是守恒的。that's why we can 
 
-这个世界没有黑魔法，任何东西都是人发明出来的。
-
 ## Mindset for Conducting Research
 
 科研心态分享的一篇blog:[Why Can't I Reproduce Their Results?](https://theorangeduck.com/page/reproduce-their-results){:target="_blank"}
