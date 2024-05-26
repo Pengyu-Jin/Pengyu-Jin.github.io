@@ -6,6 +6,8 @@ sumatra PDF+sublime+Texlive=高效科研
 
 生活很难，但是要做好自己想做的事情，做到极致，是的极致。加油做好手边的事情。
 
+你赢过嘛，我想赢一次。
+
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
 电力电子学习：
