@@ -31,7 +31,7 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
     Those who refuse to accept their destiny should seize every opportunity to make a difference in their lives.
 
 !!! success
-    任何一种方法都会存在缺点。能量是守恒的。that's why we can 
+    任何一种方法都会存在缺点。能量是守恒的。that's why we can do anything.
 
 ## Mindset for Conducting Research
 
