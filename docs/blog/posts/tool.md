@@ -1,8 +1,8 @@
 ---
-title: efficient configuration
+title: efficient skills
 date: 2024-01-30
 authors: [Pengyu-Jin]
-slug: efficient configuration
+slug: efficient skills
 categories:
   - Research
 ---
