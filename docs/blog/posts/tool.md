@@ -39,8 +39,8 @@ categories:
 
 | shortcut key | function |
 | ----------- | --------- |
-| `ctrl+shift+Q`| 行内axmath |
-|`alt+Q`| 行间axmath |
+| `ctrl+shift+Q`| 行内axmath、mathtype |
+|`alt+Q`| 行间axmath、mathtype, 关闭mathtype界面 |
 |`ctrl A全选后按F9`| 全文更新域 |
 
 ==for excel==
