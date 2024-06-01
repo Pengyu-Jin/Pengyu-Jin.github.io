@@ -43,10 +43,6 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 
 研究生学位论文格式：[word&latex](https://www.seiee.sjtu.edu.cn/xzzx_xzzq_yjs.html){:target="_blank"}
 
-## visio画图
-"基本项"里面的电子元件都是不可以改变线条粗细，只能通过整体改变形状大小，来调节线条宽度，缺点是不精准。
-
-"基本项-visio2013"里边可以修改元件线条粗细，直接输入宽度为x磅，即可设置线条粗细。
 
 ## 重要国际学术会议目录
 
