@@ -34,9 +34,6 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
     任何一种方法都会存在缺点。能量是守恒的。that's why we can do anything.
 
 ## Mindset for Conducting Research
-
-科研心态分享的一篇blog:[Why Can't I Reproduce Their Results?](https://theorangeduck.com/page/reproduce-their-results){:target="_blank"}
-
 科研心态对应的[知乎回答](https://www.zhihu.com/question/364269312/answer/3107942044){:target="_blank"}
 
 傅里叶分析人生感悟文章：[与时间无关的故事](https://www.zhihu.com/search?type=content&q=Heinrich){:target="_blank"}
