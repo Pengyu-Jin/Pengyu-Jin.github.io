@@ -8,6 +8,8 @@ sumatra PDF+sublime+Texlive=高效科研
 
 我想赢一次。
 
+准备考试
+
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
 电力电子学习：
