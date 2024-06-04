@@ -8,6 +8,8 @@ sumatra PDF+sublime+Texlive=高效科研
 
 可以骗别人，但不要骗自己。
 
+我不想做一个自私的人。
+
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
 电力电子学习：
