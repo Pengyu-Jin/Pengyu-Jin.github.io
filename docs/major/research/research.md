@@ -8,6 +8,8 @@ sumatra PDF+sublime+Texlive=高效科研
 
 不是因为有了希望采用了勇气，而是因为有了勇气才有了希望。
 
+
+
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
 电力电子学习：
