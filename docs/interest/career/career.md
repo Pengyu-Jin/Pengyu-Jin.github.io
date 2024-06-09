@@ -1,3 +1,10 @@
+## 中央企业
+
+[中央企业名录-实体类](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/index.html){:target=_blank}
+
+[中央企业名录-金融类](https://www.gov.cn/guoqing/2021-09/14/content_5637186.htm){:target=_blank}
+
+
 ## 劳动合同
 
 ## 薪资体系
