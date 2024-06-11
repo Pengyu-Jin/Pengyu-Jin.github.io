@@ -1,10 +1,11 @@
+
 !!! quote
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
 sumatra PDF+sublime+Texlive=高效科研
 
-生活很难，加油做好手边的事情。行动比热爱更重要。妈妈这想赢一次，我想赢下这一次。
+行动比热爱更重要。妈妈这想赢一次，我想赢下这一次。
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
