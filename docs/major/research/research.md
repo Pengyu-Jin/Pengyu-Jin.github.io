@@ -5,7 +5,7 @@
 ## 每日整理:memo:
 sumatra PDF+sublime+Texlive=高效科研
 
-行动比热爱更重要。妈妈我想赢一次，我就想赢这一次。
+妈妈我想赢一次，我就想赢这一次，我该怎么办。
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
