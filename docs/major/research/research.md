@@ -22,6 +22,8 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 
 申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
 
+
+
 ## 加油
 论文含金量：SCI正刊＞SCI专刊＞EI期刊＞中文核心≥EI会议＞＞中文普刊≥英文普刊
 
