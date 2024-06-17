@@ -24,3 +24,4 @@ Summary
 电压型逆变器工业上最为常见99%，主要原因是目前的IGBT不能放在电流型逆变器上使用，具有逆阻能力的IGBT目前没有广泛生产，没有对应的市场生态。
 
 SPWM中单极性谐波特性一般优于双极型调制，EMI(Electromagetic Interference电磁干扰)等特性较优
+
