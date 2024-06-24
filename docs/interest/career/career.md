@@ -156,8 +156,6 @@
         | 7    | 超过 960,000 元的           | 45       | 181920           |
 
 
-        SOURCE：[社保查询网](http://sh.12333si.com/shanghai/wenti/2023070215129.html){:target=_blank}
-
     === "咸鱼"
     
         gbtf 
