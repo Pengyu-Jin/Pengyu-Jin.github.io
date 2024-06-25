@@ -5,8 +5,6 @@
 ## 每日整理:memo:
 sumatra PDF+sublime+Texlive=高效科研
 
-妈妈我想赢一次，我就想赢这一次，我一定会赢的，妈妈，请你祝福我。
-
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
 电力电子学习：
