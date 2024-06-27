@@ -24,7 +24,8 @@ nav:
 
   - Interest:
       - interest/index.md
-      - programming: 
+      - programming:
+          - C: interest/programming/C.md 
           - Python: interest/programming/Python.md
       - finance: interest/finance/learn1.md
       - career: interest/career/career.md
