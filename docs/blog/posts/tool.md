@@ -20,11 +20,10 @@ categories:
 | ----------- | --------- |
 | `win+上下左右`| 分屏  |
 | `win+I`     | 设置 |
-| `win+R`    | shell |
+| `win+R`    | 运行，按下cmd打开shell |
 |`win+L`     | 锁屏 |
 | `win+shift+s`| 截屏 |
 | `win+.`    |打开emoji|
-|`win+C`  |打开Copilot|
 |`win+tab`   |打开任务视图 |
 |`win+ctrl+左右`|切换任务视图桌面 |
 |`win+ctrl+D` |新建任务视图桌面 |
@@ -33,7 +32,7 @@ categories:
 
 | shortcut key | function |
 | ----------- | --------- |
-| `ctrl shift ~`| 新建终端  |
+| `ctrl ~`| 打开终端  |
 
 ==for word==
 
