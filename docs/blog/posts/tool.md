@@ -78,9 +78,4 @@ categories:
 
 
 
-## 话术
-
-We have carefully considered all comments from the reviewer and revised our manuscript accordingly. The manuscript has also been double-checked, and the typos and grammar errors we found have been corrected.
-
-我们仔细考虑了审稿人的所有意见，并对稿件进行了相应的修改。手稿也经过了复核，我们发现的错字和语法错误都已经改正.
 
