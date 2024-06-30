@@ -5,6 +5,8 @@
 ## 每日整理:memo:
 sumatra PDF+sublime+Texlive=高效科研
 
+github个人简历
+
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
 整理：[完善markdown语法](https://teedoc.neucrack.com/get_started/zh/syntax/syntax_markdown.html){:target="_blank"}
