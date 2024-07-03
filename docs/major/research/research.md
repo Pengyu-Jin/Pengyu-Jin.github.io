@@ -6,9 +6,13 @@
 
 实验仿真和申博准备
 
+主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
+
+申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
+
 sumatra PDF+sublime+Texlive=高效科研
 
-github个人简历
+github个人简历和学术网站
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
@@ -21,10 +25,6 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 
 
 2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
-
-主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
-
-申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
 
 
 ## 加油
