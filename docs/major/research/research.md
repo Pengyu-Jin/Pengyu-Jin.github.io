@@ -3,6 +3,9 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
+
+实验仿真和申博准备
+
 sumatra PDF+sublime+Texlive=高效科研
 
 github个人简历
