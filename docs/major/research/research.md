@@ -3,8 +3,9 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
+国际会议
 
-赌上一切，为了未来，为了你。
+期刊
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
