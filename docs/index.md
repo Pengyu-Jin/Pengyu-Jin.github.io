@@ -7,4 +7,3 @@ This is the Peng-yu Jin's personal website.[(https://jin-pengyu.github.io/)](htt
     - On mobile, tap the icon in the top left corner to select a theme and article.
 - Open an article by searching keywords.
 
-这是一个残酷的世界，没有能力就会被踩在脚下。
