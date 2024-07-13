@@ -5,8 +5,6 @@
 ## 每日整理:memo:
 计划：国际会议\期刊论文\雅思托福\gre\github个人简历和学术网站
 
-好好仿真科研，发文章
-
 power领域，ECE领域，多看看
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
