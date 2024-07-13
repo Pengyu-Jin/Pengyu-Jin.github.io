@@ -5,7 +5,7 @@
 ## 每日整理:memo:
 计划：国际会议\期刊论文\雅思托福\gre\github个人简历和学术网站
 
-power领域，ECE领域，多看看
+跟[陈家豪](https://faculty.sist.shanghaitech.edu.cn/chenjh/){:target="_blank}老哥学电力电子和控制。
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
