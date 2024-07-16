@@ -7,7 +7,7 @@
 
 跟[陈家豪](https://faculty.sist.shanghaitech.edu.cn/chenjh/){:target="_blank}老哥学电力电子和控制，还有科研的好习惯。
 
-总项目要学会讲故事，总研究要学习本质。
+做项目要学会讲故事，做研究要学习本质。
 
 主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
 
