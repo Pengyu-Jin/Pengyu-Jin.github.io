@@ -210,6 +210,16 @@
         可以通过[咸鱼暄的个税计算器](https://xuan-insr.github.io/magic_tools/personal_income_tax/?slr=240000&srv=0&roy=0&frn=0&otf=0&ded=60000&bpi=19200&bmi=4800&uei=1200&hfd=16800&ced=0&coed=0&sim=0&hli=0&hrt=0&sre=0&inf=0&ann=0&chi=0&tdp=0&alt=0&pep=0&oth=0&don=0&abn=0&adn=0){:target=_blank}进行计算并验证按年个税，其还可以考虑"全年一次性奖金"对应的个税，并且还有其他专项附加扣除项等等。🥰
 
 
+## 工作态度
+
+- 不要将太多个人情感生活
+- 想离职不要到处说
+- 自己职业发展的事不要说
+- 不要散播各种八卦
+- 不要和同事抱怨公司
+- 不要在被背后说同事坏话
+- 不要老是承认错误
+- 不要透露自己的薪资
 
 ## 就业计划
 **知乎老哥推荐:**
