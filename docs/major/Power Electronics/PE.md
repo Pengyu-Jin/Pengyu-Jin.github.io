@@ -1,3 +1,7 @@
+## Power Electronics Learning
+
+[电力电子相关技术学习](https://www.tdk.com/en/tech-mag/){:target=_blank}
+
 ## classes of power amplifier
 
 Class A 放大器
