@@ -41,6 +41,7 @@ categories:
 | `ctrl+shift+Q`| 行内axmath、mathtype |
 |`alt+Q`| 行间axmath、mathtype, 关闭mathtype界面 |
 |`ctrl A全选后按F9`| 全文更新域 |
+|mathtype中`ctrl+k+1/2/3/4`| 插入1/2/3/4类宽度空格 |
 
 ==for excel==
 
