@@ -2,7 +2,6 @@
 
 [电力电子相关技术学习](https://www.tdk.com/en/tech-mag/){:target=_blank}
 
-aboard learning
 
 ## classes of power amplifier
 
