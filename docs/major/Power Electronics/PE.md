@@ -1,6 +1,12 @@
-## Power Electronics Learning
-
+## The World of Power Electronics
 [电力电子相关技术学习](https://www.tdk.com/en/tech-mag/){:target=_blank}
+
+notes
+
+### part1
+### part2
+The differences between the linear and switching methods:
+
 
 
 ## classes of power amplifier
