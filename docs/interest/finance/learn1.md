@@ -22,6 +22,7 @@
 
         数电票，目前主要包括**电子发票（增值税专用发票）**、**电子发票（普通发票）**，是全面数字化的发票，是与纸质发票具有同等法律效力的全新发票，不以纸质形式存在。
 
+        *图：数电发票*
         ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803123509.png){width="700px"}
 
         ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803123529.png){width="700px"}
@@ -29,17 +30,21 @@
     === "增值税专用发票"
 
         增值税专用发票(含增值税电子专用发票)，是增值税纳税人销售货物或者提供应税劳务开具的发票，是购买方支付增值税额并可按照增值税有关规定据以抵扣增值税进项税额的凭证。
-
+        
+        *图：纸质发票*
         ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803120145.png){width="700px"}
 
+        *图：纸电票*
         ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803120600.png){width="700px"}
 
     === "增值税普通发票"
 
         增值税普通发票(含电子普通发票、卷式发票、通行费发票)，是增值税纳税人销售货物或者提供应税劳务、服务时，通过增值税税控系统开具的普通发票。
 
+        *图：纸质发票*
         ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803121938.png){width="700px"}
 
+        *图：纸电票*
         ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803122038.png){width="700px"}
 
         卷式发票和通行费发票版试图可查询上述网站，自行了解。
