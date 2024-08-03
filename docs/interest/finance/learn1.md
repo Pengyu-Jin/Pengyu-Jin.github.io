@@ -22,7 +22,8 @@
     === "增值税专用发票"
 
         增值税专用发票(含增值税电子专用发票)，是增值税纳税人销售货物或者提供应税劳务开具的发票，是购买方支付增值税额并可按照增值税有关规定据以抵扣增值税进项税额的凭证。
-        ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803120145.png)
+
+        ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803120145.png){width="500px"}
 
         ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240803120600.png)
 
