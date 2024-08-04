@@ -36,9 +36,7 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 只是举例说明要勇于说不，没有冒犯的含义。
 
 ### 🕵️语句中的括号内容（one hopes）表示什么意思？
-!!! example
-
-    Increasing the supply of educated and (one hopes) less angry men would be good for the women who must share the same world.
+c
 
     来自于文章[Making sense of the gulf between young men and women](https://www.economist.com/leaders/2024/03/14/making-sense-of-the-gulf-between-young-men-and-women){:target="_blank"}
 
@@ -64,3 +62,10 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 剩下哈里和威廉，哈里隐退，威廉和凯瑟琳结婚。
 
 凯瑟琳目前疾病在身，育有两儿一女。
+
+## 缩写
+
+### aka
+A room specially designed for lectures aka an auditorium.
+
+aka = also known as
