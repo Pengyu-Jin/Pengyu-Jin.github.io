@@ -3,6 +3,7 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
+
 国际会议\期刊论文\雅思托福\gre\github个人简历和学术网站
 
 必须努力，比你们所有人都强。我一定会的，比你们所有人都强。
