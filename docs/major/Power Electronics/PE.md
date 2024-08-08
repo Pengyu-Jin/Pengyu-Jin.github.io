@@ -6,6 +6,7 @@
 The differences between the linear and switching methods:
 
 ### part3
+### part4
 
 
 
