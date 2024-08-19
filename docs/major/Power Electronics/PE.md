@@ -1,3 +1,9 @@
+## 基本知识
+
+KiloHertz
+
+MegaHertz
+
 ## The World of Power Electronics
 [电力电子相关技术学习](https://www.tdk.com/en/tech-mag/){:target=_blank}
 ### part1
