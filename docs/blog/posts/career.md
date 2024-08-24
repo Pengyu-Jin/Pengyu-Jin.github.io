@@ -146,7 +146,7 @@ categories:
 
 ### 项目职责划分
 
-项目最顶层是项目负责人，接下来项目会落实到项目经理(PM, Project Manager)，PM将任务分成若干个子项目，每个项目由一个项目组长(PL, Project Leader)负责。在每个子项目中，由系统工程师(SE, System Engineer)带领程序员(PG, Programmer)共同完成。
+项目最顶层是项目负责人，接下来项目会落实到项目经理(PM, Project Manager)，PM将任务分成若干个子项目，每个项目由一个项目组长(PL, Project Leader)负责。在每个子项目中，由系统工程师(SE, System Engineer)和程序员(PG, Programmer)共同完成。
 
 SE一般可分为三种类型：
 
