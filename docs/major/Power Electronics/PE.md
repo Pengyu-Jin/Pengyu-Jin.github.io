@@ -16,7 +16,7 @@ The differences between the linear and switching methods:
 
 ## 电力电子（研）
 傅老师的顶级理解。
-谐振变换器-LLC-DAB
+谐振变换器-LLC-DAB-仿真分析
 
 ## classes of power amplifier
 
