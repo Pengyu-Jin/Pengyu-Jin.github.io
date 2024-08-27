@@ -40,6 +40,9 @@ nav:
 
   - About:
       - about/index.md
+      - 个人情况:
+          - CV: about/personal profile/cv.md 
+
 
 #[UI]
 
