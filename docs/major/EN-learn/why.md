@@ -63,6 +63,23 @@ c
 
 凯瑟琳目前疾病在身，育有两儿一女。
 
+## 时间UTC
+
+实时查看时间：[TIME.IS](https://time.is/zh/){:target="_blank"}
+
+UTC（Coordinated Universal Time，协调世界时）是全球时间标准，所有的时区时间都是基于它来定义的。UTC时间不受任何地区的地理或政治因素影响，是一种不随季节变化的时间标准。
+
+UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT）尽可能地保持一致。UTC是国际上通用的时间标准，常用于航空、航天、通信和网络同步等领域。
+
+时区是基于UTC的，比如：
+
+- 北京时间（China Standard Time, CST）是UTC+8，表示比UTC时间早8小时。
+- 纽约的东部标准时间（Eastern Standard Time, EST）是UTC-5，表示比UTC时间晚5小时。
+
+!!! abstract
+
+    北美东部时区的标准时间通常适用于秋冬季节。为更好地利用日照时间，春夏时节会采用夏令时（Daylight Saving Time，DST），时间会调早一小时，变为UTC-4。
+
 ## 缩写
 
 ### aka
