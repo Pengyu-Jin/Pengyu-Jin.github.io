@@ -83,8 +83,15 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 ## 缩写
 
 ### aka
-A room specially designed for lectures aka an auditorium.
-
 aka = also known as
 
-### 
+!!! info
+
+    A room specially designed for lectures aka an auditorium.
+
+### FYI
+FYI = for your information
+
+!!! info
+
+    Gamers, FYI this is all the main series games - enjoy!
