@@ -63,6 +63,37 @@ c
 
 凯瑟琳目前疾病在身，育有两儿一女。
 
+
+### 🕵️good luck on your quest! 怎么理解？
+!!! info
+
+    在一个论坛的欢迎帖子里，有人回复到：welcome! good luck on your quest!
+
+The phrase "Good luck on your quest!" is a common English expression used to encourage someone as they embark on a task, goal, or adventure. It essentially means wishing someone success in whatever they are about to undertake.
+
+This phrase doesn't have a specific origin; it's widely used in literature, movies, games, and everyday language, especially in contexts involving a journey or mission. In fantasy novels, adventure films, or role-playing games (RPGs), characters often embark on quests, and this phrase is used to wish them well on their journey.
+
+### 🕵️come in handy
+!!! info
+
+    Don't throw that away—it might come in handy.
+
+    A few more traveler's checks may come in handy on the holiday.
+
+In the phrase "come in handy," "come in" is an idiomatic expression meaning "to become" or "to prove to be." When we say something "might come in handy," it means that the item might become useful or prove to be helpful in the future.
+
+## 缩写
+
+### aka = also known as
+
+e.g.  A room specially designed for lectures aka an auditorium.
+
+### FYI = for your information
+e.g.  Gamers, FYI this is all the main series games - enjoy!
+
+
+
+## the culture in life
 ## 🕵️时间UTC
 
 实时查看时间：[TIME.IS](https://time.is/zh/){:target="_blank"}
@@ -79,21 +110,3 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 !!! abstract
 
     北美东部时区的标准时间通常适用于秋冬季节。为更好地利用日照时间，春夏时节会采用夏令时（Daylight Saving Time，DST），时间会调早一小时，变为UTC-4。
-
-### 🕵️good luck on your quest! 怎么理解？
-!!! info
-
-    在一个论坛的欢迎帖子里，有人回复到：welcome! good luck on your quest!
-
-The phrase "Good luck on your quest!" is a common English expression used to encourage someone as they embark on a task, goal, or adventure. It essentially means wishing someone success in whatever they are about to undertake.
-
-This phrase doesn't have a specific origin; it's widely used in literature, movies, games, and everyday language, especially in contexts involving a journey or mission. In fantasy novels, adventure films, or role-playing games (RPGs), characters often embark on quests, and this phrase is used to wish them well on their journey.
-
-## 缩写
-
-### aka = also known as
-
-e.g.  A room specially designed for lectures aka an auditorium.
-
-### FYI = for your information
-e.g.  Gamers, FYI this is all the main series games - enjoy!
