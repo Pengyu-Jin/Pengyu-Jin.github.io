@@ -1,12 +1,12 @@
-## 有意思的英语文化-记录
+## 🕵️有意思的英语文化-记录
 
-### 🕵️Previewing the textbook, pp. 28–32.  为什么要用两个p?
+### Previewing the textbook, pp. 28–32.  为什么要用两个p?
 
 The use of "pp." (plural) instead of just "p." (singular) is a convention in academic and bibliographic writing to indicate a range of pages. "p." stands for "page" and "pp." stands for "pages".
 
 When you see "pp. 28–32," it signifies that the content or information spans from page 28 to page 32 inclusive. The use of the plural form helps to differentiate between a single page reference and a range of pages.
 
-### 🕵️马丁·路德·金的名字为什么写成Martin Luther King, Jr.?
+### 马丁·路德·金的名字为什么写成Martin Luther King, Jr.?
 !!! info
         
     We may get there someday as men of the caliber of Lincoln, Martin Luther King, Jr., and others build upon Washington's legacy.
@@ -19,14 +19,14 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 
 句子中写成Martin Luther King, Jr.而不是Martin Luther King Jr.的原因是，在较正式或官方的场合，添加逗号以明确标示 "Jr." 是更为常见的做法，这种规范可能是出于清晰表达、避免歧义的目的。
 
-### 🕵️使用i.e.表示：即，也就是。后面为什么加逗号？
+### 使用i.e.表示：即，也就是。后面为什么加逗号？
 !!! example
 
     EV aggregator is a third party between energy supplier i.e., system operator and energy consumer i.e., EV user/owner.
 
 在句子中使用 i.e.（即）时，逗号的作用是将解释或说明引入句子。逗号有助于突显解释性质的部分，使得读者更容易理解。在你提供的句子中，逗号用来引入解释性的部分，使得读者能够明确知道 "i.e." 后面的内容是对前面部分的解释，起到补充说明的作用。这样的使用方式有助于提高句子的清晰度和可读性。
 
-### 🕵️最后括号内容表示额外说明
+### 最后括号内容表示额外说明
 !!! info
 
     “I would love to talk about happiness while making balloon animals at your granddaughter’s birthday party in Fairbanks!” Later, I may regret it. (No offense to your lovely granddaughter.)
@@ -35,7 +35,7 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 
 只是举例说明要勇于说不，没有冒犯的含义。
 
-### 🕵️语句中的括号内容（one hopes）表示什么意思？
+### 语句中的括号内容（one hopes）表示什么意思？
 !!! example
 
     来自于文章[Making sense of the gulf between young men and women](https://www.economist.com/leaders/2024/03/14/making-sense-of-the-gulf-between-young-men-and-women){:target="_blank"}
@@ -44,7 +44,7 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 
 在这种用法中，“one”不指特定的人，而是用作不特定主语，相当于“人们希望”。“hopes”使用复数形式，并不是指多个希望，而是一种英语表达习惯，用来表达一种广泛或普遍的希望、期待或愿望,不是具体的、个别的愿望。
 
-### 🕵️英国的贵族
+### 英国的贵族
 !!! info
 
     亲王，公爵，侯爵，伯爵，子爵，男爵
@@ -64,7 +64,7 @@ When you see "pp. 28–32," it signifies that the content or information spans f
 凯瑟琳目前疾病在身，育有两儿一女。
 
 
-### 🕵️good luck on your quest! 怎么理解？
+### good luck on your quest! 怎么理解？
 !!! example
 
     在一个论坛的欢迎帖子里，有人回复到：welcome! good luck on your quest!
@@ -73,7 +73,7 @@ The phrase "Good luck on your quest!" is a common English expression used to enc
 
 This phrase doesn't have a specific origin; it's widely used in literature, movies, games, and everyday language, especially in contexts involving a journey or mission. In fantasy novels, adventure films, or role-playing games (RPGs), characters often embark on quests, and this phrase is used to wish them well on their journey.
 
-### 🕵️come in handy
+### come in handy
 !!! info
 
     Don't throw that away—it might come in handy.
@@ -82,7 +82,7 @@ This phrase doesn't have a specific origin; it's widely used in literature, movi
 
 In the phrase "come in handy," "come in" is an idiomatic expression meaning "to become" or "to prove to be." When we say something "might come in handy," it means that the item might become useful or prove to be helpful in the future.
 
-## 缩写
+## ✒️缩写
 
 ### aka = also known as
 
@@ -93,9 +93,9 @@ e.g.  Gamers, FYI this is all the main series games - enjoy!
 
 
 
-## the culture in life
+## 🗽the culture in life
 
-## 🕵️时间UTC
+## 时间UTC
 
 实时查看时间：[TIME.IS](https://time.is/zh/){:target="_blank"}
 
