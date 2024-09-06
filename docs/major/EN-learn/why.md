@@ -1,4 +1,4 @@
-## 🕵️有意思的英语文化-记录
+## 🕵️interesting expression
 
 ### Previewing the textbook, pp. 28–32.  为什么要用两个p?
 
@@ -82,7 +82,7 @@ This phrase doesn't have a specific origin; it's widely used in literature, movi
 
 In the phrase "come in handy," "come in" is an idiomatic expression meaning "to become" or "to prove to be." When we say something "might come in handy," it means that the item might become useful or prove to be helpful in the future.
 
-## ✒️缩写
+## ✒️abbreviations and acronyms
 
 ### aka = also known as
 
@@ -95,7 +95,7 @@ e.g.  Gamers, FYI this is all the main series games - enjoy!
 
 ## 🗽the culture in life
 
-## 时间UTC
+### 时间UTC
 
 实时查看时间：[TIME.IS](https://time.is/zh/){:target="_blank"}
 
