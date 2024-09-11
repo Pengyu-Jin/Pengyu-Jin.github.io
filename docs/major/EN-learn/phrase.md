@@ -122,4 +122,4 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 | **State** (verb) | To express something in words clearly. | "He **stated** his opinion during the meeting." |
 | **Statute** | A written law passed by a legislative body. | "The new **statute** was enacted last year." |
 | **Stature** | A person's natural height or level of respect gained. | "She gained great **stature** in her profession." |
-| **Stat** | A short form of "statistic" or used in medical contexts to mean "immediately." | "I need those figures **stat**." or "Dr.Spot, please report to the ER(emergency room) **stat**." |
+| **Stat** | A short form of "statistic" or used in medical contexts to mean "immediately." | "I need those figures **stat**." <br> "Dr.Spot, please report to the ER(emergency room) **stat**." |
