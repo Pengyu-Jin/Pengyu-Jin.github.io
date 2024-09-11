@@ -19,7 +19,7 @@ The differences between the linear and switching methods:
 谐振变换器-LLC-DAB-仿真分析
 
 
-## New Energy 并网
+## New energy connected to the grid
 
 依据直流侧电源性质的不同，分为电压型逆变器和电流型逆变器。（从电路拓扑角度上来）。
 
