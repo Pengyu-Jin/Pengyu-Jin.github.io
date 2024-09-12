@@ -11,8 +11,6 @@ MegaHertz
 ### part2
 The differences between the linear and switching methods:
 
-### part3
-### part4
 
 ## 电力电子（研）
 傅老师的顶级理解。
