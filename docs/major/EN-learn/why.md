@@ -82,6 +82,8 @@ This phrase doesn't have a specific origin; it's widely used in literature, movi
 
 In the phrase "come in handy," "come in" is an idiomatic expression meaning "to become" or "to prove to be." When we say something "might come in handy," it means that the item might become useful or prove to be helpful in the future.
 
+
+
 ## ✒️abbreviations and acronyms
 
 ### aka = also known as
