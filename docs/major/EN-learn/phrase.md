@@ -38,6 +38,10 @@
 
 ✒️My wife backed me up over my decision to quit my job.
 
+**call into question**: to make people uncertain about whether something is right, good, or true.
+
+✒️Some called into question whether or not the developers of Palword, Pocketpair Inc, would come under fire.
+
 ## adjective phrase
 
 **brick and mortar**: relating to or being a traditional business serving customers in a building as contrasted to an online business.
