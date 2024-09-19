@@ -96,7 +96,7 @@ This lawsuit seeks an injunction against infringement and compensation for damag
 
 Nintendo will continue to take necessary actions against any infringement of its intellectual property rights including the Nintendo brand itself, to protect the intellectual properties it has worked hard to establish over the years.
 
-## ✒️abbreviations and acronyms
+## 📝abbreviations and acronyms
 
 ### aka = also known as
 
