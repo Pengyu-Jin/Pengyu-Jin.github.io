@@ -90,13 +90,20 @@ population generation
 
     Nintendo News:[Filing Lawsuit for Infringement of Patent Rights against Pocketpair, Inc.](https://gbatemp.net/threads/nintendo-is-suing-the-creators-of-palworld.661009/){:target="_blank"}
 
-Nintendo Co., Ltd.[^1] (HQ: Kyoto, Minami-ku, Japan; Representative Director and President: Shuntaro Furukawa, “Nintendo” hereafter), together with The Pokémon Company, filed a patent infringement lawsuit in the Tokyo District Court against Pocketpair, Inc. (HQ: 2-10-2 Higashigotanda, Shinagawa-ku, Tokyo, “Defendant” hereafter) on September 18, 2024.
+Nintendo Co., Ltd.[^1] (HQ: Kyoto, Minami-ku, Japan; Representative Director and President: Shuntaro Furukawa, “Nintendo” hereafter[^2]), together with The Pokémon Company, filed a patent infringement lawsuit in the Tokyo District Court against Pocketpair, Inc.[^3] (HQ: 2-10-2 Higashigotanda, Shinagawa-ku, Tokyo, “Defendant” hereafter[^4]) on September 18, 2024.
 
 This lawsuit seeks an injunction against infringement and compensation for damages on the grounds that Palworld, a game developed and released by the Defendant, infringes multiple patent rights.
 
 Nintendo will continue to take necessary actions against any infringement of its intellectual property rights including the Nintendo brand itself, to protect the intellectual properties it has worked hard to establish over the years.
 
-[^1]: Nintendo Co., Ltd. 
+[^1]: Co.: the abbreviation of company; Ltd.: the abbreviation of limited liability company.
+
+[^2]: in a later part of an official or legal document 〔正式或法律文件中〕在下文中，此后。在下文以"Nintendo"指代Nintendo Co., Ltd.
+
+[^3]: Inc.: the abbreviation of incorporated company.
+
+[^4]: 在下文以"Defendant"指代Pocketpair.
+
 
 ## 📝abbreviations and acronyms
 
