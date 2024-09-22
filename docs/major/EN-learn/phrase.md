@@ -120,10 +120,10 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 
 | Word    | Meaning | Example |
 |---------|---------|---------|
-| **Status** | The condition or position of something or someone at a particular time. | "What is the **status** of the project?" |
-| **Statue** | A carved or cast figure of a person or animal, especially one that is life-size or larger. | "We saw a **statue** of a famous general in the park." |
-| **State** (noun) | A particular condition that someone or something is in at a specific time. | "The meaning of 'obscurity' is the **state** of being unknown or forgotten." |
-| **State** (verb) | To express something in words clearly. | "He **stated** his opinion during the meeting." |
-| **Statute** | A written law passed by a legislative body. | "The new **statute** was enacted last year." |
-| **Stature** | A person's natural height or level of respect gained. | "She gained great **stature** in her profession." |
-| **Stat** | A short form of "statistic" or used in medical contexts to mean "immediately." | <ul><li>I need those figures **stat**.</li><li>Dr.Spot, please report to the ER (emergency room) **stat**.</li></ul>  |
+| **status** | The condition or position of something or someone at a particular time. | "What is the **status** of the project?" |
+| **statue** | A carved or cast figure of a person or animal, especially one that is life-size or larger. | "We saw a **statue** of a famous general in the park." |
+| **state** (noun) | A particular condition that someone or something is in at a specific time. | "The meaning of 'obscurity' is the **state** of being unknown or forgotten." |
+| **state** (verb) | To express something in words clearly. | "He **stated** his opinion during the meeting." |
+| **statute** | A written law passed by a legislative body. | "The new **statute** was enacted last year." |
+| **stature** | A person's natural height or level of respect gained. | "She gained great **stature** in her profession." |
+| **stat** | A short form of "statistic" or used in medical contexts to mean "immediately." | <ul><li>I need those figures **stat**.</li><li>Dr.Spot, please report to the ER (emergency room) **stat**.</li></ul>  |
