@@ -127,3 +127,8 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 | **statute** | A written law passed by a legislative body. | "The new **statute** was enacted last year." |
 | **stature** | A person's natural height or level of respect gained. | "She gained great **stature** in her profession." |
 | **stat** | A short form of "statistic" or used in medical contexts to mean "immediately." | <ul><li>I need those figures **stat**.</li><li>Dr.Spot, please report to the ER (emergency room) **stat**.</li></ul>  |
+
+| Word    | Meaning | Example |
+|---------|---------|---------|
+| **ration** |  <ul><li>adj. a radical change or difference is very big and important.</li><li>adj. radical ideas are very new and different, and are against what most people think or believe.</li></ul> | <ul><li>They are proposing radical changes to the way the company is run.</li><li>I was shocked by her radical views.</li></ul> |
+| **rational** | adj.  rational thoughts, decisions etc are based on reasons rather than emotions. | Parents need to be fully informed so they can make a rational decision. |
