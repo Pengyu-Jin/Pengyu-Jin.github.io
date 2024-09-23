@@ -82,8 +82,20 @@ This phrase doesn't have a specific origin; it's widely used in literature, movi
 
 In the phrase "come in handy," "come in" is an idiomatic expression meaning "to become" or "to prove to be." When we say something "might come in handy," it means that the item might become useful or prove to be helpful in the future.
 
-### generation
-population generation
+### generational timeline
+![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/age%20generation.jpg)
+
+| Generation             | Birth Years        | Notable Events/Characteristics                |
+|------------------------|--------------------|-----------------------------------------------|
+| Lost Generation         | 1883–1900          | Came of age during World War I                |
+| Greatest/G.I. Generation| 1901–1927          | Fought in World War II                        |
+| Silent Generation       | 1928–1945          | Grew up during World War II and early Cold War|
+| Baby Boomers            | 1946–1964          | Born after World War II in the baby boom      |
+| Generation X            | 1965–1980          | Came of age during the 1980s–1990s            |
+| Millennials/Gen Y       | 1981–1996          | Came of age around 2000, grew up with the internet |
+| Zoomers/Gen Z           | 1997–2012          | Grew up with social media and smartphones     |
+| Generation Alpha        | Early 2010s–mid-2020s | The youngest generation, growing up with AI and technology |
+
 
 ### News Release--Nintendo
 !!! info
