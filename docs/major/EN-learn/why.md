@@ -83,6 +83,10 @@ This phrase doesn't have a specific origin; it's widely used in literature, movi
 In the phrase "come in handy," "come in" is an idiomatic expression meaning "to become" or "to prove to be." When we say something "might come in handy," it means that the item might become useful or prove to be helpful in the future.
 
 ### generational timeline
+!!! info
+
+    reference: [Generation--wikipedia](https://en.wikipedia.org/wiki/Generation#Western_world){:target="_blank"}
+
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/age%20generation.jpg)
 
 | Generation             | Birth Years        | Notable Events/Characteristics                |
