@@ -1,5 +1,5 @@
 
-!!! info "how to wite the letter é in Pokémon"
+!!! info "how to write the letter é in Pokémon"
 
     type "alt+0233"
 
