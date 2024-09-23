@@ -87,7 +87,12 @@ In the phrase "come in handy," "come in" is an idiomatic expression meaning "to 
 
     reference: [Generation--wikipedia](https://en.wikipedia.org/wiki/Generation#Western_world){:target="_blank"}
 
-![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/age%20generation.jpg)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/age%20generation.jpg" alt="Generational Chart" width="500">
+</p>
+
+
+This image is a generational timeline chart that visualizes the birth years of different demographic cohorts, often referred to as "generations." It shows the following generations:
 
 | Generation             | Birth Years        | Notable Events/Characteristics                |
 |------------------------|--------------------|-----------------------------------------------|
