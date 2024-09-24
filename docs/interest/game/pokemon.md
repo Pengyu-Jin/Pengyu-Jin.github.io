@@ -7,3 +7,5 @@
 
 
 ## Pokémon 对战学
+
+## Pokémon 语言学
