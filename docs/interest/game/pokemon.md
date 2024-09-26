@@ -8,4 +8,4 @@
 
 ## Pokémon 对战学
 
-## Pokémon 语言学
+## Pokémon 历史学
