@@ -155,3 +155,6 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 !!! abstract
 
     北美东部时区的标准时间通常适用于秋冬季节。为更好地利用日照时间，春夏时节会采用夏令时（Daylight Saving Time，DST），时间会调早一小时，变为UTC-4。
+
+### partitive nouns
+
