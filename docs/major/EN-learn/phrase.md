@@ -52,7 +52,7 @@
 
 ✏️The explosive growth of online shopping and the death of brick and mortar stores.
 
-## adverb phrase
+## adverb phrase🫡
 
 **over time**: if something happens over time, it happens gradually during a long period.
 
@@ -62,7 +62,7 @@
 
 🪶Max is hard-working, cheerful, and above all honest.
 
-## casual conversation
+## casual conversation☕
 
 Can I get you something to drink? 我给你拿点喝的嘛？
 
