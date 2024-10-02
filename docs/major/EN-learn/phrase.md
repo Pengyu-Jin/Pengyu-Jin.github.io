@@ -42,6 +42,10 @@
 
 ✒️Some called into question whether or not the developers of Palword, Pocketpair Inc, would come under fire.
 
+**look no further than**: used to emphasize the importance of something or to suggest that there is no alternative.
+
+✒️To reduce the risk of cancer, look no further than your fridge.
+
 ## adjective phrase
 
 **brick and mortar**: relating to or being a traditional business serving customers in a building as contrasted to an online business.
@@ -53,6 +57,10 @@
 **over time**: if something happens over time, it happens gradually during a long period.
 
 🪶They don't help right away, but over time can make lungs healthier.
+
+**above all**: used to emphasize or stress something that is important or significant.
+
+🪶Max is hard-working, cheerful, and above all honest.
 
 ## casual conversation
 
