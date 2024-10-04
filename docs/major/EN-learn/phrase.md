@@ -149,3 +149,4 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 
 ## collocations
 **earn somebody something**: That performance earned her an Oscar as Best Actress.
+
