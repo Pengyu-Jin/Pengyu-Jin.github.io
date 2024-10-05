@@ -147,6 +147,11 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 | **coincidence** | n. when two things happen at the same time, in the same place, or to the same people in a way that seems surprising or unusual. | It was sheer **coincidence** that we were staying in the same hotel.|
 | **conscience** | n. the part of your mind that tells you whether what you are doing is morally right or wrong.  | Well, at least I can face them all with a clear **conscience**. |
 
+| Word    | Meaning | Example |
+|---------|---------|---------|
+| **vigorous** | adj. using a lot of energy and strength or determination. | Environmentalists have begun a **vigorous** campaign to oppose nuclear dumping in the area.|
+| **rigorous** | n. careful, thorough, and exact  | a **rigorous** analysis of defence needs. |
+
 ## collocations
 **earn somebody something**: That performance earned her an Oscar as Best Actress.
 
