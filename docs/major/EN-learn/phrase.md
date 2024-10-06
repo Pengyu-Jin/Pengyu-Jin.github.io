@@ -128,13 +128,13 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 
 | Word    | Meaning | Example |
 |---------|---------|---------|
-| **status** | The condition or position of something or someone at a particular time. | "What is the **status** of the project?" |
-| **statue** | A carved or cast figure of a person or animal, especially one that is life-size or larger. | "We saw a **statue** of a famous general in the park." |
-| **state** (noun) | A particular condition that someone or something is in at a specific time. | "The meaning of 'obscurity' is the **state** of being unknown or forgotten." |
-| **state** (verb) | To express something in words clearly. | "He **stated** his opinion during the meeting." |
-| **statute** | A written law passed by a legislative body. | "The new **statute** was enacted last year." |
-| **stature** | A person's natural height or level of respect gained. | "She gained great **stature** in her profession." |
-| **stat** | A short form of "statistic" or used in medical contexts to mean "immediately." | <ul><li>I need those figures **stat**.</li><li>Dr.Spot, please report to the ER (emergency room) **stat**.</li></ul>  |
+| **status** | n. The condition or position of something or someone at a particular time. | "What is the **status** of the project?" |
+| **statue** | n. A carved or cast figure of a person or animal, especially one that is life-size or larger. | "We saw a **statue** of a famous general in the park." |
+| **state**  | n. A particular condition that someone or something is in at a specific time. | "The meaning of 'obscurity' is the **state** of being unknown or forgotten." |
+| **state**  | v. To express something in words clearly. | "He **stated** his opinion during the meeting." |
+| **statute** | n. A written law passed by a legislative body. | "The new **statute** was enacted last year." |
+| **stature** | n. A person's natural height or level of respect gained. | "She gained great **stature** in her profession." |
+| **stat** | n. A short form of "statistic" or used in medical contexts to mean "immediately." | <ul><li>I need those figures **stat**.</li><li>Dr.Spot, please report to the ER (emergency room) **stat**.</li></ul>  |
 
 | Word    | Meaning | Example |
 |---------|---------|---------|
@@ -150,7 +150,7 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 | Word    | Meaning | Example |
 |---------|---------|---------|
 | **vigorous** | adj. using a lot of energy and strength or determination. | Environmentalists have begun a **vigorous** campaign to oppose nuclear dumping in the area.|
-| **rigorous** | n. careful, thorough, and exact  | a **rigorous** analysis of defence needs. |
+| **rigorous** | adj. careful, thorough, and exact  | There is a **rigorous** analysis of defence needs. |
 
 ## collocations
 **earn somebody something**: That performance earned her an Oscar as Best Actress.
