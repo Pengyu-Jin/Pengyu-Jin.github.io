@@ -1,6 +1,6 @@
 ---
 title: career info
-date: 2024-06-08
+date: 2024-10-07
 authors: [Pengyu-Jin]
 slug: career info
 categories:
