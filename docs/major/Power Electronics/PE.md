@@ -3,7 +3,7 @@ PELS 是 "Power Electronics Society" 的缩写，这是电气和电子工程师�
 
 ## 基本知识
 
-晶体管(transistor)的工作机制:
+**晶体管(transistor)的工作机制:**
 
 [简述半导体原理——晶体管家族的核心工作机制](https://mp.weixin.qq.com/s/44KHeYIaMp7wSBz9HM1eWg){:target=_blank}
 
