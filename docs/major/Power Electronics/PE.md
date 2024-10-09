@@ -7,9 +7,9 @@ PELS 是 "Power Electronics Society" 的缩写，这是电气和电子工程师�
 
 [简述半导体原理——晶体管家族的核心工作机制](https://mp.weixin.qq.com/s/44KHeYIaMp7wSBz9HM1eWg){:target=_blank}
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113208778035385&bvid=BV1tRsoefEmE&cid=26029196576&p=1"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113208778035385&bvid=BV1tRsoefEmE&cid=26029196576&p=1"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" autoplay="false"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?aid=50668972&bvid=BV144411b7Uk&cid=88706634&p=1"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="autoplay; encrypted-media" autoplay="false"> </iframe>
+
 
 
 KiloHertz
