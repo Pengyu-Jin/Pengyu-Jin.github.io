@@ -62,6 +62,12 @@
 
 🪶Max is hard-working, cheerful, and above all honest.
 
+## prepositional phrase
+
+**in exchange of**: used to express a promise or agreement to do something in return for something else.
+
+🖌️Women with children are handed social acceptance for their vital investment in “the future”, in exchange for unrewarded, unsupported labour that props up and stabilises the economic and social status quo.
+
 ## casual conversation☕
 
 Can I get you something to drink? 我给你拿点喝的嘛？
