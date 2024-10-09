@@ -7,6 +7,7 @@ PELS 是 "Power Electronics Society" 的缩写，这是电气和电子工程师�
 
 [简述半导体原理——晶体管家族的核心工作机制](https://mp.weixin.qq.com/s/44KHeYIaMp7wSBz9HM1eWg){:target=_blank}
 
+关艳霞老师讲的确实简单易懂，初步了解概念之后，可以自行探索。
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113208778035385&bvid=BV1tRsoefEmE&cid=26029196576&p=1&autoplay=0&muted=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 

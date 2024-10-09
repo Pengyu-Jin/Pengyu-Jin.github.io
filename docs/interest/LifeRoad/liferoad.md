@@ -29,7 +29,7 @@ Don't be afraid; go question the world.
 ## 2024-02-08
 精通一件事需要10,000小时，但是学会一件事只需要20小时，You can get it!
 
-<iframe src="//player.bilibili.com/player.html?aid=50668972&bvid=BV144411b7Uk&cid=88706634&p=1"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="autoplay; encrypted-media" autoplay="false"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=50668972&bvid=BV144411b7Uk&cid=88706634&p=1&autoplay=0&muted=0"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 2024-01-23
 人生绕绕远路也不错
@@ -37,7 +37,7 @@ Don't be afraid; go question the world.
 ## 2024-01-22
 人在某一时刻就会长大：
 
-<iframe src="//player.bilibili.com/player.html?aid=325743308&bvid=BV1nw41137Je&cid=1390239040&p=1"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="autoplay; encrypted-media" autoplay="false"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=325743308&bvid=BV1nw41137Je&cid=1390239040&p=1&autoplay=0&muted=0"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 !!! quote "来自知乎的一篇小文"
     链接：[匿名关了，大家实名说说你最近的烦恼？](https://www.zhihu.com/question/619116908/answer/3343251220){:target="_blank"}
@@ -49,7 +49,7 @@ Don't be afraid; go question the world.
 
 2024年了，努力依然有用。Larry分享的人生小故事：
 
-<iframe src="//player.bilibili.com/player.html?aid=539026586&bvid=BV1Gi4y1W7Jt&cid=1413238812&p=1"width="640" height="360" scrolling="no" border="1" frameborder="yes" framespacing="0" allowfullscreen="true" allow="autoplay; encrypted-media" autoplay="false"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=539026586&bvid=BV1Gi4y1W7Jt&cid=1413238812&p=1&autoplay=0&muted=0"width="640" height="360" scrolling="no" border="1" frameborder="yes" framespacing="0" allowfullscreen="true"> </iframe>
 
 坚持是一种像黄金一样的品质，无论做什么，无论是什么行业，用心做事，坚持做下去，机会总会来的。
 
