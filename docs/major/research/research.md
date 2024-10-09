@@ -3,7 +3,7 @@
     Chance favors the prepared mind.
 
 ## 每日整理:memo:
-2024下半年要把国际会议和雅思搞定。心无旁骛加油
+2024下半年要把国际会议和雅思搞定
 
 国际会议\期刊论文\雅思托福\gre\github个人简历和学术网站
 

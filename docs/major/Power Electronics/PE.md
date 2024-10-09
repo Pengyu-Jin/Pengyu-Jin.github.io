@@ -3,6 +3,12 @@ PELS 是 "Power Electronics Society" 的缩写，这是电气和电子工程师�
 
 ## 基本知识
 
+晶体管(transistor)的工作机制:
+
+[英飞凌工业半导体](https://mp.weixin.qq.com/s/44KHeYIaMp7wSBz9HM1eWg){:target=_blank}
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113208778035385&bvid=BV1tRsoefEmE&cid=26029196576&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 KiloHertz
 
 MegaHertz
