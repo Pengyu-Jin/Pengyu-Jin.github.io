@@ -12,12 +12,11 @@ PELS 是 "Power Electronics Society" 的缩写，这是电气和电子工程师�
 
 
 
-
-
-
 KiloHertz
 
 MegaHertz
+
+系统性的推到知识写成pdf
 
 ## The World of Power Electronics
 [电力电子相关技术学习](https://www.tdk.com/en/tech-mag/){:target=_blank}
