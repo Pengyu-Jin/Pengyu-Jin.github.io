@@ -20,6 +20,12 @@ categories:
 
 **idm[^2]-Internet Download Manager**：下载管理器
 
+!!! alert "bug"
+
+    用一段时间后会显示“此版本的IDM不支持该类下载，请尝试将IDM更新至最新版本”。原因是chrome浏览器在更新时扩展插件会自动更新，导致下载失败。解决办法是移除插件，在从idm安装目录中找到IDMGCExt.crx，拖入浏览器扩展界面中，重新安装插件即可使用。具体参考下面链接。
+
+    [此版本的IDM不支持该类下载，请尝试将IDM更新至最新版本](https://blog.csdn.net/chenxihe123/article/details/121283537){:target="_blank"}
+
 **Adobe Acrobat[^3]**：Adobe PDF阅读器，参考bilibili的[up主-云渲视觉](https://www.bilibili.com/video/BV1nB4y1o7Py/?spm_id_from=333.337.search-card.all.click&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
 **SimpleTex**：公式识别，生成对应的LaTex代码。[SimpleTex主页](https://simpletex.cn/){:target="_blank"}
