@@ -26,6 +26,8 @@ categories:
 
 **PicGo**：上传图片到图床的软件，获取对应的URL。[PicGo主页](https://picgo.github.io/PicGo-Doc/){:target="_blank"}
 
+**mathematica**: 数学软件，可以用来做一些数学计算。[Mathematica 激活指南](https://tiebamma.github.io/InstallTutorial/){:target="_blank"}
+
 [^1]:百度网盘/我的资源/Axmath
 
 [^2]:百度网盘/我的资源/idm
