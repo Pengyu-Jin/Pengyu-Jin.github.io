@@ -1,6 +1,6 @@
 ---
 title: computer configuration
-date: 2024-02-02
+date: 2024-10-13
 authors: [Pengyu-Jin]
 slug: computer configuration
 categories:
