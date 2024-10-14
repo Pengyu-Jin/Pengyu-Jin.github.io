@@ -20,7 +20,7 @@ categories:
 
 **idm[^2]-Internet Download Manager**：下载管理器
 
-!!! alert "bug"
+!!! bug "一些问题"
 
     用一段时间后会显示“此版本的IDM不支持该类下载，请尝试将IDM更新至最新版本”。原因是chrome浏览器在更新时扩展插件会自动更新，导致下载失败。解决办法是移除插件，在从idm安装目录中找到IDMGCExt.crx，拖入浏览器扩展界面中，重新安装插件即可使用。具体参考下面链接。
 
