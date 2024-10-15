@@ -16,7 +16,7 @@ KiloHertz
 
 MegaHertz
 
-系统性的推到知识写成pdf
+系统性的推导知识写成pdf
 
 ## The World of Power Electronics
 [电力电子相关技术学习](https://www.tdk.com/en/tech-mag/){:target=_blank}
