@@ -62,6 +62,10 @@
 
 🪶Max is hard-working, cheerful, and above all honest.
 
+**at length**: if you talk at length about something, you talk about it for a long time.
+
+🪶The young people spoke at length about their experiences.
+
 ## prepositional phrase
 
 **in exchange of**: used to express a promise or agreement to do something in return for something else.
