@@ -32,7 +32,7 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 
 
 
-## 加油
+## 含金量
 论文含金量：SCI正刊＞SCI专刊＞EI期刊＞中文核心≥EI会议＞＞中文普刊≥英文普刊
 
 ## Remember:hugging:
