@@ -167,26 +167,34 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 
 !!! abstract "转换方法"
 
-    === "Length"
+    === "Length--in,ft,yd,mi"
 
-    - 1 foot = 12 inches
-    - 1 yard = 3 feet = 36 inches
-    - 1 mile = 5280 feet
+        - 1 foot = 12 inches
+        - 1 yard = 3 feet = 36 inches
+        - 1 mile = 5280 feet
+        <br></br>
+        - 1 inch = 2.54 cm
+        - 1 foot = 30.48 cm
+        - 1 mile = 5280 feet = 1.609 km
 
-    - 1 inch = 2.54 centimeters.
-    - 1 mile = 5280 feet = 1.609 kilometers.
+
+    === "Weight--oz,lb,ton" 
+        
+        - 1 pound = 16 ounces
+        - 1 ton = 2000 pounds (short ton, U.S.ton=2000 lbs//long ton, British ton=2240 lbs)
+        <br></br>
+        - 1 ounce = 28.3495 g
+        - 1 pound = 453.592 g
+        - 1 ton = 907.185 kg
 
 
-    === "Weight"
-    公制单位转化为英制单位：1公斤=2.20462磅；1千克=0.453596公斤；1克=0.035274磅。
-
-    === "Volume"
+    === "Volume--fl oz,pt,qt,gal"
     
-    公制单位转化为英制单位：1升=231英尺³；1毫升=0.000231立方米；1升=0.0231立方米；1升=0.00231立方米。
+        - xxx
 
     === "Temperature"
 
-    华氏度转化为摄氏度：(°F-32)×5/9=°C。
+        华氏度转化为摄氏度：(°F-32)×5/9=°C。
 
 ### Partisan strife
 
