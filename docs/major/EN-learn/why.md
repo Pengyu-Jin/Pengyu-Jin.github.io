@@ -156,6 +156,38 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 
     北美东部时区的标准时间通常适用于秋冬季节。为更好地利用日照时间，春夏时节会采用夏令时（Daylight Saving Time，DST），时间会调早一小时，变为UTC-4。
 
+### systems of measurement
+
+| Measurement   | Imperial Unit                 | Metric Unit                 |
+|---------------|-------------------------------|-----------------------------|
+| Length        | inch, foot, yard, mile        | centimeter, meter, kilometer            |
+| Weight        | ounce, pound, ton             | gram, kilogram              |
+| Volume        | fluid ounce, pint, quart, gallon| liter, milliliter           |
+| Temperature   | Fahrenheit (°F)               | Celsius (°C), Kelvin (K)    |
+
+!!! abstract "转换方法"
+
+    === "Length"
+
+    - 1 foot = 12 inches
+    - 1 yard = 3 feet = 36 inches
+    - 1 mile = 5280 feet
+
+    - 1 inch = 2.54 centimeters.
+    - 1 mile = 5280 feet = 1.609 kilometers.
+
+
+    === "Weight"
+    公制单位转化为英制单位：1公斤=2.20462磅；1千克=0.453596公斤；1克=0.035274磅。
+
+    === "Volume"
+    
+    公制单位转化为英制单位：1升=231英尺³；1毫升=0.000231立方米；1升=0.0231立方米；1升=0.00231立方米。
+
+    === "Temperature"
+
+    华氏度转化为摄氏度：(°F-32)×5/9=°C。
+
 ### Partisan strife
 
 | left-wing    | right-wing |
