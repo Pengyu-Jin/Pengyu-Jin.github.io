@@ -46,6 +46,10 @@
 
 ✒️To reduce the risk of cancer, look no further than your fridge.
 
+**attribute sth. to sb./sth.**: to believe or say that a situation or event is caused by someone or something.
+
+✒️The fall in the number of deaths from heart disease is generally attributed to imptovements in diet.
+
 ## adjective phrase
 
 **brick and mortar**: relating to or being a traditional business serving customers in a building as contrasted to an online business.
