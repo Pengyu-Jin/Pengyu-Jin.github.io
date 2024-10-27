@@ -1,5 +1,5 @@
 # [Info]
-site_name: Peng-yu Jin's personal website # 左上角标题
+site_name: Pengyu-Jin's personal website # 左上角标题
 site_url: https://jin-pengyu.github.io/
 site_author: 靳鹏宇
 site_description: 靳鹏宇的个人网站
@@ -90,7 +90,7 @@ edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
 
 repo_url: https://github.com/Jin-Pengyu/jin-pengyu.github.io # 右上角点击跳转的链接
-repo_name: jin-pengyu.github.io # 右上角的名字
+repo_name: Pengyu-Jin.github.io # 右上角的名字
 
 ## [bottom-left corner]
 
