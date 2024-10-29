@@ -58,6 +58,11 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 
 会议排名文件：[清华大学各院系（学科）重要国际学术会议目录-2020](){:target="_blank"}
 
+<object data="../pdf_collection/清华大学各院系（学科）重要国际学术会议目录-2020.pdf" type="application/pdf" width="100%" height="800">
+    <embed src="../pdf_collection/清华大学各院系（学科）重要国际学术会议目录-2020.pdf" />
+</object>
+
+
 !!! note
     - 顶尖级国际会议
     - A类会议：指国际上极少数的顶级刊物和会议，鼓励我国学者去突破
