@@ -56,7 +56,7 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 
 会议排名来源：[清华大学图书馆-投稿导引](https://lib.tsinghua.edu.cn/kyzc/tgdy.htm){:target="_blank"}
 
-会议排名文件：[清华大学各院系（学科）重要国际学术会议目录-2020](){:target="_blank"}
+会议排名文件：
 
 <object data="../pdf_collection/清华大学各院系（学科）重要国际学术会议目录-2020.pdf" type="application/pdf" width="100%" height="800">
     <embed src="../pdf_collection/清华大学各院系（学科）重要国际学术会议目录-2020.pdf" />
