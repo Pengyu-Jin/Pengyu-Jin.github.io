@@ -2,6 +2,10 @@
 !!! quote
     Chance favors the prepared mind.
 
+## 注意事项
+ECCE asia投稿时间截止2024.11.15
+
+
 ## 每日整理:memo:
 
 有些话你说出来就要做到，11-15，11.30交换截止申请
