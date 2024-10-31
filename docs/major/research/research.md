@@ -52,7 +52,8 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
 研究生学位论文格式：[word&latex](https://www.seiee.sjtu.edu.cn/xzzx_xzzq_yjs.html){:target="_blank"}
 
 
-## 重要国际学术会议目录
+## 重要国际学术会议
+### 清华版本
 
 会议排名来源：[清华大学图书馆-投稿导引](https://lib.tsinghua.edu.cn/kyzc/tgdy.htm){:target="_blank"}
 
@@ -70,7 +71,17 @@ word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.
     - C类会议：指国际上重要、为国际学术界所认可的会议和刊物
     - 其他会议
 
-    按ABC分类的来源：[中国计算机学会启动“CCF推荐国际学术刊物和国际会议目录”的制定工作](https://www.ccf.org.cn/YOCSEF/Branches/YOCSEF/News/2007-01-05/614350.shtml){:target="_blank"}
+    按ABC分类的说法来源于：[中国计算机学会启动“CCF推荐国际学术刊物和国际会议目录”的制定工作](https://www.ccf.org.cn/YOCSEF/Branches/YOCSEF/News/2007-01-05/614350.shtml){:target="_blank"}
+
+### 上交版本
+
+会议排名来源：[上海交通大学电子信息与电气工程学院研究生国家奖学金评审实施方案，附录有论文分类](https://www.seiee.sjtu.edu.cn/xsgz_gzzd_xssw/6943.html){:target="_blank"}
+
+会议排名文件：
+
+<object data="../pdf_collection/【031电气系】科研.pdf" type="application/pdf" width="100%" height="800">
+    <embed src="../pdf_collection/【031电气系】科研.pdf" />
+</object>
 
 ## Newsletter:newspaper:
 >文章来源:[国家自然科学基金委，2024年电气工程领域研究热点](https://www.nsfc.gov.cn/publish/portal0/tab1514/info91204.htm){:target="_blank"}
