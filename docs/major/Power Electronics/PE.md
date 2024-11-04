@@ -11,6 +11,10 @@ PELS 是 "Power Electronics Society" 的缩写，这是电气和电子工程师�
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113208778035385&bvid=BV1tRsoefEmE&cid=26029196576&p=1&autoplay=0&muted=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
+slicon carbide (SiC)
+
+GaN /gæn/
+
 
 KiloHertz
 
