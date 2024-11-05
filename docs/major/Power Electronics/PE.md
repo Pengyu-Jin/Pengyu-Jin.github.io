@@ -20,8 +20,6 @@ KiloHertz
 
 MegaHertz
 
-系统性的推导知识写成pdf
-
 ## The World of Power Electronics
 [电力电子相关技术学习](https://www.tdk.com/en/tech-mag/){:target=_blank}
 ### part1
@@ -33,6 +31,7 @@ The differences between the linear and switching methods:
 ## 电力电子（研）
 傅老师的顶级理解。
 谐振变换器-LLC-DAB-仿真分析
+硬核博士老J是真的牛
 
 
 ## New energy connected to the grid
