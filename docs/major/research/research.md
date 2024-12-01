@@ -4,9 +4,7 @@
 
 ## 注意事项
 
-AI agent + EMS
-
-完善论文
+AI agent + EMS 专注算法方面
 
 博士的基本素养
 
