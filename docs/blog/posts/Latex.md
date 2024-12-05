@@ -1,21 +1,21 @@
 ---
-title: Latex learning
-date: 2024-12-02
+title: LaTeX learning
+date: 2024-12-05
 authors: [Pengyu-Jin]
-slug: Latex
+slug: LaTeX
 categories:
   - Research
 tags:
   - tool
 ---
 
-**Latex in research**
+**LaTeX in research**
 
-beamer and Latex
+beamer and LaTeX
 
 <!-- more -->
 
-## Latex
+## LaTeX
 Latex的学习从[]()开始
 
 YouTube博主制作： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"}
