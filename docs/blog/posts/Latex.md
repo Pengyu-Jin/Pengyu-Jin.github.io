@@ -18,7 +18,7 @@ beamer and LaTeX
 ## LaTeX
 Latex的学习从[]()开始
 
-YouTube博主制作： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"}
+YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"}
 
 
 
