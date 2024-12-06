@@ -36,4 +36,7 @@ color and theme: [beamer matix](https://mpetroff.net/files/beamer-theme-matrix/)
 
 [Reference2: 简洁大方的 Latex Beamer 模板分享 -- Andrew的仓库](https://mp.weixin.qq.com/s/mOrMdd_mV6sKzgiVpLJoHg){:target="_blank"}
 
+### Northwestern University theme
+
+[wildcat: A modern, highly customizable beamer theme. -- Aaron Wolf](https://github.com/aarondwolf/wildcat){target="_blank"}
 
