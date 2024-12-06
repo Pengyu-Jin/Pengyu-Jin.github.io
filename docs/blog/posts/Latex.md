@@ -30,7 +30,7 @@ color and theme: [beamer matix](https://mpetroff.net/files/beamer-theme-matrix/)
 
 [SJTUBeamer](https://github.com/sjtug/SJTUBeamer){:target="_blank"}
 
-### UBC blue theme
+### UBC(University of British Columbia) blue theme
 
 [Reference1: How to Quickly Change Beamer Colors -- Adam Noel](https://ramblingacademic.com/2015/12/08/how-to-quickly-overhaul-beamer-colors/#more-2470){:target="_blank"}
 
