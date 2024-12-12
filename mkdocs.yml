@@ -9,18 +9,19 @@ nav:
   - Major:
       - major/index.md
       - Research: major/research/research.md
-      - EV: 
-          - EV: major/EV/EV.md
-          - EV Newsletter: major/EV/EV_newsletter.md
       - Power Electronics: major/Power Electronics/PE.md
-      - Electric Motor: major/electric-motor/electric-motor.md
-      - Power System: major/Power System/Power System.md
-      - Mathmatic: major/math/math.md
-      - En Learn:
+      - EN Learn:
           - Larry语法课: major/EN-learn/Larry.md
           - phrase: major/EN-learn/phrase.md
           - phonetic symbol: major/EN-learn/phonetic symbol.md
           - why: major/EN-learn/why.md
+      - EV: 
+          - EV: major/EV/EV.md
+          - EV Newsletter: major/EV/EV_newsletter.md
+      - Electric Motor: major/electric-motor/electric-motor.md
+      - Power System: major/Power System/Power System.md
+      - Mathmatic: major/math/math.md
+      
 
   - Interest:
       - interest/index.md
