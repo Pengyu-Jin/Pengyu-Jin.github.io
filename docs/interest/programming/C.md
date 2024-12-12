@@ -1,5 +1,5 @@
-## C programming 
+## learning path
 
-翁恺C教程
+David J. Malan(@Harvard University): [cs50x](){:target="_blank"}
 
-CS自学指南的c教程
+
