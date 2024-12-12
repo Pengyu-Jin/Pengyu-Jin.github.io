@@ -2,6 +2,10 @@
 
 Prof. David Perreault: [MIT 6.622 Power Electronics](https://ocw.mit.edu/courses/6-622-power-electronics-spring-2023/){:target="_blank"}
 
+Robert W. Erickson: Fundenmentals of Power Electronics
+
+
+
 ## research on power electronics
 PELS 是 "Power Electronics Society" 的缩写，这是电气和电子工程师协会（IEEE）下属的一个分支，专注于电力电子技术的研究与发展。IEEE PELS 涵盖了电力电子器件、转换器、电源系统以及相关技术的各个领域，包括可再生能源、电动汽车、智能电网等应用。
 
