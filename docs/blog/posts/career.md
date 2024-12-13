@@ -76,7 +76,9 @@ categories:
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240823221253.png)
 
-首先区分研发和非研发。然后针对研发岗，从"云管端"的角度理解核心业务，即华为云、ICT(Information and Communications Technology)、终端。此外还有其他辅助业务。
+首先区分研发和非研发。然后针对研发岗，从"云管端"的角度理解核心业务，即华为云、ICT、终端。此外还有其他辅助业务。
+
+*[ICT]: Information and Communications Technology
 
 薪资构成：基本工资+绩效奖金+年终奖金。
 
