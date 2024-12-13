@@ -1,6 +1,6 @@
 ---
 title: career info
-date: 2024-10-07
+date: 2024-12-13
 authors: [Pengyu-Jin]
 slug: career info
 categories:
@@ -100,7 +100,9 @@ categories:
 
     === "ICT基础设施业务"
 
-        ICT基础设施业务是华为核心的业务之一，包括运营商BG(Bussiness Group)和企业BG，服务运营商客户和政企客户；ICT产品与解决方案包括:
+        ICT基础设施业务是华为核心的业务之一，包括运营商BG和企业BG，服务运营商客户和政企客户；ICT产品与解决方案包括:
+
+        *[BG]: Business Group
 
         - 无线网络产品线
         - 计算产品线
@@ -156,7 +158,12 @@ categories:
 
 ### 项目职责划分
 
-项目最顶层是项目负责人，接下来项目会落实到项目经理(PM, Project Manager)，PM将任务分成若干个子项目，每个项目由一个项目组长(PL, Project Leader)负责。在每个子项目中，由系统工程师(SE, System Engineer)和程序员(PG, Programmer)共同完成。
+项目最顶层是项目负责人，接下来项目会落实到项目经理PM，PM将任务分成若干个子项目，每个项目由一个项目组长PL负责。在每个子项目中，由系统工程师SE和程序员PG共同完成。
+
+*[PM]: Project Manager
+*[PL]: Project Leader
+*[SE]: System Engineer
+*[PG]: Programmer
 
 SE一般可分为三种类型：
 
