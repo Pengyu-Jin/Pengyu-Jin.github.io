@@ -161,8 +161,11 @@ categories:
 项目最顶层是项目负责人，接下来项目会落实到项目经理PM，PM将任务分成若干个子项目，每个项目由一个项目组长PL负责。在每个子项目中，由系统工程师SE和程序员PG共同完成。
 
 *[PM]: Project Manager
+
 *[PL]: Project Leader
+
 *[SE]: System Engineer
+
 *[PG]: Programmer
 
 SE一般可分为三种类型：
