@@ -14,6 +14,17 @@ categories:
 <!-- more -->
 
 
+# Welcome to MkDocs
+
+=== "FEM"
+    lorem FEM
+
+=== "CFD"
+    ipsum CFD
+
+*[FEM]: Finite Element Method
+*[CFD]: Computational Fluid Dynamic
+
 
 ## 中国电科院——国家电网直属单位——中央企业
 > 信息来源: [北京大学学生就业指导服务中心—中国电力科学研究院有限公司2024年校园招聘](https://scc.pku.edu.cn/employment_22e903458a8458be018ae42c4ff26f91_0.html){:target="_blank"}
