@@ -145,7 +145,7 @@ markdown_extensions:
        auto_title: true # 显示编程语言名称
   - pymdownx.superfences # 代码块高亮插件
   - meta # 支持Markdown文件上方自定义标题标签等
-  - abbr # 缩写下划线+内容浮窗
+
   
   - def_list #List列表相关
   - pymdownx.tasklist:

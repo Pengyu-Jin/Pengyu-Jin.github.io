@@ -14,19 +14,6 @@ categories:
 <!-- more -->
 
 
-# Welcome to MkDocs
-
-=== "FEM"
-
-    lorem FEM *[FEM]: Finite Element Method
-
-=== "CFD"
-
-    ipsum CFD
-
-    *[CFD]: Computational Fluid Dynamic
-
-
 ## 中国电科院——国家电网直属单位——中央企业
 > 信息来源: [北京大学学生就业指导服务中心—中国电力科学研究院有限公司2024年校园招聘](https://scc.pku.edu.cn/employment_22e903458a8458be018ae42c4ff26f91_0.html){:target="_blank"}
 
@@ -88,9 +75,7 @@ categories:
 
 ![](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/20240823221253.png)
 
-首先区分研发和非研发。然后针对研发岗，从"云管端"的角度理解核心业务，即华为云、ICT、终端。此外还有其他辅助业务。
-
-*[ICT]: Information and Communications Technology
+首先区分研发和非研发。然后针对研发岗，从"云管端"的角度理解核心业务，即华为云、ICT(Information and Communications Technology)、终端。此外还有其他辅助业务。
 
 薪资构成：基本工资+绩效奖金+年终奖金。
 
@@ -112,9 +97,7 @@ categories:
 
     === "ICT基础设施业务"
 
-        ICT基础设施业务是华为核心的业务之一，包括运营商BG和企业BG，服务运营商客户和政企客户；ICT产品与解决方案包括:
-
-        *[BG]: Business Group
+        ICT基础设施业务是华为核心的业务之一，包括运营商BG(Business Group)和企业BG，服务运营商客户和政企客户；ICT产品与解决方案包括:
 
         - 无线网络产品线
         - 计算产品线
@@ -170,15 +153,7 @@ categories:
 
 ### 项目职责划分
 
-项目最顶层是项目负责人，接下来项目会落实到项目经理PM，PM将任务分成若干个子项目，每个项目由一个项目组长PL负责。在每个子项目中，由系统工程师SE和程序员PG共同完成。
-
-*[PM]: Project Manager
-
-*[PL]: Project Leader
-
-*[SE]: System Engineer
-
-*[PG]: Programmer
+项目最顶层是项目负责人，接下来项目会落实到项目经理PM(Project Manager)，PM将任务分成若干个子项目，每个项目由一个项目组长PL(Project Leader)负责。在每个子项目中，由系统工程师SE(System Engineer)和程序员PG(Programmer)共同完成。
 
 SE一般可分为三种类型：
 
