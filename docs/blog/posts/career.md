@@ -19,11 +19,12 @@ categories:
 === "FEM"
     lorem FEM
 
+    *[FEM]: Finite Element Method
+
 === "CFD"
     ipsum CFD
 
-*[FEM]: Finite Element Method
-*[CFD]: Computational Fluid Dynamic
+    *[CFD]: Computational Fluid Dynamic
 
 
 ## 中国电科院——国家电网直属单位——中央企业
