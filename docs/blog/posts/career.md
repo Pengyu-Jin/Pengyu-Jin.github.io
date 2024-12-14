@@ -17,11 +17,11 @@ categories:
 # Welcome to MkDocs
 
 === "FEM"
-    lorem FEM
 
-    *[FEM]: Finite Element Method
+    lorem FEM *[FEM]: Finite Element Method
 
 === "CFD"
+
     ipsum CFD
 
     *[CFD]: Computational Fluid Dynamic
