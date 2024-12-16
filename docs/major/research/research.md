@@ -4,9 +4,9 @@
 
 ## 注意事项
 
-ECCE论文修改
+完善CV，投AI相关实习
 
-AI agent + EMS 专注算法方面
+AI agent + EMS 专注算法方面，开题报告
 
 博士的基本素养
 
