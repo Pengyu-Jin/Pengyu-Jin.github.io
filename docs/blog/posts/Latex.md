@@ -20,9 +20,11 @@ Latex的学习从[]()开始
 
 YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"}
 
+## Note
 
+## Letter
 
-## beamer
+## Beamer
 
 color and theme: [beamer matix](https://mpetroff.net/files/beamer-theme-matrix/){:target="_blank"}
 
