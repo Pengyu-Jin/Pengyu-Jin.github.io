@@ -5,6 +5,8 @@ Achieving CS50P final project: [Extract metadata from Instagram](https://github.
 
 John DeNero(@UC Berkeley): [CS61A Structure and Interpretation of Computer Programs](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS61A/){:target="_blank"}
 
+CS61A online textbook: [SICP in Python](https://www.composingprograms.com/){:target="_blank"}
+
 CS61A soulutions and final project: [...](){:target="_blank"}
 
 跟这个[up:有一种悲伤叫颓废](https://space.bilibili.com/387821788?spm_id_from=333.999.0.0)学python，[相关资料](https://github.com/136108Haumea/my-manim/tree/master/book){:target="_blank}
