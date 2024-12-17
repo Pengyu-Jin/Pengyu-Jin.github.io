@@ -126,6 +126,14 @@ Nintendo will continue to take necessary actions against any infringement of its
 [^4]: 在下文以"Defendant"指代Pocketpair.
 
 
+### the first n
+!!! example
+
+    The docstring of sum_naturals function is "Returns the sum of the first n natural numbers".
+    
+表示计算前n个自然数的和, The first n 表示从第一个element开始。The first nine prime numbers are: 2, 3, 5, 7, 11, 13, 17, 19, 23.
+
+
 ## 📝abbreviations and acronyms
 
 ### aka = also known as
