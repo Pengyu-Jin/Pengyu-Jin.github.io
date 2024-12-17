@@ -1,6 +1,6 @@
 ---
 title: computer configuration
-date: 2024-10-13
+date: 2024-12-17
 authors: [Pengyu-Jin]
 slug: computer configuration
 categories:
@@ -22,7 +22,7 @@ categories:
 
 !!! bug "下载按钮浮窗显示问题"
 
-    设置方法参考：(有些视频不显示IDM的下载按钮)[https://blog.csdn.net/heart_is_broken/article/details/122674318?spm=1001.2014.3001.5502]{:target="_blank"}
+    设置方法参考：[有些视频不显示IDM的下载按钮](https://blog.csdn.net/heart_is_broken/article/details/122674318?spm=1001.2014.3001.5502){:target="_blank"}
 
 **Adobe Acrobat[^3]**：Adobe PDF阅读器，参考bilibili的[up主-云渲视觉](https://www.bilibili.com/video/BV1nB4y1o7Py/?spm_id_from=333.337.search-card.all.click&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
@@ -37,6 +37,8 @@ categories:
 [^2]:RuTracker.org
 
 [^3]:百度网盘/我的资源/Adobe Acrobat
+
+**PotPlayer**: multimedia player。[PotPlayer官方主页](https://potplayer.tv/){:target="_blank"}
 
 ## 配置问题
 
