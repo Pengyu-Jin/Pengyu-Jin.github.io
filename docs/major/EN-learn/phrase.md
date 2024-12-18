@@ -48,7 +48,11 @@
 
 **attribute sth. to sb./sth.**: to believe or say that a situation or event is caused by someone or something.
 
-✒️The fall in the number of deaths from heart disease is generally attributed to imptovements in diet.
+✒️The fall in the number of deaths from heart disease is generally attributed to improvements in diet.
+
+**run into sth.**: to start to experience a difficult or unpleasant situation.
+
+✒️The following are common error types that Python programmers run into.
 
 ## adjective phrase
 

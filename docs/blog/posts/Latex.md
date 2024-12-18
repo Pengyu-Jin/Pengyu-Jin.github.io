@@ -22,6 +22,8 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 
 ## Note
 
+参考UC Berkeley的CS61A课程的discussion模板
+
 ## Letter
 
 ## Beamer
