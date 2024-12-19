@@ -1,6 +1,6 @@
 ---
 title: LaTeX learning
-date: 2024-12-05
+date: 2024-12-18
 authors: [Pengyu-Jin]
 slug: LaTeX
 categories:
@@ -42,5 +42,9 @@ color and theme: [beamer matix](https://mpetroff.net/files/beamer-theme-matrix/)
 
 ### Northwestern University theme
 
-[wildcat: A modern, highly customizable beamer theme. -- Aaron Wolf](https://github.com/aarondwolf/wildcat){target="_blank"}
+[wildcat: A modern, highly customizable beamer theme. -- Aaron Wolf](https://github.com/aarondwolf/wildcat){:target="_blank"}
+
+## Book
+
+[Beautybook: A very Beautiful LaTeX Book Template, Happy LaTeXing!](https://github.com/BeautyLaTeX/Beautybook){:target="_blank"}
 
