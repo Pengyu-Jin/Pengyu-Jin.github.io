@@ -46,5 +46,9 @@ color and theme: [beamer matix](https://mpetroff.net/files/beamer-theme-matrix/)
 
 ## Book
 
-[Beautybook: A very Beautiful LaTeX Book Template, Happy LaTeXing!](https://github.com/BeautyLaTeX/Beautybook){:target="_blank"}
+### Beautybook
+
+[Reference1: A very Beautiful LaTeX Book Template, Happy LaTeXing!](https://github.com/BeautyLaTeX/Beautybook){:target="_blank"}
+
+[Reference2: live-in-xjtu-medical-school西安交通大学医学部生活指南](https://github.com/echore/live-in-xjtu-medical-school?tab=readme-ov-file){:target="_blank"}
 
