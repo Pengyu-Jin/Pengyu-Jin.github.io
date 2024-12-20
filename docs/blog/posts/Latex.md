@@ -9,9 +9,7 @@ tags:
   - tool
 ---
 
-**LaTeX in research**
-
-beamer and LaTeX
+**Happy LaTeXing!**
 
 <!-- more -->
 
