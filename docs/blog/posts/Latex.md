@@ -24,6 +24,8 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 
 参考UC Berkeley的CS61A课程的discussion模板
 
+[Teemu's TU Delft LaTeX Template](https://github.com/temeweckis/tu-delft-latex-template){:target="_blank"}
+
 ## Letter
 
 ## Beamer
