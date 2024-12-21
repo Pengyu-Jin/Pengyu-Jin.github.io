@@ -17,6 +17,6 @@ Anything about private tracker I know.
 ## Detailed Introduction
 
 
-<object data="docs/blog/pdf_collection/从零开始玩PT_V1.0.pdf" type="application/pdf" width="100%" height="800">
-    <embed src="docs/blog/pdf_collection/从零开始玩PT_V1.0.pdf" type="application/pdf" />
+<object data="../pdf_collection/从零开始玩PT_V1.0.pdf" type="application/pdf" width="100%" height="800">
+    <embed src="../pdf_collection/从零开始玩PT_V1.0.pdf" type="application/pdf" />
 </object>
