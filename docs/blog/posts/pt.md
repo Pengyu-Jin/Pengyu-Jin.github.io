@@ -1,6 +1,6 @@
 ---
 title: Private Tracker
-date: 2024-12-19
+date: 2024-12-21
 authors: [Pengyu-Jin]
 slug: pt
 categories:
@@ -16,8 +16,7 @@ Anything about private tracker I know.
 
 ## Detailed Introduction
 
-<object data="../pdf_collection/从零开始玩PT_V1.0.pdf" type="application/pdf" width="100%" height="800">
+<object data="../pdf_collection/从零开始玩PT_V1.0.pdf" type="application/pdf" width="80%" height="800">
     <embed src="../pdf_collection/从零开始玩PT_V1.0.pdf" />
 </object>
 
-docs\blog\pdf-collection\从零开始玩PT_V1.0.pdf
