@@ -30,7 +30,9 @@ nav:
           - C: interest/programming/C.md 
       - finance: interest/finance/learn1.md
       - career: interest/career/career.md
-      - digital technology: interest/digital technology/image.md
+      - digital technology:
+          - Image: interest/digital technology/image.md
+          - PT: interest/digital technology/pt.md
       - Insights on life: interest/LifeRoad/liferoad.md
       - Vehicle: interest/Vehicle/Vehicle_infor.md
       - game: interest/game/pokemon.md
@@ -42,7 +44,7 @@ nav:
 
   - About:
       - about/index.md
-      - 个人情况:
+      - bio:
           - CV: about/personal profile/cv.md 
 
 
