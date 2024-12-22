@@ -7,7 +7,7 @@ John DeNero(@UC Berkeley): [CS61A Structure and Interpretation of Computer Progr
 
 CS61A online textbook: [SICP in Python](https://www.composingprograms.com/){:target="_blank"}
 
-CS61A soulutions and final project: [...](){:target="_blank"}
+CS61A soulutions, notes and final project: [...](){:target="_blank"}
 
 !!! note "Pointview of Prof. Hany Farid in the CS61A course"
 
