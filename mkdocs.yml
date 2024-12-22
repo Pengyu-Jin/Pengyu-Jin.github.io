@@ -11,10 +11,10 @@ nav:
       - Research: major/research/research.md
       - Power Electronics: major/Power Electronics/PE.md
       - EN Learn:
-          - Larry语法课: major/EN-learn/Larry.md
-          - phrase: major/EN-learn/phrase.md
-          - phonetic symbol: major/EN-learn/phonetic symbol.md
-          - why: major/EN-learn/why.md
+          - Larry grammar course: major/EN-learn/Larry.md
+          - Phrase: major/EN-learn/phrase.md
+          - Phonetic symbol: major/EN-learn/phonetic symbol.md
+          - Why: major/EN-learn/why.md
       - EV: 
           - EV: major/EV/EV.md
           - EV Newsletter: major/EV/EV_newsletter.md
