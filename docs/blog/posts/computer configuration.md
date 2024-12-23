@@ -40,6 +40,8 @@ categories:
 
 **PotPlayer**: multimedia player。[PotPlayer官方主页](https://potplayer.tv/){:target="_blank"}
 
+**qBittorrent**: Bittorrent client with enhanced features。[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition){:target="_blank"}
+
 ## 配置问题
 
 装的acrobat在显示缩略图上出现问题，即桌面上的pdf文件有的显示缩略图，有的没有显示。解决办法是安装SumatraPDF，安装的时候在选项里面勾选在windows资源管理器显示pdf预览，然后acrobat就可以显示预览了。
