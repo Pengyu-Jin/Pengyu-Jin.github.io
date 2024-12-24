@@ -13,16 +13,16 @@ nav:
           - Power Electronics: major/EE/PE.md
           - Power System: major/EE/Power System.md
           - Electric Motor: major/EE/electric-motor.md
-      - EN Learn:
-          - Larry grammar course: major/EN-learn/Larry.md
-          - Phrase: major/EN-learn/phrase.md
-          - Phonetic symbol: major/EN-learn/phonetic symbol.md
-          - Why: major/EN-learn/why.md
       - Flybook: major/flybook/fly.md
       - EV: 
           - EV: major/EV/EV.md
           - EV Newsletter: major/EV/EV_newsletter.md
-      
+      - EN Learn:
+          - major/EN-learn/index.md
+          - Larry grammar course: major/EN-learn/Larry.md
+          - Phrase: major/EN-learn/phrase.md
+          - Phonetic symbol: major/EN-learn/phonetic symbol.md
+          - Why: major/EN-learn/why.md
       - Mathmatic: major/math/math.md
       
 
