@@ -14,7 +14,7 @@ tags:
 <!-- more -->
 
 ## LaTeX
-Latex的学习从[]()开始
+Latex的学习从阅读overleaf的完整教程开始
 
 YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"}
 
@@ -25,6 +25,7 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 [Teemu's TU Delft LaTeX Template](https://github.com/temeweckis/tu-delft-latex-template){:target="_blank"}
 
 ## Letter
+cover letter
 
 ## Beamer
 
