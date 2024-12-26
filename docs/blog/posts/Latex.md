@@ -1,6 +1,6 @@
 ---
 title: LaTeX learning
-date: 2024-12-18
+date: 2024-12-26
 authors: [Pengyu-Jin]
 slug: LaTeX
 categories:
@@ -14,7 +14,7 @@ tags:
 <!-- more -->
 
 ## LaTeX
-Latex的学习从阅读overleaf的完整教程开始
+Latex的学习从阅读overleaf的完整教程开始。。。。
 
 YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"}
 
