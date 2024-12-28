@@ -42,7 +42,7 @@ categories:
 
 **qBittorrent**: Bittorrent client with enhanced features。[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition){:target="_blank"}
 
-Some bittorrent website doesn't allowed the enhanced version, you can use the normal version instead: [qibittorrent official website](https://www.qbittorrent.org/){:target="_blank"}
+Some private tracker websites don't allowed the enhanced version, you can use the normal version instead: [qibittorrent official website](https://www.qbittorrent.org/){:target="_blank"}
 
 ## 配置问题
 
