@@ -44,6 +44,8 @@ categories:
 
 Some private tracker websites don't allowed the enhanced version, you can use the normal version instead: [qibittorrent official website](https://www.qbittorrent.org/){:target="_blank"}
 
+**clash**: proxy software[Clash Verge](https://www.clashverge.dev/)
+
 ## 配置问题
 
 装的acrobat在显示缩略图上出现问题，即桌面上的pdf文件有的显示缩略图，有的没有显示。解决办法是安装SumatraPDF，安装的时候在选项里面勾选在windows资源管理器显示pdf预览，然后acrobat就可以显示预览了。
