@@ -45,7 +45,7 @@ nav:
   - Blog🗒️:
       - blog/index.md
 
-  - About🔍:
+  - About:octicons-search-16:
       - about/index.md
       - bio:
           - CV: about/personal profile/cv.md 
