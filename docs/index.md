@@ -1,6 +1,6 @@
 # Hello!  :material-human-greeting-variant:
 
-This is the Peng-yu Jin's personal website.[(https://pengyu-jin.github.io/)](https://pengyu-jin.github.io/){:target="_blank"}.
+This is the Peng-yu Jin's personal website. Here, you can find my personal projects, blogs, and other information about me.
 
 - Open an article by theme and directory:
     - On the PC, select a theme from the top tab bar and choose an article from the left-side directory.
