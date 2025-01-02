@@ -6,7 +6,7 @@ site_description: 靳鹏宇的个人网站
 
 #[Navigation]
 nav:
-  - Major💡:
+  - Major:
       - major/index.md
       - Research: major/research/research.md
       - EE:
@@ -26,7 +26,7 @@ nav:
       - Mathmatic: major/math/math.md
       
 
-  - Interest💓:
+  - Interest:
       - interest/index.md
       - programming:
           - Python: interest/programming/Python.md
@@ -42,10 +42,10 @@ nav:
       - markdown grammar: interest/markdown/markdown.md
       - 党建: interest/party building/info.md
 
-  - Blog🗒️:
+  - Blog:
       - blog/index.md
 
-  - About :octicons-search-16:
+  - About:
       - about/index.md
       - bio:
           - CV: about/personal profile/cv.md 
