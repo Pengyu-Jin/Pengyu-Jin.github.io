@@ -4,9 +4,8 @@
 
 ## 注意事项
 
-AI agent + EMS 专注算法方面，开题报告
+AI agent + EMS
 
-博士的基本素养
 
 ## 每日整理:memo:
 
