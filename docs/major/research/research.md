@@ -4,6 +4,9 @@
 
 ## 注意事项
 AI agent + EMS
+
+AI FOR SCIENCE
+
 ## 每日整理:memo:
 
 学习CPES老哥的CV，c语言，origin绘图，考gre
