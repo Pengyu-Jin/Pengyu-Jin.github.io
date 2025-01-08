@@ -32,7 +32,10 @@ categories:
 
 | shortcut key | function |
 | ----------- | --------- |
-| `ctrl ~`| 打开终端  |
+| `ctrl + ~`| 打开终端  |
+| `ctrl + Tab + ~`| 新建终端  |
+| `ctrl + /`| 选中批量注释or取消注释  |
+| `shift + Tab`| 批量取消tab缩进  |
 
 ==for word==
 
