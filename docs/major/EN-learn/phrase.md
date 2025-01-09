@@ -170,11 +170,13 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 | **vigorous** | adj. using a lot of energy and strength or determination. | Environmentalists have begun a **vigorous** campaign to oppose nuclear dumping in the area.|
 | **rigorous** | adj. careful, thorough, and exact  | There is a **rigorous** analysis of defence needs. |
 
+<br></br>
+
 | Word    | Meaning | Example |
 |---------|---------|---------|
 | **complement** | v. to make a good combination with someone or something else.| The dark red walls **complement** the red leather chair. |
 | **compliment** | n. a remark that shows admire someone or something. | All the guests paid her extravagant **compliments**. |
-| **complimentary** | <ul><li>adj. given free to people </li><li> adj. saying that you admire someone or something </li></ul>| <ul><li>We offer a **complimentary** breakfast buffet from 7 to 10 AM in the Sunset Dining Room. </li><li> Jennie was very complimentary about Katharine’s riding. </li></ul> |
+| **complimentary** | <ul><li>adj. given free to people </li><li> adj. saying that you admire someone or something </li></ul>| <ul><li>We offer a **complimentary** breakfast buffet from 7 to 10 AM in the Sunset Dining Room. </li><li> Jennie was very **complimentary** about Katharine’s riding. </li></ul> |
 | **implement** | vt. to take action or make changes that you have officially decided should happen. | We have decided to **implement** the committee's recommendations in full. |
 
 
