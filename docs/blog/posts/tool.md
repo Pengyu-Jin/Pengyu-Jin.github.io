@@ -1,6 +1,6 @@
 ---
 title: efficient skills
-date: 2024-01-30
+date: 2025-01-10
 authors: [Pengyu-Jin]
 slug: efficient skills
 categories:
@@ -36,6 +36,7 @@ categories:
 | `ctrl + Tab + ~`| 新建终端  |
 | `ctrl + /`| 选中批量注释or取消注释  |
 | `shift + Tab`| 批量取消tab缩进  |
+| `ctrl + shift + n`| 创建新窗口  |
 
 ==for word==
 

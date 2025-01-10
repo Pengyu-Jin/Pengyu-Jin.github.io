@@ -53,3 +53,6 @@ color and theme: [beamer matix](https://mpetroff.net/files/beamer-theme-matrix/)
 
 [Reference2: live-in-xjtu-medical-school西安交通大学医学部生活指南](https://github.com/echore/live-in-xjtu-medical-school?tab=readme-ov-file){:target="_blank"}
 
+## LaTeX tips
+package
+
