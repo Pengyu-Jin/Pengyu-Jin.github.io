@@ -14,9 +14,7 @@ nav:
           - Power System: major/EE/Power System.md
           - Electric Motor: major/EE/electric-motor.md
       - Flybook: major/flybook/fly.md
-      - EV: 
-          - EV: major/EV/EV.md
-          - EV Newsletter: major/EV/EV_newsletter.md
+      - AI: major/AI/Agent.md
       - EN Learn:
           - major/EN-learn/index.md
           - Larry grammar course: major/EN-learn/Larry.md
