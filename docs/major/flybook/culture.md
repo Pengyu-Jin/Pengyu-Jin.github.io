@@ -60,7 +60,7 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 | Length        | inch, foot, yard, mile        | centimeter, meter, kilometer            |
 | Weight        | ounce, pound, ton             | gram, kilogram              |
 | Volume        | fluid ounce, pint, quart, gallon| liter, milliliter           |
-| Temperature   | Fahrenheit (°F)               | Celsius (°C), Kelvin (K)    |
+| Temperature   | Fahrenheit              | Celsius, Kelvin  |
 
 !!! abstract "转换方法"
 
@@ -96,7 +96,7 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
         - 1 quart = 946.353 mL
         - 1 gallon = 3.78541 L
 
-    === "Temperature"
+    === "Temperature--°F & °C,K"
 
         F --> C : (°F - 32) × 5/9 = °C
         <br></br>
