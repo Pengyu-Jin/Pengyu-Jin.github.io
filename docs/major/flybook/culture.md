@@ -21,9 +21,7 @@
 
 ## Hero of History 🗽
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fje-F-OXkLQ?si=TedYrzVboTToLDSh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<!-- <iframe src="//player.bilibili.com/player.html?aid=50668972&bvid=BV144411b7Uk&cid=88706634&p=1&autoplay=0&muted=0"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fje-F-OXkLQ?si=TedYrzVboTToLDSh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 O say does that star-spangled banner yet wave
 
