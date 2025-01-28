@@ -4,7 +4,6 @@
 > Ref: [USA Basemaps -- AlabamaMaps](https://alabamamaps.ua.edu/contemporarymaps/usa/basemaps/index.html){:target=":blank"}
 
 
-
 [*State Capitals*](../pdf_collection/capital.pdf)
 
 <object data="../pdf_collection/capital.pdf" type="application/pdf" width="100%" height="800">
