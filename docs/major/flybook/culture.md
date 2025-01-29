@@ -3,7 +3,6 @@
 
 > Ref: [USA Basemaps -- AlabamaMaps](https://alabamamaps.ua.edu/contemporarymaps/usa/basemaps/index.html){:target=":blank"}
 
-
 [*State Capitals*](../pdf_collection/capital.pdf)
 
 <object data="../pdf_collection/capital.pdf" type="application/pdf" width="100%" height="800">
@@ -113,4 +112,5 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 | liberal | conservative |
 | symbol is a donkey | symbol is an elephant |
 | Kamala Harris; Joe Biden | Donald Trump; JD Vance |
+
 
