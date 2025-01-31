@@ -74,6 +74,10 @@
 
 🪶The young people spoke at length about their experiences.
 
+**from scratch**: if you start something from scratch, you begin it without using anything that existed or was prepared before.
+
+🪶He had built the business up from scratch.
+
 ## prepositional phrase
 
 **in exchange of**: used to express a promise or agreement to do something in return for something else.

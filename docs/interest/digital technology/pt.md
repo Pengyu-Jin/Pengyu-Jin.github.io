@@ -7,3 +7,7 @@
 <object data="../pdf_collection/从零开始玩PT_V1.0.pdf" type="application/pdf" width="100%" height="800">
     <embed src="../pdf_collection/从零开始玩PT_V1.0.pdf" type="application/pdf" />
 </object>
+
+## Movie Paramater
+
+![pt movie parameters](https://cdn.jsdelivr.net/gh/Jin-Pengyu/image-bed/img/parameter.jpg)
