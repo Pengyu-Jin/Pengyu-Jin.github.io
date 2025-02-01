@@ -1,4 +1,4 @@
-## noun phrase
+## noun phrase 🐒
 **pros and cons**: the advantages and disadvantages of something
 
 **invaluable support**: extremely useful support
@@ -60,7 +60,7 @@
 
 ✏️The explosive growth of online shopping and the death of brick and mortar stores.
 
-## adverb phrase🫡
+## adverb phrase
 
 **over time**: if something happens over time, it happens gradually during a long period.
 
@@ -104,7 +104,7 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 
 🖊️My video went viral last night, I'm gonna be an internet celebrity.
 
-## suffix
+## suffix 🐾
 
 !!! warning "Definition"
     
@@ -146,7 +146,7 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
     - the post-war years (=the years after a particular war)战后的年月
     - post-operative care手术后护理
 
-## confusable words
+## confusable words 🧐
 
 | Word    | Meaning | Example |
 |---------|---------|---------|
