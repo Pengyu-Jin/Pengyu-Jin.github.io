@@ -1,3 +1,4 @@
 {
-  "editor.useTabStops": true
+  "editor.useTabStops": true,
+  "CodeGPT.apiKey": "Ollama"
 }

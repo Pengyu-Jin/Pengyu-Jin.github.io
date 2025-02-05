@@ -64,6 +64,12 @@
 
 ✏️The explosive growth of online shopping and the death of brick and mortar stores.
 
+**free from**: literally
+
+✏️Nevertheless, it may be the only way to address successfully the pressing problems of providing everyone with clean water to drink, adequate water to grow food and a life free from preventable water-related illness.
+
+✏️He could finally envision a life free from secrets and pain. And he couldn't wait for it to begin.
+
 ## adverb phrase
 
 **over time**: if something happens over time, it happens gradually during a long period.
