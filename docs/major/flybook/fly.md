@@ -8,4 +8,4 @@ bar
 
 sop: statement of purpose
 
-rsvp
+rsvp: French `répondez s'il vous plaît`, means please reply
