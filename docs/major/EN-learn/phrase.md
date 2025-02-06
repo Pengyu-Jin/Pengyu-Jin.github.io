@@ -100,6 +100,8 @@ Can I get you something to drink? 我给你拿点喝的嘛？
 
 Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗的位置？`alsle-/aɪl/`
 
+If my memory serves me right, it happened in the winter of 1927. 如果我没记错的话，这件事发生在1927年的冬天。
+
 ## miscellaneous
 
 **among other things**: used when you are giving one fact, reason, effect etc but want to suggest that there are many others.
@@ -194,9 +196,18 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 | **implement** | vt. to take action or make changes that you have officially decided should happen. | We have decided to **implement** the committee's recommendations in full. |
 
 
-## collocations
+## collocations 🤲
 **earn somebody something**: That performance earned her an Oscar as Best Actress.
 
 | Collocation    | Meaning | Example |
 |---------|---------|---------|
 | **all but** | <ul><li>adv. 几乎 </li><li>  除了...都，等同于all except </li></ul>| <ul><li>It was **all but** impossible to read his writing. </li><li> The locally manufactured wheelbarrows were still too expensive for **all but** a few of the households. </li></ul> |
+
+## Idioms
+
+*curveball*
+
+:   a surprising and unexpected action or event
+
+    - When life throws you a curveball, you need to know how to handle it.
+    - Ever since the recent September update, many people have complained about a battery drain of 20% even when the machine is turned off. That's a real curveball.
