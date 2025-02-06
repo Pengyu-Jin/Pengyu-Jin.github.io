@@ -197,3 +197,6 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 ## collocations
 **earn somebody something**: That performance earned her an Oscar as Best Actress.
 
+| Collocation    | Meaning | Example |
+|---------|---------|---------|
+| **all but** | <ul><li>adv. 几乎 </li><li>  除了...都，等同于all except </li></ul>| <ul><li>It was **all but** impossible to read his writing. </li><li> The locally manufactured wheelbarrows were still too expensive for **all but** a few of the households. </li></ul> |
