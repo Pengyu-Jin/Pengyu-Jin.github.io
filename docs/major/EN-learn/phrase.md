@@ -102,6 +102,10 @@ Would you like an aisle or window seat? 你想要靠走道的位置还是靠窗�
 
 If my memory serves me right, it happened in the winter of 1927. 如果我没记错的话，这件事发生在1927年的冬天。
 
+And presumably the college library stocks newspapers and journals, as well as books? 据推测，大学图书馆除了书籍外，还收藏有报纸和期刊对吗？
+
+Local managers seem to quene up to borrow the videos! 当地经理好像都在排队借视频。
+
 ## miscellaneous
 
 **among other things**: used when you are giving one fact, reason, effect etc but want to suggest that there are many others.
@@ -203,9 +207,9 @@ If my memory serves me right, it happened in the winter of 1927. 如果我没记
 |---------|---------|---------|
 | **all but** | <ul><li>adv. 几乎 </li><li>  除了...都，等同于all except </li></ul>| <ul><li>It was **all but** impossible to read his writing. </li><li> The locally manufactured wheelbarrows were still too expensive for **all but** a few of the households. </li></ul> |
 
-## Idioms
+## Idioms 🏈
 
-*curveball*
+*`curveball`*
 
 :   a surprising and unexpected action or event
 
