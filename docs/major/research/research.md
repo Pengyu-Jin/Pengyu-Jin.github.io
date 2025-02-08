@@ -5,7 +5,7 @@
 ## 注意事项
 AI agent + EMS
 
-AI FOR SCIENCE
+pre for fly
 
 ## 每日整理:memo:
 
