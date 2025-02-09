@@ -7,6 +7,8 @@ AI agent + EMS
 
 pre for fly
 
+paper ai 
+
 ## 每日整理:memo:
 
 学习CPES老哥的CV，c语言，origin绘图，考gre
