@@ -88,6 +88,10 @@
 
 🪶He had built the business up from scratch.
 
+**as well as**: 比较结构，意思是 “和……一样好”。在特定语境下，和"as well as" 作为 “也” 的含义完全无关。
+
+🪶Nobody knows the Arctic as well as the locals. 没有人比当地人更了解北极。
+
 ## prepositional phrase
 
 **in exchange of**: used to express a promise or agreement to do something in return for something else.
