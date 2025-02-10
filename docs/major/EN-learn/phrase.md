@@ -215,3 +215,10 @@ Local managers seem to quene up to borrow the videos! 当地经理好像都在�
 
     - When life throws you a curveball, you need to know how to handle it.
     - Ever since the recent September update, many people have complained about a battery drain of 20% even when the machine is turned off. That's a real curveball.
+
+
+*`canary in the mine`*
+
+:   the phrase "canary in the mine" is used metaphorically to refer to something or someone that serves as an early indicator of potential problems or dangers. It highlights the idea of detecting risks before they become widespread or catastrophic.
+
+    - Scientists are increasingly keen to find out what's going on because they consider the Arctic the 'canary in the mine' for global warming - a warning of what's in store for the rest of the world.
