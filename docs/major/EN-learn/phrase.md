@@ -166,6 +166,25 @@ Local managers seem to quene up to borrow the videos! 当地经理好像都在�
     - the post-war years (=the years after a particular war)战后的年月
     - post-operative care手术后护理
 
+*`fore-`*
+
+:   before; placed at the front; the front part of something
+
+    - foremost adj. 最好的，最重要的
+    - Jack was long considered the world's formost cellist. 长期以来，杰克一直被视为世界上首屈一指的大提琴家。
+    - forefront n. 位于（某事物的）最前列，处于（某事物的）领先地位
+    - The company has always been at the forefront of science and technology. 该公司在科学技术方面始终处于领先地位。
+    - foreclosure n. （因抵押人无法偿还贷款）止赎，取消抵押品赎回权
+    - foreground n. 图片或照片的前景
+    - forehead n. 前额
+
+*`dis-`*
+
+:   shows an opposite or negative
+
+    - discover v. 发现，找到
+    - disclosure n. 透露的信息；公开，透露，披露
+
 ## confusable words 🧐
 
 | Word    | Meaning | Example |
