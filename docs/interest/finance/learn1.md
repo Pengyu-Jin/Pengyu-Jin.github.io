@@ -3,6 +3,10 @@
 
 :   the first time that stock in a company is available for the public to buy on the stock market
 
+*`down payment`*
+
+:   a payment you make when you buy something that is only part of the full price, with the rest to be paid later 〔分期付款购物的〕首付款，首期付款，头款，订金
+
 ## 报销
 报销凭证主要是发票。
 

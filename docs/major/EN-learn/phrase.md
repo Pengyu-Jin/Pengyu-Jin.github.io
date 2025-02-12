@@ -98,6 +98,11 @@
 
 🖌️Women with children are handed social acceptance for their vital investment in “the future”, in exchange for unrewarded, unsupported labour that props up and stabilises the economic and social status quo.
 
+**before the eyes of**: means in the presence of or in full view of someone or a group of people.
+
+Before the eyes of the entire audience, the magician performed an astonishing trick, making a dove disappear into thin air.
+
+
 ## casual conversation☕
 
 Can I get you something to drink? 我给你拿点喝的嘛？
