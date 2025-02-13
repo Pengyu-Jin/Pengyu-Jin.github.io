@@ -4,6 +4,12 @@ AI for science
 
 bar 
 
+machine learning
+
+computer vision
+
+
+
 ## Terminology
 
 NIH 和 DOE 是美国两个重要的科研资助机构：
