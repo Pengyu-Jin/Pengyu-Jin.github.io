@@ -2,12 +2,15 @@
 !!! quote
     Chance favors the prepared mind.
 
-## 注意事项
-AI agent + EMS
+## Learning Path
 
-pre for fly
+动手学机器学习：[Machine Learning Course at SJTU -- 张伟楠讲授](https://wnzhang.net/teaching/sjtu-ml-2024/index.html)
 
-paper ai 
+动手学强化学习：[Reinforcement Learning Course at SJTU -- 张伟楠讲授](https://wnzhang.net/teaching/sjtu-rl-2024/)
+
+张伟楠讲授个人主页：[其他tutorial](https://wnzhang.net/)
+
+
 
 ## 每日整理:memo:
 
