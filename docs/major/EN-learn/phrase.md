@@ -58,6 +58,11 @@
 
 ✒️The consequences of our water policies extend beyond jeopardising human health.
 
+**come down to sth.**: if a complicated situation or problem comes down to something, that is the single most important thing. 归结为。
+
+✒️A lot of their work comes down to measurement - everything from the exact angle of a swimmer's dive to the second-by-second power output of a cyclist.
+
+
 ## adjective phrase
 
 **brick and mortar**: relating to or being a traditional business serving customers in a building as contrasted to an online business.
