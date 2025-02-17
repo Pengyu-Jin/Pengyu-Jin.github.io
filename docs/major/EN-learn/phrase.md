@@ -75,6 +75,10 @@
 
 ✏️He could finally envision a life free from secrets and pain. And he couldn't wait for it to begin.
 
+**be liable to do sth.**: likely to do or say something or to behave in a particular way, especially because of a fault or natural tendency. 可能、易于做某事
+
+✏️Assertiveness training for pupils who are liable to be victims is worthwhile. 对有可能成为受害者的学生进行自信训练是值得的。
+
 ## adverb phrase
 
 **over time**: if something happens over time, it happens gradually during a long period.
@@ -119,6 +123,8 @@ If my memory serves me right, it happened in the winter of 1927. 如果我没记
 And presumably the college library stocks newspapers and journals, as well as books? 据推测，大学图书馆除了书籍外，还收藏有报纸和期刊对吗？
 
 Local managers seem to quene up to borrow the videos! 当地经理好像都在排队借视频。
+
+That's very nice of you. Please let me give you a 100% off drink coupon. Your next cup of coffee will be on the house. 你真是太好了。请让我给您一张 100% 折扣的饮料券。您的下一杯咖啡将免费提供。
 
 ## miscellaneous
 
