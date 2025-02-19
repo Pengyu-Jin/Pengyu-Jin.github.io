@@ -16,16 +16,9 @@
 张伟楠讲授个人主页：[其他tutorial](https://wnzhang.net/){:target="_blank"}
 
 
-
-
-
-
 ## 每日整理:memo:
 
 论文框架，代码编写
-
-
-
 
 
 学习CPES老哥的CV，c语言，origin绘图，考gre
