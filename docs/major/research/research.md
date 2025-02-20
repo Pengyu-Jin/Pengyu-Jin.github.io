@@ -10,11 +10,11 @@
 
 动手学强化学习：[Reinforcement Learning Course at SJTU -- 张伟楠讲授](https://wnzhang.net/teaching/sjtu-rl-2024/){:target="_blank"}
 
-电子书和代码学习：
-
+电子书和代码学习：[Hands-on Reinforcement Learning](https://hrl.boyuai.com/){:target="_blank"}
 
 张伟楠讲授个人主页：[其他tutorial](https://wnzhang.net/){:target="_blank"}
 
+动手学深度学习：
 
 ## 每日整理:memo:
 
