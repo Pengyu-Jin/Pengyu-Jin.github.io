@@ -34,6 +34,7 @@ nav:
       - finance: interest/finance/learn1.md
       - career: interest/career/career.md
       - digital technology:
+          - Hardware: interest/digital technology/hardware.md
           - Image: interest/digital technology/image.md
           - PT: interest/digital technology/pt.md
       - Insights on life: interest/LifeRoad/liferoad.md
