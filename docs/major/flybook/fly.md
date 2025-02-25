@@ -1,12 +1,11 @@
 ## Research
 
-AI for science
+data processing
 
-bar 
+reinfocement learning algorithm
 
-machine learning
+paper writing
 
-computer vision
 
 
 
