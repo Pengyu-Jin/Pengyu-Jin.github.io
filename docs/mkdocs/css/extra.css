@@ -6,6 +6,11 @@ body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
     font-family: "Poppins", "LXGW WenKai", sans-serif !important;
 }
 
+/* 调整加粗部分的字体加粗程度 */
+strong, b {
+    font-weight: 700; 
+}
+
 /* 设置代码字体：保留 mono 字体 */
 code, pre {
     font-family: "LXGW WenKai Mono", monospace !important;
