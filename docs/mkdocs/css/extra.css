@@ -2,32 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
 /* 设置正文字体：中文使用 LXGW WenKai，英文使用 Poppins */
-body, .md-content, .md-typeset {
-    font-family: "LXGW WenKai", "Poppins", sans-serif !important;
-}
-
-/* 设置标题部分的字体：中文使用 LXGW WenKai，英文使用 Poppins */
-h1, h2, h3, h4, h5, h6 {
-    font-family: "LXGW WenKai", "Poppins", sans-serif !important;
-}
-
-/* 设置目录部分的字体：中文使用 LXGW WenKai，英文使用 Poppins */
-.md-nav {
-    font-family: "LXGW WenKai", "Poppins", sans-serif !important;
-}
-
-/* 使英文文本也使用 Poppins 字体 */
-.md-content, .md-typeset {
-    font-family: "Poppins", sans-serif !important;
+body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
+    font-family: "Poppins", "LXGW WenKai", sans-serif !important;
 }
 
 /* 设置代码字体：保留 mono 字体 */
 code, pre {
     font-family: "LXGW WenKai Mono", monospace !important;
-}
-
-/* 只对中文生效的样式 */
-@font-face {
-    font-family: "LXGW WenKai";
-    src: url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css') format('woff2');
 }
