@@ -131,11 +131,14 @@ plugins:
       archive: true
       categories: true
 
-# Extra CSS
+# Extra CSS and JavaScript  # 从https://github.com/LLMQuant/quant-wiki/tree/master拿来的
 extra_css:
   - stylesheets/extra.css
   - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js 
 
 
 
