@@ -57,14 +57,12 @@ nav:
 ## [top]
 
 theme:
-  font:
-    text: LXGW WenKai
-    code: LXGW WenKai Mono
-    # text: Poppins
+  # font:
+  #   text: Poppins
 
-  font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
-  font-weight: 450;
-  font-size: 16px;
+  # font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
+  # font-weight: 450;
+  # font-size: 16px;
 
   name: material
   logo: logo.ico
@@ -133,6 +131,10 @@ plugins:
       archive: true
       categories: true
 
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
+  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
 
 
 
