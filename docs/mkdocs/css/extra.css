@@ -10,3 +10,9 @@ body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
 code, pre {
     font-family: "LXGW WenKai Mono", monospace !important;
 }
+
+/* 仅对 LXGW WenKai 应用 text-shadow */
+strong, b {
+    text-shadow: 0.5px 0 0 currentColor, -0.5px 0 0 currentColor, 0 0.5px 0 currentColor, 0 -0.5px 0 currentColor;
+    font-family: "LXGW WenKai", sans-serif !important; /* 确保 text-shadow 只对 LXGW WenKai 生效 */
+}

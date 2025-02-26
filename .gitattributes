@@ -1,1 +1,8 @@
-*.md linguist-documentation=false linguist-detectable=true
+# 标记自动生成的文件
+*.min.js linguist-generated=true
+
+# 标记文档文件
+*.md linguist-documentation=true
+
+# 强制将特定文件类型识别为特定语言
+*.txt linguist-language=Markdown
