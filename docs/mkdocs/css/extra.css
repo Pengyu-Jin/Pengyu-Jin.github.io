@@ -11,8 +11,8 @@ code, pre {
     font-family: "LXGW WenKai Mono", monospace !important;
 }
 
-/* 仅对 LXGW WenKai 应用 text-shadow */
+/* 只对加粗文本应用 LXGW WenKai 的加粗效果 */
 strong, b {
-    text-shadow: 0.5px 0 0 currentColor, -0.5px 0 0 currentColor, 0 0.5px 0 currentColor, 0 -0.5px 0 currentColor;
-    font-family: "LXGW WenKai", sans-serif !important; /* 确保 text-shadow 只对 LXGW WenKai 生效 */
+    font-family: "LXGW WenKai", sans-serif !important;
+    font-weight: 600 !important; /* 设置加粗的权重，使其与 Poppins 加粗效果一致 */
 }
