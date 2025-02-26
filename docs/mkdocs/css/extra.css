@@ -6,6 +6,11 @@ body, .md-content, .md-typeset {
     font-family: "LXGW WenKai", "Poppins", sans-serif !important;
 }
 
+/* 使英文文本也使用 Poppins 字体 */
+.md-content, .md-typeset {
+    font-family: "Poppins", sans-serif !important;
+}
+
 /* 设置代码字体：保留 mono 字体 */
 code, pre {
     font-family: "LXGW WenKai Mono", monospace !important;
@@ -15,9 +20,4 @@ code, pre {
 @font-face {
     font-family: "LXGW WenKai";
     src: url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css') format('woff2');
-}
-
-/* 只对英文生效的样式 */
-body {
-    font-family: "Poppins", sans-serif !important;
 }
