@@ -4,7 +4,11 @@
 /* 设置正文字体：中文使用 LXGW WenKai，英文使用 Poppins */
 body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
     font-family: "Poppins", "LXGW WenKai", sans-serif !important;
-    font-weight: 500; /* 调整加粗程度 */
+}
+
+/* 调整加粗部分的字体加粗程度 */
+strong, b {
+    font-weight: 500; /* 降低 Poppins 的加粗程度 */
 }
 
 /* 设置代码字体：保留 mono 字体 */
