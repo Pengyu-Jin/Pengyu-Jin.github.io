@@ -13,13 +13,13 @@ strong, b {
 
 /* 针对中文加粗后增加权重 */
 strong:lang(zh), b:lang(zh) {
-    font-weight: 800 !important;  /* 更强的加粗效果 */
+    font-weight: 900 !important;  /* 更强的加粗效果 */
     color: #000 !important;  /* 使用深色 */
 }
 
 /* 针对英文加粗后不做颜色调整 */
 strong:lang(en), b:lang(en) {
-    color: inherit !important;  /* 保持原本颜色 */
+    font-weight: 600 !important;
 }
 
 /* 设置代码字体：保留 mono 字体 */
