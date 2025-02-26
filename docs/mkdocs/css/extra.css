@@ -1,0 +1,9 @@
+/* 设置正文字体 */
+body, .md-content, .md-typeset {
+    font-family: "LXGW WenKai", sans-serif !important;
+}
+
+/* 设置代码字体 */
+code, pre {
+    font-family: "LXGW WenKai Mono", monospace !important;
+}

@@ -131,14 +131,6 @@ plugins:
       archive: true
       categories: true
 
-# Extra CSS and JavaScript  # 从https://github.com/LLMQuant/quant-wiki/tree/master拿来的
-extra_css:
-  - stylesheets/extra.css
-  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
-
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js 
 
 
 
@@ -180,6 +172,9 @@ markdown_extensions:
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
 #   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
+  - mkdocs/css/extra.css
+  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css    # 从https://github.com/LLMQuant/quant-wiki/tree/master拿来的
+
 
 
 extra_javascript:
