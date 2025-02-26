@@ -1,9 +1,12 @@
+/* 引入 Poppins 字体 */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
 /* 设置正文字体 */
 body, .md-content, .md-typeset {
-    font-family: "LXGW WenKai", sans-serif !important;
+    font-family: "Poppins", "LXGW WenKai", sans-serif !important;
 }
 
 /* 设置代码字体 */
 code, pre {
-    font-family: "LXGW WenKai Mono", monospace !important;
+    font-family: "Poppins", "LXGW WenKai Mono", monospace !important;
 }
