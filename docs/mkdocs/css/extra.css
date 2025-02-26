@@ -6,6 +6,16 @@ body, .md-content, .md-typeset {
     font-family: "LXGW WenKai", "Poppins", sans-serif !important;
 }
 
+/* 设置标题部分的字体：中文使用 LXGW WenKai，英文使用 Poppins */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "LXGW WenKai", "Poppins", sans-serif !important;
+}
+
+/* 设置目录部分的字体：中文使用 LXGW WenKai，英文使用 Poppins */
+.md-nav {
+    font-family: "LXGW WenKai", "Poppins", sans-serif !important;
+}
+
 /* 使英文文本也使用 Poppins 字体 */
 .md-content, .md-typeset {
     font-family: "Poppins", sans-serif !important;
