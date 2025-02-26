@@ -6,11 +6,6 @@ body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
     font-family: "Poppins", "LXGW WenKai", sans-serif !important;
 }
 
-/* 设置加粗字体 */
-strong, b {
-    font-weight: 700 !important;  /* 统一字体加粗权重 */
-}
-
 
 /* 增强中文加粗效果 */
 strong:lang(zh), b:lang(zh) {
