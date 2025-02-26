@@ -169,6 +169,10 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+# 在此处添加 lang 设置
+extra:
+  lang: "zh"  # 或者 "en"，根据需要
+
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
 #   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
