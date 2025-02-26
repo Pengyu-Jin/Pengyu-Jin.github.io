@@ -6,8 +6,19 @@ body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
     font-family: "Poppins", "LXGW WenKai", sans-serif !important;
 }
 
+/* 设置加粗字体 */
 strong, b {
-    font-weight: 800 !important;  /* 加粗文本的权重 */
+    font-weight: 700 !important;  /* 统一字体加粗权重 */
+}
+
+/* 针对中文加粗后调整颜色 */
+strong:lang(zh), b:lang(zh) {
+    color: #333 !important;  /* 设置中文加粗后的颜色更深 */
+}
+
+/* 针对英文加粗后不做颜色调整 */
+strong:lang(en), b:lang(en) {
+    color: inherit !important;  /* 保持原本颜色 */
 }
 
 /* 设置代码字体：保留 mono 字体 */
