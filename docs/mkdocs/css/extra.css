@@ -8,7 +8,7 @@ body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
 
 /* 调整加粗部分的字体加粗程度 */
 strong, b {
-    font-weight: 400; /* 降低 Poppins 的加粗程度 */
+    font-weight: 500; /* 降低 Poppins 的加粗程度 */
 }
 
 /* 设置代码字体：保留 mono 字体 */
