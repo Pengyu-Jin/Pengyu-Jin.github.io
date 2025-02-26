@@ -11,14 +11,14 @@ code, pre {
     font-family: "LXGW WenKai Mono", monospace !important;
 }
 
-/* 强制英文加粗时使用 Poppins，加粗中文时使用 LXGW WenKai */
+/* 默认情况下，所有加粗文本使用 Poppins 字体 */
 strong, b {
-    font-weight: 700 !important; /* 设置加粗的权重 */
-    font-family: "Poppins", sans-serif !important; /* 默认使用 Poppins */
+    font-weight: 700 !important;  /* 加粗文本的权重 */
+    font-family: "Poppins", sans-serif !important;  /* 英文加粗使用 Poppins */
 }
 
-/* 当是中文时，确保使用 LXGW WenKai 的加粗效果 */
+/* 针对中文文本加粗时，强制使用 LXGW WenKai 字体 */
 strong:lang(zh), b:lang(zh) {
-    font-weight: 700 !important; /* 设置加粗的权重 */
-    font-family: "LXGW WenKai", sans-serif !important;
+    font-weight: 700 !important; /* 保持中文加粗的权重 */
+    font-family: "LXGW WenKai", sans-serif !important;  /* 中文加粗使用 LXGW WenKai */
 }
