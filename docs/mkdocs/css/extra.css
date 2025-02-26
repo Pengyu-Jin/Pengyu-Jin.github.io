@@ -14,7 +14,7 @@ strong, b {
 /* 针对中文加粗后增加权重 */
 strong:lang(zh), b:lang(zh) {
     font-weight: 800 !important;  /* 更强的加粗效果 */
-    color: #111 !important;  /* 使用深色 */
+    color: #000 !important;  /* 使用深色 */
 }
 
 /* 针对英文加粗后不做颜色调整 */
