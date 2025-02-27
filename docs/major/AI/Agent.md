@@ -1,14 +1,15 @@
-## learning path
-LangChain introduction
+## Learning Path
 
-LLM applications
+动手学机器学习：[Machine Learning Course at SJTU -- 张伟楠讲授](https://wnzhang.net/teaching/sjtu-ml-2024/index.html){:target="_blank"}
 
-LLMpowered-chatbot:基于LLM，区别在于可以记住chat history，管理conversation history
+电子书和代码学习：[Hands-on Machine Learning](https://hml.boyuai.com/){:target="_blank"}
 
+动手学强化学习：[Reinforcement Learning Course at SJTU -- 张伟楠讲授](https://wnzhang.net/teaching/sjtu-rl-2024/){:target="_blank"}
 
-agent
+电子书和代码学习：[Hands-on Reinforcement Learning](https://hrl.boyuai.com/){:target="_blank"}
 
-pytorch
+张伟楠讲授个人主页：[其他tutorial](https://wnzhang.net/){:target="_blank"}
 
+动手学深度学习：[Hands-on Deep Learning](https://zh.d2l.ai/index.html#){:target="_blank"}
 
 
