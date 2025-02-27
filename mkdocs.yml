@@ -35,6 +35,7 @@ nav:
       - career: interest/career/career.md
       - digital technology:
           - Hardware: interest/digital technology/hardware.md
+          - Network: interest/digital technology/net.md
           - Image: interest/digital technology/image.md
           - PT: interest/digital technology/pt.md
       - Insights on life: interest/LifeRoad/liferoad.md
