@@ -1,4 +1,4 @@
-## 显卡(GPU, Graphics Processing Unit)
+## 显卡(GPU, Graphics Processing Unit) 硬件
 
 核显（集成显卡）特点：
 
