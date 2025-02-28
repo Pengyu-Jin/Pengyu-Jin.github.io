@@ -23,5 +23,5 @@
 常见厂商：
 
 - **NVIDIA**：如 **GeForce RTX 30** 系列、**Quadro** 系列、**Tesla** 系列。
-- **AMD**：如 **Radeon RX** 系列、**Radeon Pro** 系列。
+- **AMD**：如 **Radeon RX** 系列、**Radeon Pro** 系列。  
 
