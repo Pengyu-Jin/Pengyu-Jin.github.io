@@ -10,6 +10,10 @@
 
 张伟楠讲授个人主页：[其他tutorial](https://wnzhang.net/){:target="_blank"}
 
+
+甄昊宇学长
+
+
 动手学深度学习：[Hands-on Deep Learning](https://zh.d2l.ai/index.html#){:target="_blank"}
 
 
