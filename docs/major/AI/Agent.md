@@ -18,3 +18,7 @@ cs231n: [CS231n: CNN for Visual Recognition](https://csdiy.wiki/%E6%B7%B1%E5%BA%
 动手学深度学习：[Hands-on Deep Learning](https://zh.d2l.ai/index.html#){:target="_blank"}
 
 
+## NLP
+
+## CV
+
