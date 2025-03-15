@@ -10,11 +10,9 @@
 
 张伟楠讲授个人主页：[其他tutorial](https://wnzhang.net/){:target="_blank"}
 
-Andrew Ng(@Harvard University): [CS229: Machine Learning](https://cs229.stanford.edu/){:target="_blank"}
+Andrew Ng(@Stanford University): [CS229: Machine Learning](https://cs229.stanford.edu/){:target="_blank"}
 
-
-
-CS231n: [CS231n: CNN for Visual Recognition](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231/){:target="_blank"}
+Fei-Fei Li(@Stanford University): [CS231n: CNN for Visual Recognition](https://cs231n.stanford.edu/){:target="_blank"}
 
 甄昊宇学长AI学习路径
 
