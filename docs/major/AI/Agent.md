@@ -12,6 +12,8 @@
 
 Andrew Ng(@Stanford University): [CS229: Machine Learning](https://cs229.stanford.edu/){:target="_blank"}
 
+the best notes for machine learning which is worth of reading more than once.
+
 Fei-Fei Li(@Stanford University): [CS231n: CNN for Visual Recognition](https://cs231n.stanford.edu/){:target="_blank"}
 
 甄昊宇学长AI学习路径
