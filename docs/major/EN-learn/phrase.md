@@ -238,6 +238,11 @@ That's very nice of you. Please let me give you a 100% off drink coupon. Your ne
 | **complimentary** | <ul><li>adj. given free to people </li><li> adj. saying that you admire someone or something </li></ul>| <ul><li>We offer a **complimentary** breakfast buffet from 7 to 10 AM in the Sunset Dining Room. </li><li> Jennie was very **complimentary** about Katharine’s riding. </li></ul> |
 | **implement** | vt. to take action or make changes that you have officially decided should happen. | We have decided to **implement** the committee's recommendations in full. |
 
+| Word    | Meaning | Example |
+|---------|---------|---------|
+| **sensible** | adj. 明智的，合理的，实际的 | A **sensible** person is reasonable and shows good judgment. |
+| **sensitive** | adj. 善解人意的；敏感的，容易生气的 | A **sensitive** person is easily upset, or understands other people's feelings and problems. |
+
 
 ## collocations 🤲
 **earn somebody something**: That performance earned her an Oscar as Best Actress.
