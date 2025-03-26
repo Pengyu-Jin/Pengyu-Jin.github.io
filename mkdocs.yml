@@ -32,6 +32,7 @@ nav:
           - Python: interest/programming/Python.md
           - C: interest/programming/C.md
           - LeetCode: interest/programming/leetcode.md
+          - CheatSheet: interest/programming/cheatsheet.md
       - finance: interest/finance/learn1.md
       - career: interest/career/career.md
       - digital technology:
