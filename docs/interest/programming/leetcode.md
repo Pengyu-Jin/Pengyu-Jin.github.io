@@ -26,7 +26,7 @@ class Solution:
 ### 2. Add Two Numbers
 
 ```py title="linked list.py" 
-class Solution: # (2)
+class Solution: # (1)
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode(0)
         current = dummy
@@ -43,4 +43,7 @@ class Solution: # (2)
         return dummy.next
 ```
 
-2.  :man_raising_hand: 2025/03/27
+1.  :man_raising_hand: 2025/03/27
+
+### 3. Longest Substring Without Repeating Characters
+
