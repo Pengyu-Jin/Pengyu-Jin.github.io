@@ -42,4 +42,5 @@ class Solution: # (2)
             l2 = l2.next if l2 else None
         return dummy.next
 ```
+
 2.  :man_raising_hand: 2025/03/27
