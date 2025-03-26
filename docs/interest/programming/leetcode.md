@@ -9,6 +9,7 @@ class Solution: # (1)
                 if nums[i] + nums[j] == target:
                     return [i, j]
 ```
+
 1.  :man_raising_hand: 2025/03/26
 
 
