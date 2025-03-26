@@ -30,7 +30,8 @@ nav:
       - interest/index.md
       - programming:
           - Python: interest/programming/Python.md
-          - C: interest/programming/C.md 
+          - C: interest/programming/C.md
+          - LeetCode: interest/programming/leetcode.md
       - finance: interest/finance/learn1.md
       - career: interest/career/career.md
       - digital technology:
@@ -146,10 +147,6 @@ markdown_extensions:
   - attr_list # 给图片后面添加{width="300"}设置大小
   - toc:
       permalink: true # 固定标题位置为当前位置
-  - pymdownx.highlight: # 代码块高亮
-       linenums: true # 显示行号
-       auto_title: true # 显示编程语言名称
-  - pymdownx.superfences # 代码块高亮插件
   - meta # 支持Markdown文件上方自定义标题标签等
 
   
@@ -164,11 +161,22 @@ markdown_extensions:
   - pymdownx.tabbed:  #添加content tab功能
       alternate_style: true
 
+  # annotation 注解
+  - md_in_html
 
-  - attr_list  # 添加emoji 
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  # 代码块语法高亮
+  - pymdownx.highlight:
+      linenums: true 
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 # 在此处添加 lang 设置
 extra:
