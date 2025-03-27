@@ -134,3 +134,104 @@ int main() {
 
 ### 3. Longest Substring Without Repeating Characters
 
+```py title="brute force.py"
+class Solution: # (1) 运行提交笑嘻嘻，一看击败百分七:(
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        countset = []
+        for num, i in enumerate(s):
+            count = 1
+            ls = [i]
+            for j in range(num+1, len(s)):
+                if s[j] not in ls:
+                    ls.append(s[j])
+                    count += 1
+                else:
+                    break
+            countset.append(count)
+        if countset == []:
+            return 0
+        else:
+            return max(countset)
+```
+
+1.  :man_raising_hand: 2025/03/27
+
+```py title="sliding window.py"
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+            window_chars = set()
+            n = len(s)
+            left = 0
+            max_len = 0
+            for right in range(n):
+                while s[right] in window_chars:
+                    window_chars.remove(s[left])
+                    left += 1
+                window_chars.add(s[right])
+                max_len = max(max_len, right - left + 1)
+            return max_len
+```
+
+### 4. Median of Two Sorted Arrays
+
+```py title="sorted array.py"
+# 合并排序秒了，但合并时间复杂度为O(m+n), 排序采用Timsort算法，时间复杂度变为O((m+n)log(m+n))
+class Solution:  # (1)
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        combine = sorted(nums1 + nums2)
+        n = len(combine)
+        if n % 2 == 0:
+            output = (combine[int(n/2 - 1)] + combine[int(n/2)]) / 2
+        else:
+            output = combine[n//2]
+        return output
+```
+
+1.  :man_raising_hand: 2025/03/27
+
+```py title="binary search.py"
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        def getKthElement(k):
+            """
+            - 主要思路：要找到第 k (k>1) 小的元素，那么就取 pivot1 = nums1[k/2-1] 和 pivot2 = nums2[k/2-1] 进行比较
+            - 这里的 "/" 表示整除
+            - nums1 中小于等于 pivot1 的元素有 nums1[0 .. k/2-2] 共计 k/2-1 个
+            - nums2 中小于等于 pivot2 的元素有 nums2[0 .. k/2-2] 共计 k/2-1 个
+            - 取 pivot = min(pivot1, pivot2)，两个数组中小于等于 pivot 的元素共计不会超过 (k/2-1) + (k/2-1) <= k-2 个
+            - 这样 pivot 本身最大也只能是第 k-1 小的元素
+            - 如果 pivot = pivot1，那么 nums1[0 .. k/2-1] 都不可能是第 k 小的元素。把这些元素全部 "删除"，剩下的作为新的 nums1 数组
+            - 如果 pivot = pivot2，那么 nums2[0 .. k/2-1] 都不可能是第 k 小的元素。把这些元素全部 "删除"，剩下的作为新的 nums2 数组
+            - 由于我们 "删除" 了一些元素（这些元素都比第 k 小的元素要小），因此需要修改 k 的值，减去删除的数的个数
+            """
+            
+            index1, index2 = 0, 0
+            while True:
+                # 特殊情况
+                if index1 == m:
+                    return nums2[index2 + k - 1]
+                if index2 == n:
+                    return nums1[index1 + k - 1]
+                if k == 1:
+                    return min(nums1[index1], nums2[index2])
+
+                # 正常情况
+                newIndex1 = min(index1 + k // 2 - 1, m - 1)
+                newIndex2 = min(index2 + k // 2 - 1, n - 1)
+                pivot1, pivot2 = nums1[newIndex1], nums2[newIndex2]
+                if pivot1 <= pivot2:
+                    k -= newIndex1 - index1 + 1
+                    index1 = newIndex1 + 1
+                else:
+                    k -= newIndex2 - index2 + 1
+                    index2 = newIndex2 + 1
+        
+        m, n = len(nums1), len(nums2)
+        totalLength = m + n
+        if totalLength % 2 == 1:
+            return getKthElement((totalLength + 1) // 2)
+        else:
+            return (getKthElement(totalLength // 2) + getKthElement(totalLength // 2 + 1)) / 2
+```
+
+### 5. Longest Palindromic Substring
