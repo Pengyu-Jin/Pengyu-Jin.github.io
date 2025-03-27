@@ -26,6 +26,11 @@ class Solution:
 ### 2. Add Two Numbers
 
 ```py title="linked list.py" 
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+
 class Solution: # (1)
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode(0)
@@ -46,7 +51,7 @@ class Solution: # (1)
 1.  :man_raising_hand: 2025/03/27
 
 
-```py title="create_linked_list.py" 
+```py title="create linked list.py" 
 # Remark: 思想一致
 def create_linked_list(values): 
     dummy = ListNode()
@@ -65,37 +70,67 @@ while l1:
 
 ```
 
-```c title="add_two_numbers.c"
+```c title="linked list.c"
 // typedef struct ListNode {
 //     int val;
 //     struct ListNode* next;
 // } ListNode;
 // 避免一直写struct, 直接用typedef
 
-struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
-    struct ListNode* dummy = (struct ListNode*)malloc(sizeof(struct ListNode));
+ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+    ListNode* dummy = (ListNode*)malloc(sizeof(ListNode));
     dummy->next = NULL;
-    struct ListNode* current = dummy;
+    ListNode* current = dummy;
     int carry = 0;
     while (l1 || l2 || carry) {
         int a = l1 ? l1->val : 0;
         int b = l2 ? l2->val : 0;
         int sum = a + b + carry;
         carry = sum / 10;
-        current->next = (struct ListNode*)malloc(sizeof(struct ListNode));
+        current->next = (ListNode*)malloc(sizeof(ListNode));
         current->next->val = sum % 10;
         current->next->next = NULL;
         current = current->next;
         if (l1) l1 = l1->next;
         if (l2) l2 = l2->next;
     }
-    struct ListNode* result = dummy->next;
+    ListNode* result = dummy->next;
     free(dummy); // 避免内存泄漏
     return result;
 }
 ```
 
+```c title="create linked list.c"
+// Remark: 思想一致
+ListNode* createNode(int val) {
+    ListNode* newNode = (ListNode*)malloc(sizeof(ListNode));
+    newNode->val = val;
+    newNode->next = NULL;
+    return newNode;
+}
 
+ListNode* createList(int* nums, int size) {
+    ListNode* dummy = createNode(0);
+    ListNode* current = dummy;
+    for (int i = 0; i < size; i++) {
+        current->next = createNode(nums[i]);
+        current = current->next;
+    }
+    return dummy->next;
+}
+
+int main() {
+    int nums[] = {2, 4, 3};
+    int nums[] = {5, 6, 4};
+    ListNode* l1 = createList(nums, 3);
+    ListNode* l2 = createList(nums, 3);
+    ListNode* result = addTwoNumbers(l1, l2);
+    free(l1);
+    free(l2);
+    free(result);
+    return 0;
+}
+```
 
 ### 3. Longest Substring Without Repeating Characters
 
