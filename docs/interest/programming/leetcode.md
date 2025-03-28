@@ -148,7 +148,7 @@
 === "Python: brute force"
 
     ```py
-    class Solution: # (1) 运行提交笑嘻嘻，一看击败百分七:(
+    class Solution: # (1) 运行提交笑嘻嘻，一看击败百分七🤡
         def lengthOfLongestSubstring(self, s: str) -> int:
             countset = []
             for num, i in enumerate(s):
@@ -259,33 +259,88 @@
 
     ```py
     class Solution: # (1)
-    def longestPalindrome(self, s: str) -> str:
-        n = len(s)
-        if n == 0:
-            return ""
-        maxlen = 1
-        maxstring = s[0]
-        for i in range(n):
-            # 奇数长度回文
-            l, r = i, i
-            while l >= 0 and r < n and s[l] == s[r]:
-                if r - l + 1 > maxlen:
-                    maxlen = r - l + 1
-                    maxstring = s[l:r+1]
-                l -= 1
-                r += 1
+        def longestPalindrome(self, s: str) -> str:
+            n = len(s)
+            if n == 0:
+                return ""
+            maxlen = 1
+            maxstring = s[0]
+            for i in range(n):
+                # 奇数长度回文
+                l, r = i, i
+                while l >= 0 and r < n and s[l] == s[r]:
+                    if r - l + 1 > maxlen:
+                        maxlen = r - l + 1
+                        maxstring = s[l:r+1]
+                    l -= 1
+                    r += 1
 
-            # 偶数长度回文
-            l, r = i, i+1
-            while l >= 0 and r < n and s[l] == s[r]:
-                if r - l + 1 > maxlen:
-                    maxlen = r - l + 1
-                    maxstring = s[l:r+1]
-                l -= 1
-                r += 1
-            
-        return maxstring
+                # 偶数长度回文
+                l, r = i, i+1
+                while l >= 0 and r < n and s[l] == s[r]:
+                    if r - l + 1 > maxlen:
+                        maxlen = r - l + 1
+                        maxstring = s[l:r+1]
+                    l -= 1
+                    r += 1
+                
+            return maxstring
     ```
 
     1.  :man_raising_hand: 2025/03/28
+
+
+### 6. ZigZag Conversion
+
+=== "Python: Indexing regularity"
+
+    ```py
+    class Solution: # (1)
+        def convert(self, s: str, numRows: int) -> str:
+            if numRows == 1:
+                return s
+            output = []
+            n = len(s)
+            gap = numRows + (numRows - 2) # 完整“Z”字形的列间距
+
+            for row in range(numRows):
+                i = row
+                while i < n:
+                    output.append(s[i])
+                    # 处理中间行（非首尾行）
+                    if row != 0 and row != numRows - 1:
+                        j = i + gap - 2*row
+                        if j < n:
+                            output.append(s[j])
+                    i += gap 
+            return "".join(output)
+    ```
+
+    1.  :man_raising_hand: 2025/03/28
+
+=== "Python: 巧设flag, 行索引递增递减不断转折"
+
+    ```py
+    class Solution: # 真是甜菜🤏
+        def convert(self, s: str, numRows: int) -> str:
+            if numRows < 2:
+                return s
+            res = ["" for _ in range(numRows)]
+            i, flag = 0, -1
+            for c in s:
+                res[i] += c
+                if i == 0 or i == numRows - 1:
+                    flag = -flag
+                i += flag
+            return "".join(res)
+    ```
+
+
+### 7. Reverse Integer
+
+=== "Python: 取模"
+
+     ```py
+     d
+    ```
     

@@ -1,0 +1,178 @@
+{% extends "main.html" %}
+{% block styles %}
+  {{ super() }}
+  <style>
+    /* ====================== */
+    /* 基础变量定义 (保留) */
+    /* ====================== */
+    :root {
+      --clr-white-hsl: 0, 0%, 100%;
+      --clr-lightgrey-hsl: 0, 0%, 90%;
+      --clr-black-hsl: 0, 0%, 0%;
+      --clr-white: hsl(var(--clr-white-hsl));
+      --clr-black: hsl(var(--clr-black-hsl));
+      
+      /* 可以删除的渐变变量（因为我们要用图片背景） */
+      /* --clr-pink-100: #F15F79; */
+      /* --clr-pink-200: #B24592; */
+      /* --gradient-primary: linear-gradient(...); */
+      
+      /* 保留尺寸变量 */
+      --gutter: 30px;
+      --size-08: 8px;
+      --size-12: 12px;
+      --size-20: 20px;
+      --br-06: 6px;
+    }
+
+    /* ====================== */
+    /* 全屏图片背景系统 (新增) */
+    /* ====================== */
+    body {
+      background: 
+        linear-gradient(rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.7)),
+        url('../assets/images/c.jpg') no-repeat center center fixed;
+      background-size: cover;
+      min-height: 100vh;
+      color: var(--clr-white);
+    }
+
+    /* ====================== */
+    /* 导航栏样式 (替换原有) */
+    /* ====================== */
+    .md-header,
+    .md-tabs {
+      background-color: transparent !important;
+      backdrop-filter: none !important;
+      border-bottom: none;
+    }
+    
+    .md-header__title,
+    .md-tabs__link {
+      color: var(--clr-white) !important;
+      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    }
+
+    /* ====================== */
+    /* 内容区域样式 (修改) */
+    /* ====================== */
+    .lp-container {
+      background: transparent !important; /* 移除粉色渐变 */
+    }
+    
+    .lp-layer {
+      background-color: rgba(255, 255, 255, 0.9);
+      border-radius: 12px;
+      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+      margin: 2rem auto;
+      padding: 2rem;
+    }
+
+    /* ====================== */
+    /* Hero区域样式 (修改) */
+    /* ====================== */
+    .hero {
+      background: transparent;
+      color: var(--clr-white);
+    }
+    
+    .hero h1 {
+      text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+    }
+
+    /* 大标题样式 */
+    .hero-banner {
+      position: relative;
+      height: 70vh; /* 控制高度 */
+      display: flex;
+      align-items: center;
+      padding-left: 15%; /* 控制左侧距离 */
+      color: white;
+    }
+
+    .hero-text h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    }
+
+    .hero-text p {
+      font-size: 1.1rem;
+      margin-bottom: 2rem;
+      max-width: 600px;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+    }
+
+
+    /* 手机端适配 */
+    @media (max-width: 768px) {
+      .hero-banner {
+        padding-left: 10%;
+        height: 60vh;
+      }
+      .hero-text h1 {
+        font-size: 2rem;
+      }
+    }
+
+    /* ====================== */
+    /* 按钮样式 (修改) */
+    /* ====================== */
+    .button {
+      background: rgba(255, 255, 255, 0.15);
+      border: 2px solid var(--clr-white);
+      color: var(--clr-white);
+      backdrop-filter: blur(5px);
+    }
+    
+    .button:hover {
+      background: rgba(255, 255, 255, 0.3);
+    }
+
+    /* ====================== */
+    /* 修改底部导航栏样式 */
+    /* ====================== */
+    .md-footer {
+      background-color: transparent !important;
+      backdrop-filter: none !important;
+      border-top: none;
+      color: var(--clr-white); /* 确保文字可见 */
+    }
+    
+    /* 底部导航栏链接颜色 */
+    .md-footer-nav__link {
+      color: var(--clr-white);
+      opacity: 0.8;
+    }
+    
+    /* 底部版权信息 */
+    .md-footer-meta {
+      background-color: transparent !important;
+    }
+  </style>
+{% endblock %}
+
+{% block tabs %}
+  {{ super() }}
+  <style>
+    /* 必须保留的布局重置 */
+    .md-header{ position: initial }
+    .md-main__inner{ margin: 0 }
+    .md-content{ display: none }
+    
+    @media screen and (min-width:60em){
+      .md-sidebar--secondary{ display: none }
+    }
+    @media screen and (min-width:76.25em){
+      .md-sidebar--primary{ display: none }
+    }
+  </style>
+
+  <div class="hero-banner">
+    <div class="hero-text">
+      <h1>Once more, the wind blows</h1>
+      <p>We fix our eyes on the distant horizon</p>
+    </div>
+  </div>
+{% endblock %}

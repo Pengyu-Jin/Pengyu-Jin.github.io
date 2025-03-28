@@ -1,11 +1,12 @@
 # [Info]
-site_name: Pengyu-Jin's personal website # 左上角标题
+site_name: Pengyu-Jin's Website # 左上角标题
 site_url: https://jin-pengyu.github.io/
 site_author: 靳鹏宇
 site_description: 靳鹏宇的个人网站
 
 #[Navigation]
 nav:
+  - Home: index.md
   - Major:
       - major/index.md
       - Research: major/research/research.md
@@ -68,6 +69,7 @@ theme:
   # font-size: 16px;
 
   name: material
+  custom_dir: overrides # 启用自定义覆盖
   logo: logo.ico
   favicon: logo.ico
   palette:
@@ -84,6 +86,7 @@ theme:
         icon: material/weather-sunny
         name: 切换至日间模式
   features:
+    - social # 社交链接
     - navigation.tabs # 使用Tab来进行分类
     #- navigation.tabs.sticky # 粘性导航标签，sticky navigation tab
     - navigation.top # 返回顶部的按钮 在上滑时出现
@@ -123,8 +126,7 @@ extra:
 
 ## [Extensions]
 plugins:
-  - search: # 现在还不支持中文搜索 支持之后可以设置语言
-    # insider已经支持中文的分词搜索了 https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
+  - search:
       lang:
         - en
         - ja
@@ -172,32 +174,21 @@ markdown_extensions:
 
   # 代码块语法高亮
   - pymdownx.highlight:
-      linenums: true 
-      anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
 
-# 在此处添加 lang 设置
-extra:
-  lang: "zh"  # 或者 "en"，根据需要
 
 extra_css:
-  - mkdocs/css/no-footer.css # 不使用底部的翻页
 #   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
   - mkdocs/css/extra.css
   - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css    # 从https://github.com/LLMQuant/quant-wiki/tree/master拿来的
 
 
-
 extra_javascript:
   # latex支持
-  # check https://squidfunk.github.io/mkdocs-material/reference/mathjax/?h=math for more information
-  # notice `curl https://polyfill.io/v3/polyfill.min.js?features=es6 > docs/mkdocs/javascripts/polyfill.min.js && curl https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js > docs/mkdocs/javascripts/tex-mml-chtml.js` not works... because there are other resources that need to load
-  - mkdocs/javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # https://cdn.bytedance.com/?query=mathjax&version=3.2.0
-
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js
 
