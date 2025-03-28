@@ -11,9 +11,6 @@ body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
 strong:lang(zh), b:lang(zh) {
     font-weight: 700 !important;
     -webkit-text-stroke: 0.2px currentColor; /* 添加描边效果 */
-    text-stroke: 0.2px currentColor; /* 标准属性 */
-    color: #000 !important; /* 使用深色 */
 }
-
 
 
