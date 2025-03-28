@@ -1,0 +1,5 @@
+:root  > * {
+  --md-primary-fg-color:        #2c617f;  /* 基准主色 */
+  --md-primary-fg-color--light: #4a7fa6;  /* 提亮40% */
+  --md-primary-fg-color--dark:  #0d2b3d;  /* 加深30% */
+  }

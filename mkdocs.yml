@@ -74,7 +74,7 @@ theme:
   favicon: logo.ico
   palette:
     - scheme: default # 日间模式
-      primary: white # 上方的
+      primary: custom # 上方的
       accent: orange # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night # 图标
@@ -185,10 +185,10 @@ extra_css:
 #   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
   - mkdocs/css/extra.css
   - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css    # 从https://github.com/LLMQuant/quant-wiki/tree/master拿来的
-
+  - stylesheets/extra.css
 
 extra_javascript:
   # latex支持
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js
+
 
