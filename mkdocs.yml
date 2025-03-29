@@ -165,8 +165,7 @@ markdown_extensions:
   - pymdownx.tabbed:  #添加content tab功能
       alternate_style: true
 
-  # annotation 注解
-  - md_in_html
+  - md_in_html   # annotation 注解
 
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji

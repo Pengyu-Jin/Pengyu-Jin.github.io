@@ -338,9 +338,52 @@
 
 ### 7. Reverse Integer
 
-=== "Python: 取模"
+=== "Python: reverse the string"
 
-     ```py
-     d
+    ```py
+    class Solution: # (1)
+        def reverse(self, x: int) -> int:
+            if x > 0:
+                s = reversed(str(x))
+                result = int("".join(s))
+            elif x == 0:
+                result = 0
+            else:
+                s = reversed(str(x)[1:])
+                result = int("-" + "".join(s))
+            
+            if result < -2**31 or result > 2**31 - 1:
+                return 0
+            else:
+                return result
     ```
     
+    1.  :cheese: 2025/03/29
+
+=== "Digit Reversal"
+
+    ```py
+    class Solution:
+        def reverse(self, x: int) -> int:
+            INT_MIN, INT_MAX = -2**31, 2**31 - 1
+            sign = -1 if x < 0 else 1
+            x_abs = abs(x)
+
+            reversed_num = 0
+            while x_abs != 0:
+                digit = x_abs % 10
+                x_abs = x_abs // 10
+
+                # 检查反转后的数字是否可能溢出
+                if sign == 1 and (reversed_num > (INT_MAX - digit) // 10):
+                    return 0
+                if sign == -1 and (reversed_num > (abs(INT_MIN) - digit) // 10):
+                    return 0
+
+                reversed_num = reversed_num * 10 + digit
+            
+            reversed_num *= sign
+            return reversed_num
+    ```
+
+### 8. String to Integer (atoi)
