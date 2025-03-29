@@ -70,8 +70,8 @@ theme:
 
   name: material
   custom_dir: overrides # 启用自定义覆盖
-  logo: logo.ico
-  favicon: logo.ico
+  logo: logo.png # 左上角logo
+  favicon: logo.png # 网站图标
   palette:
     - scheme: default # 日间模式
       primary: custom # 上方的
@@ -86,7 +86,6 @@ theme:
         icon: material/weather-sunny
         name: 切换至日间模式
   features:
-    - social # 社交链接
     - navigation.tabs # 使用Tab来进行分类
     #- navigation.tabs.sticky # 粘性导航标签，sticky navigation tab
     - navigation.top # 返回顶部的按钮 在上滑时出现
@@ -151,7 +150,6 @@ markdown_extensions:
   - attr_list # 给图片后面添加{width="300"}设置大小
   - toc:
       permalink: true # 固定标题位置为当前位置
-  - meta # 支持Markdown文件上方自定义标题标签等
 
   
   - def_list #List列表相关
@@ -160,7 +158,6 @@ markdown_extensions:
 
   - admonition   #添加admonition  https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
   - pymdownx.details  # admonition需要
-  - pymdownx.superfences
  
   - pymdownx.tabbed:  #添加content tab功能
       alternate_style: true
