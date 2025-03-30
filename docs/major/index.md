@@ -4,6 +4,6 @@
 
 🔍 *Organized Insights* | 📝 *Work Notes* | 💡 *Industry Perspectives*  
 
-### Navigation Guide:  
+### Navigation Guide
 - Use the **left sidebar** to browse by category  
 - Press `/` to search  
