@@ -24,6 +24,7 @@ nav:
           - Phrase: major/EN-learn/phrase.md
           - Phonetic symbol: major/EN-learn/phonetic symbol.md
           - Why: major/EN-learn/why.md
+          - IELTS: major/EN-learn/IELTS.md
       - Mathmatic: major/math/math.md
       
 
@@ -54,6 +55,8 @@ nav:
       - about/index.md
       - bio:
           - CV: about/personal profile/cv.md 
+
+
 
 
 #[UI]
