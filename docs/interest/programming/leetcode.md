@@ -386,4 +386,66 @@
             return reversed_num
     ```
 
-### 8. String to Integer (atoi)
+### 8. ASCII to Integer (atoi)
+
+=== "Python: DFA, deterministic finite automaton 确定有限状态机"
+
+    ```py
+    INT_MAX = 2**31 - 1
+    INT_MIN = -2**31
+
+    class Solution: # (1) 基本方法if else判断的shit mountain 就不写了，太烂了
+        def myAtoi(self, s: str) -> int:
+            automation = Automation()
+            for c in s:
+                automation.read(c)
+            return automation.sign * automation.ans
+    
+    class Automation:
+        def __init__(self):
+            self.state = "start"
+            self.sign = 1
+            self.ans = 0
+            self.table = {
+                "start" : ["start", "signed", "in_number", "end"],
+                "signed" : ["end", "end", "in_number", "end"],
+                "in_number" : ["end", "end", "in_number", "end"],
+                "end" : ["end", "end", "end", "end"]
+            }
+        
+        def get_col(self, c):
+            if c.isspace():
+                return 0
+            if c == "+" or c == "-":
+                return 1
+            if c.isdigit():
+                return 2
+            return 3
+
+        def read(self, c):
+            self.state = self.table[self.state][self.get_col(c)]
+            if self.state == "in_number":
+                self.ans = self.ans * 10 + int(c)
+                self.ans = min(self.ans, INT_MAX) if self.sign == 1 else min(self.ans, -INT_MIN)
+            elif self.state == "signed":
+                self.sign = 1 if c == "+" else -1
+    ```
+
+    1.  :material-checkbox-marked-circle-minus-outline: 2025/03/31
+
+=== "Regex"
+
+    ```py
+    class Solution:
+    def myAtoi(self, s: str) -> int:
+        return max(min(int(*re.findall('^[\+\-]?\d+', s.lstrip())), 2**31 - 1), -2**31)
+    ```
+    `^`: 匹配字符串开头（经 lstrip 处理后，开头是非空格字符）。
+
+    `[\+\-]`: 代表一个+字符或-字符
+
+    `?`: 前面一个字符可有可无
+
+    `\d`: 一个数字
+
+    `+`: 前面一个字符的一个或多个
