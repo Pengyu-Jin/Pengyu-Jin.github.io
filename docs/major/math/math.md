@@ -10,7 +10,7 @@ $\dot{x}$  读作：x dot
 
 $\tilde{x}$  读作： x tilde
 
-补充相关数学字符发音：[Pronunciation of mathematical symbols](http://www.uefap.com/speaking/symbols/symbols.htm){:target="_blank"}
+补充相关数学字符发音：[Pronunciation of mathematical symbols](https://www.uefap.org/speaking-symbols-introduction/){:target="_blank"}
 
 
 ## 知识点
