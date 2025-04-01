@@ -431,7 +431,7 @@
                 self.sign = 1 if c == "+" else -1
     ```
 
-    1.  :material-checkbox-marked-circle-minus-outline: 2025/03/31
+    1.  :white_check_mark: 2025/03/31
 
 === "Regex"
 
@@ -440,12 +440,78 @@
     def myAtoi(self, s: str) -> int:
         return max(min(int(*re.findall('^[\+\-]?\d+', s.lstrip())), 2**31 - 1), -2**31)
     ```
-    `^`: 匹配字符串开头（经 lstrip 处理后，开头是非空格字符）。
+    `^`: start of string
 
-    `[\+\-]`: 代表一个+字符或-字符
+    `[\+\-]`: a single character of: +, -
 
-    `?`: 前面一个字符可有可无
+    `?`: zero or one
 
-    `\d`: 一个数字
+    `+`: one or more
 
-    `+`: 前面一个字符的一个或多个
+    `\d`: Any digit
+
+    For more information: [regex101](https://regex101.com/){:target="_blank"}
+
+
+### 9. Palindrome Number
+
+=== "Python: reverse half of the number"
+
+    ```py
+    class Solution: # (1)
+        def isPalindrome(self, x: int) -> bool:
+            # 反转一半数字法
+            # 特殊情况
+            # 当x<0时，x不是回文数
+            # 当数字的最后一位是0时，除非这个数字是0，否则都不满足回文性
+            if x < 0 or (x % 10 == 0 and x != 0):
+                return False
+            
+            revertednumber = 0
+            while x > revertednumber:
+                revertednumber = revertednumber * 10 + x % 10
+                x = x // 10
+            # 当数字长度为奇数时，我们可以通过revertednumber // 10去除处于中间位置的数字
+            # 例如，当输入为12321时，在while循环的末尾我们可以得到 x = 12, revertednumber = 123
+            # 因此我们可以将中位数字去除
+            return x == revertednumber or x == revertednumber // 10
+    ```
+
+    1.  :white_check_mark: 2025/04/01
+
+### 10. Regular Expression Matching
+
+=== "Python: Dynamic programming"
+
+    ```py
+    class Solution: # (1) index非常绕，然后还有动态规划的思想，多琢磨吧
+        def isMatch(self, s: str, p: str) -> bool:
+            m, n = len(s) + 1, len(p) + 1
+            dp = [[False] * n for _ in range(m)]
+            dp[0][0] = True
+            # 初始化首行
+            for j in range(2, n, 2):
+                dp[0][j] = dp[0][j - 2] and p[j - 1] == "*"
+            # 状态转移
+            for i in range(1, m):
+                for j in range(1, n):
+
+                    if p[j - 1] == "*": # 当前字符为*时
+                        if dp[i][j - 2]:
+                            dp[i][j] = True
+                        elif dp[i - 1][j] and s[i - 1] == p[j - 2]:
+                            dp[i][j] = True
+                        elif dp[i - 1][j] and p[j - 2] == ".":
+                            dp[i][j] = True
+
+                    else: # 当前字符不为*时
+                        if dp[i - 1][j - 1] and s[i - 1] == p[j - 1]:
+                            dp[i][j] = True
+                        elif dp[i - 1][j - 1] and p[j - 1] == ".":
+                            dp[i][j] = True
+            return dp[-1][-1]
+    ```
+
+    1. :white_check_mark: 2025/04/01
+
+    多看多想：[k神图解](https://leetcode.cn/problems/regular-expression-matching/solutions/2361807/10-zheng-ze-biao-da-shi-pi-pei-dong-tai-m5z1i){:target="_blank"}
