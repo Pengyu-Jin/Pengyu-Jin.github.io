@@ -151,6 +151,26 @@
     .md-footer-meta {
       background-color: transparent !important;
     }
+
+    /* ====================== */
+    /* 导航抽屉样式修复 (新增) */
+    /* ====================== */
+    @media screen and (max-width: 76.1875em) {
+      .md-nav {
+        background-color: var(--md-default-bg-color);
+      }
+      
+      .md-nav__title,
+      .md-nav__link {
+        color: var(--md-default-fg-color) !important;
+      }
+      
+      .md-nav__link:focus,
+      .md-nav__link:hover {
+        color: var(--md-accent-fg-color) !important;
+      }
+    }
+
   </style>
 {% endblock %}
 

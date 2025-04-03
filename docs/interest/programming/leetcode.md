@@ -543,7 +543,7 @@
 === "Python: 模拟"
 
     ```py
-    class Solution:
+    class Solution: # (1)
         VALUE_SIMPLES = [
             (1000, "M")，
             (900, "CM"),
@@ -571,6 +571,7 @@
             return "".join(roman)
     ```
 
+    1. :white_check_mark: 2025/04/03
 
 === "按照高位到低位，每位处理"
 
@@ -596,3 +597,33 @@
                     s = s + REF[i][digit - 1]
             return s
     ```
+
+### 13. Roman to Integer
+
+=== "Python: 模拟"
+
+    ```py
+    class Solution: # (1) 
+        SYMBOL_VALUES = {
+            'I': 1,
+            'V': 5,
+            'X': 10,
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000,
+            }
+        
+        def romanToInt(self, s: str) -> int:
+            res = 0
+            n = len(s)
+            for i, ch in enumerate(s):
+                value = Solution.SYMBOL_VALUES[ch]
+                if i < n - 1 and value < Solution.SYMBOL_VALUES[s[i + 1]]:
+                    res -= value
+                else:
+                    res += value
+            return res
+    ```
+
+    1. :white_check_mark: 2025/04/03
