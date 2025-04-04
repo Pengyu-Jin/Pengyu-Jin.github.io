@@ -1,6 +1,8 @@
 ---
 title: efficient skills
-date: 2025-01-10
+date:
+  created: 2025-01-01
+  updated: 2025-01-10
 authors: [Pengyu-Jin]
 slug: efficient skills
 categories:
@@ -24,6 +26,7 @@ categories:
 |`win+L`     | 锁屏 |
 | `win+shift+s`| 截屏 |
 | `win+.`    |打开emoji|
+|`win+x` = right click on :material-microsoft:| 打开电脑底层设置、终端、终端管理员 |
 |`win+tab`   |打开任务视图 |
 |`win+ctrl+左右`|切换任务视图桌面 |
 |`win+ctrl+D` |新建任务视图桌面 |
