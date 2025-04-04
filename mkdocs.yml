@@ -133,12 +133,21 @@ plugins:
         - en
         - ja
   - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
-
   - blog: #blog 插件
       blog_toc: true ##显示 Blog中每篇博客的标题 构成的目录
       archive: true
       categories: true
-
+  
+  - git-committers:
+      enabled: true
+      repository: Pengyu-Jin/Pengyu-Jin.github.io
+      branch: main
+      # token: !ENV GH_TOKEN
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: false
+      enable_creation_date: false
+      enabled: true
 
 markdown_extensions:
   - footnotes #添加注脚footnotes
