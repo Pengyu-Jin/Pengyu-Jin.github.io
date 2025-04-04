@@ -142,11 +142,11 @@ plugins:
       enabled: true
       repository: Pengyu-Jin/Pengyu-Jin.github.io
       branch: main
-      # token: !ENV GH_TOKEN
+      token: !ENV GH_TOKEN
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: false
-      enable_creation_date: false
+      enable_creation_date: true
       enabled: true
 
 markdown_extensions:
