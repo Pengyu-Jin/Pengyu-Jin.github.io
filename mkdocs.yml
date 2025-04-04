@@ -142,7 +142,7 @@ plugins:
       enabled: true
       repository: Pengyu-Jin/Pengyu-Jin.github.io
       branch: main
-      token: !ENV GH_TOKEN
+      # token: !ENV GH_TOKEN
   - git-revision-date-localized: #对应一个插件，显示文章最后修改时间
       type: date
       fallback_to_build_date: false
