@@ -194,7 +194,7 @@
     ```py
     # 合并排序秒了，但合并时间复杂度为O(m+n), 排序采用Timsort算法，时间复杂度变为O((m+n)log(m+n))
     class Solution:  # (1)
-        def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
             combine = sorted(nums1 + nums2)
             n = len(combine)
             if n % 2 == 0:
@@ -210,7 +210,7 @@
 
     ```py
     class Solution:
-        def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
             def getKthElement(k):
                 """
                 - 主要思路：要找到第 k (k>1) 小的元素，那么就取 pivot1 = nums1[k/2-1] 和 pivot2 = nums2[k/2-1] 进行比较
@@ -522,7 +522,7 @@
 
     ```py
     class Solution: # (1) 指针移动的基本原则是短板动。本题目为贪心算法的一种
-        def maxArea(self, height: List[int]) -> int:
+        def maxArea(self, height: list[int]) -> int:
             left, right = 0, len(height) - 1
             res = 0
             while left < right:
@@ -627,3 +627,89 @@
     ```
 
     1. :white_check_mark: 2025/04/03
+
+### 14. Longest Common Prefix
+
+=== "Python: 纵向扫描"
+
+    ```py
+    class Solution: # (1) 
+        def longestCommonPrefix(self, strs: list[str]) -> str:
+            if not strs:
+                return ""
+            
+            length, count = len(strs[0]), len(strs)
+            for i in range(length):
+                ch = strs[0][i]
+                for j in range(1, count):
+                    if i == len(strs[j]) or strs[j][i] != ch:
+                        return strs[0][:i]
+            return strs[0]
+    ```
+
+    1. :white_check_mark: 2025/04/04
+
+=== "Python: 横向扫描"
+
+    ```py
+    class Solution:
+        def longestCommonPrefix(self, strs: list[str]) -> str:
+            if not strs:
+                return ""
+        
+            prefix, count = strs[0], len(strs)
+            for i in range(1, count):
+                prefix = self.lcp(prefix, strs[i])
+                if not prefix:
+                    return ""
+            return prefix
+
+        def lcp(self, str1: str, str2: str) -> str:
+            minlen, index = min(len(str1), len(str2)), 0
+            while index < minlen and str1[index] == str2[index]:
+                index += 1
+            return str1[:index]
+    ```
+
+### 15. Three Sum 
+
+=== "Python: dict-hashtable"
+
+    ```py
+    class Solution: # (1)
+        def threeSum(self, nums: list[int]) -> list[list[int]]:
+            # 将数字统计到字典中(hashtable)
+            data = dict()
+            for n in nums:
+                if n in data:
+                    data[n] += 1
+                else:
+                    data[n] = 1
+            # 由小到大排序，且数字不同，以及得到0的位置
+            keys = sorted(data.keys())
+            N = len(keys)
+            zeroAt = 0
+            while zeroAt < N and keys[zeroAt] < 0:
+                zeroAt += 1
+            
+            # 单独讨论3个0的情况
+            res = []
+            if 0 in data and data[0] > 2:
+                res.append([0, 0, 0])
+            
+            # 各取一个负数a和一个正数b
+            for i in range(zeroAt):
+                for j in range(zeroAt + (0 in data), N):
+                    a = keys[i]
+                    b = keys[j]
+                    rest = 0 - a - b # 虽然由a < 0 < b可以得到-b < rest < -a，但是为了避免重复，这里强制rest在a和b之间，保证输出的三元组一定是不重复的升序排列。
+                    if rest == a and data[a] > 1:
+                        res.append([a, a, b])
+                    elif a < rest < b and rest in data:
+                        res.append([a, rest, b])
+                    elif rest == b and data[b] > 1:
+                        res.append([a, b, b])
+            return res
+    ```
+
+    1. :white_check_mark: 2025/04/04
