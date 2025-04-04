@@ -132,18 +132,18 @@ plugins:
       lang:
         - en
         - ja
-  - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
+  - tags # 给单篇文章添加标签
   - blog: #blog 插件
       blog_toc: true ##显示 Blog中每篇博客的标题 构成的目录
       archive: true
       categories: true
   
-  - git-committers:
+  - git-committers: # 对应两个插件，显示文章末尾git提交者
       enabled: true
       repository: Pengyu-Jin/Pengyu-Jin.github.io
       branch: main
       token: !ENV GH_TOKEN
-  - git-revision-date-localized:
+  - git-revision-date-localized: #对应一个插件，显示文章最后修改时间
       type: date
       fallback_to_build_date: false
       enable_creation_date: true
