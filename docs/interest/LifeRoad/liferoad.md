@@ -1,21 +1,33 @@
-## 2025-04-04
->程序设计实验对菜鸡友好, 但为什么你做完之后还是菜鸡? 做一个对菜鸡友好的实验, 能力并不会得到提升.
+## 2025-04-05
+!!! quote "What does the word "passionate" mean to you?"
+    I suppose that what it means is that sometimes if you wake up in the morning, and you don't want to do something, it's okay to feel like that sometimes, but if you feel like that day after day after day, then that means that you lack passion.
 
->如果你是菜鸡, 说明你之前该吃苦的时候没吃够, 现在比别人多吃苦就是应该的.
->
-> ——[南京大学计算机系统基础](https://nju-projectn.github.io/ics-pa-gitbook/ics2024/FAQ.html){:target="_blank"}
+    So passion means that I guess over a long period of time you can look back at what you've done and say I really enjoyed doing that. That really made me feel like I was doing something valuable.
+
+-- *2025-04-05*
+!!! quote
+    程序设计实验对菜鸡友好, 但为什么你做完之后还是菜鸡? 做一个对菜鸡友好的实验, 能力并不会得到提升.
+
+    如果你是菜鸡, 说明你之前该吃苦的时候没吃够, 现在比别人多吃苦就是应该的.
+
+    -- *[南京大学计算机系统基础](https://nju-projectn.github.io/ics-pa-gitbook/ics2024/FAQ.html){:target="_blank"}*
 
 
 
 ## 2025-04-03
-> 刷课的目的不是为了刷课, 是为了理解知识, 所谓的前置顺序不过是为了让你在学习的过程中能更大程度的理解其中的道理, 如果你不懂汇编, 你就很难理解OS的原子操作是怎么实现的; 如果你不懂自旋锁互斥锁, 你也很难理解查询节点的并发控制; 同样的, 如果你C++的基础没打牢, 在面对项目中std::forward这种更现代的cpp语法时也会一知半解, 所以一步一步来, 慢慢学, 不是说学的东西越深奥就越强, 真正能把c++17之后的语法和oop写明白的, 其实也不多。
->
-> ——水源社区
+!!! quote
+    刷课的目的不是为了刷课, 是为了理解知识, 所谓的前置顺序不过是为了让你在学习的过程中能更大程度的理解其中的道理。
+
+    如果你不懂汇编, 你就很难理解OS的原子操作是怎么实现的; 如果你不懂自旋锁互斥锁, 你也很难理解查询节点的并发控制; 同样的, 如果你C++的基础没打牢, 在面对项目中`std::forward`这种更现代的cpp语法时也会一知半解, 所以一步一步来, 慢慢学, 不是说学的东西越深奥就越强, 真正能把c++17之后的语法和oop写明白的, 其实也不多。
+
+    -- *水源社区*
+
 
 ## 2025-04-01
-> 我想让你见识一下什么是真正的勇敢，而不要错误地认为一个人手握枪支就是勇敢。勇敢是：当你还未开始就已知道自己会输，可你依然要去做，而且无论如何都要把它坚持到底。你很少能赢，但有时也会。
-> 
-> ——杀死一只知更鸟
+!!! quote
+    想让你见识一下什么是真正的勇敢，而不要错误地认为一个人手握枪支就是勇敢。勇敢是：当你还未开始就已知道自己会输，可你依然要去做，而且无论如何都要把它坚持到底。你很少能赢，但有时也会。
+    
+    -- *杀死一只知更鸟*
 
 
 ## 2025-01-26

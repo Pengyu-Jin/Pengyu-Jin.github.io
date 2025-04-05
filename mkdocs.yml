@@ -1,6 +1,6 @@
 # [Info]
 site_name: Pengyu-Jin's Website # 左上角标题
-site_url: https://jin-pengyu.github.io/
+site_url: https://pengyu-jin.github.io/
 site_author: 靳鹏宇
 site_description: 靳鹏宇的个人网站
 
@@ -120,7 +120,7 @@ extra:
       link: https://space.bilibili.com/435864762
       name: Bilibili | 鸽子和野狗 # 鼠标悬浮提示
     - icon: fontawesome/brands/github
-      link: https://github.com/Jin-Pengyu
+      link: https://github.com/Pengyu-Jin
       name: GitHub | Jin-Pengyu
     - icon: fontawesome/brands/zhihu
       link: https://www.zhihu.com/people/zhi-nian-20-34-4
@@ -152,7 +152,9 @@ markdown_extensions:
   - toc:
       permalink: true # 固定标题位置为当前位置
 
-  
+  - pymdownx.keys: # keyboard buttons icon
+      camel_case: true
+
   - def_list #List列表相关
   - pymdownx.tasklist:
       custom_checkbox: true  
