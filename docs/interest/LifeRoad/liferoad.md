@@ -4,7 +4,7 @@
 
     So passion means that I guess over a long period of time you can look back at what you've done and say I really enjoyed doing that. That really made me feel like I was doing something valuable.
 
--- *2025-04-05*
+## 2025-04-05
 !!! quote
     程序设计实验对菜鸡友好, 但为什么你做完之后还是菜鸡? 做一个对菜鸡友好的实验, 能力并不会得到提升.
 
