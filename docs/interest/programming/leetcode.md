@@ -713,3 +713,73 @@
     ```
 
     1. :white_check_mark: 2025/04/04
+
+=== "Python: 排序+双指针"
+
+    ```py
+    class Solution:
+        def threeSum(self, nums: list[int]) -> list[list[int]]:
+            nums.sort()
+            n = len(nums)
+            res = list()
+            for i in range(n):
+                if i > 0 and nums[i] == nums[i - 1]: # 跳过重复
+                    continue
+                l, r = i + 1, n - 1
+                while l < r:
+                    s = nums[i] + nums[l] + nums[r]
+                    if s == 0:
+                        res.append([nums[i], nums[l], nums[r]])
+                        l += 1
+                        r -= 1
+                        while l < r and nums[l] == nums[l - 1]: # 跳过重复
+                            l += 1
+                        while l < r and nums[r] == nums[r + 1]: # 跳过重复
+                            r -= 1
+                    elif s < 0:
+                        l += 1
+                    else:
+                        r -= 1
+            return res
+    ```
+
+
+### 16. Three Sum Closest
+
+=== "Python: 排序+双指针"
+
+    ```py
+    class Solution: # (1) 经典算法，多想多练把
+        def threeSumClosest(self, nums: list[int], target: int) -> int:
+            nums.sort()
+            n = len(nums)
+            best = 10 ** 5
+
+            def update(cur):
+                nonlocal best
+                if abs(cur - target) < abs(best - target):
+                    best = cur
+            
+            for i in range(n):
+                if i > 0 and nums[i] == nums[i - 1]: # 跳过重复
+                    continue
+                l, r = i + 1, n - 1
+                while l < r:
+                    s = nums[i] + nums[l] + nums[r]
+                    if s == target:
+                        return target
+                    update(s)
+                    if s > target:
+                        r0 = r - 1
+                        while l < r0 and nums[r0] == nums[r]: # 跳过重复
+                            r0 -= 1
+                        r = r0
+                    else:
+                        l0 = l + 1
+                        while l0 < r and nums[l0] == nums[l]: # 跳过重复
+                            l0 += 1
+                        l = l0
+            return best
+    ```
+
+    1. :white_check_mark: 2025/04/07

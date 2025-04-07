@@ -1,3 +1,33 @@
+## 2025-04-07
+NOBODY CARES HOW HARD YOU WORK UNTILL YOU SUCCEED.
+
+THE WORLD DOESN'T OWE YOU A DAMN THING.
+
+YOU EARN YOUR PLACE. YOU FIGHT FOR IT.
+
+AND SOMETIMES YOU STILL WON'T GET IT. BUT THE FIGHT ITSELF THAT'S WAHT MAKES YOU STRONGER.
+
+## 2025-04-06
+
+Go talk to people in the auto repair business. Go talk to people in these big box stores. Go talk to anyone that will talk to you about hiring you—and be nice and kind. Show up on time and never be late the rest of your life. Learn that lesson. The bad news is you had to learn it; the good news is you’ve got the rest of your life to not relearn it.
+
+So yeah, get out there and get it done, man. Now, once you get that going, then we need to step up and do what George is talking about—start dreaming about what we want to be.
+
+I don’t want you to be an auto repair tech; I want you to own 17 auto repair centers and be worth $8 million 20 years from today. But you’ve got to decide: 'I’m going to aim at that, and I’m going to do what it takes—scrap and claw—to get that done.' And that requires energy, enthusiasm, and believing you can do it.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/kwwEFnhogr8?si=iiyJLe9Botq14022"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+</div>
+
+
 ## 2025-04-05
 !!! quote "What does the word "passionate" mean to you?"
     I suppose that what it means is that sometimes if you wake up in the morning, and you don't want to do something, it's okay to feel like that sometimes, but if you feel like that day after day after day, then that means that you lack passion.
@@ -59,7 +89,15 @@ Don't be afraid; go question the world.
 ## 2024-02-08
 精通一件事需要10,000小时，但是学会一件事只需要20小时，You can get it!
 
-<iframe src="//player.bilibili.com/player.html?aid=50668972&bvid=BV144411b7Uk&cid=88706634&p=1&autoplay=0&muted=0"width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden; border-radius: 8px;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="//player.bilibili.com/player.html?aid=50668972&bvid=BV144411b7Uk&cid=88706634&p=1&autoplay=0&muted=0"
+    scrolling="no"
+    frameborder="no"
+    allowfullscreen
+  ></iframe>
+</div>
 
 ## 2024-01-23
 人生绕绕远路也不错
