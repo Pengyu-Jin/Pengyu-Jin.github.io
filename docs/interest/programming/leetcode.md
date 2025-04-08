@@ -783,3 +783,132 @@
     ```
 
     1. :white_check_mark: 2025/04/07
+
+
+### 17. letter combination of a phone number
+
+=== "Python: 迭代方法"
+
+    ```py
+    class Solution: # (1) 迭代(循环)方法
+    def letterCombinations(self, digits: str) -> list[str]:
+        ascii_code = 97
+        map = dict()
+        for i in range(8):
+            ls = list()
+            for _ in range(3):
+                ls.append(chr(ascii_code))
+                ascii_code += 1
+            if i + 2 == 7:
+                ls.append('s')
+                ascii_code += 1
+            if i + 2 == 9:
+                ls.append('z')
+                ascii_code += 1
+            map[i + 2] = ls
+        
+        if digits == '':
+            return []
+        if len(digits) == 1:
+            return map[int(digits)]
+        
+        res = self.comb(map[int(digits[0])], map[int(digits[1])])
+        digits = digits[2:]
+        while digits:
+            res = self.comb(res, map[int(digits[0])])
+            digits = digits[1:]
+        
+        return res
+
+    def comb(self, ls1: list, ls2: list) -> list[str]:
+        combination = list()
+        for i in ls1:
+            for j in ls2:
+                combination.append(i + j)
+        return combination
+    ```
+
+    1. :white_check_mark: 2025/04/08
+
+=== "Recursion"
+
+    ```py
+    class Solution:
+        def letterCombinations(self, digits: str) -> list[str]:
+            # mapping硬编码
+            phoneMap = {
+                "2": "abc",
+                "3": "def",
+                "4": "ghi",
+                "5": "jkl",
+                "6": "mno",
+                "7": "pqrs",
+                "8": "tuv",
+                "9": "wxyz",
+            }
+
+            if not digits:
+                return []
+
+            # 递归辅助函数
+            def helper(index: int) -> list[str]:
+                # base case
+                if index == len(digits):
+                    return [""]
+                # 获取子问题的结果，后续所有数字的组合
+                sub_result = helper(index + 1)
+
+                # 取出当前数字对应的字母
+                current_letter = phoneMap[digits[index]]
+                
+                # 递归调用
+                result = []
+                for letter in current_letter:
+                    for sub_str in sub_result:
+                        result.append(letter + sub_str)
+                return result
+            
+            return helper(0)
+    ```
+
+### 18. Four Sum
+
+=== "Python: 排序+双指针"
+
+    ```py
+    class Solution: # (1) 和three sum一样，这里就是多了层for循环，然后记得跳过重复的数字。😑
+        def fourSum(self, nums: list[int], target: int) -> list[list[int]]:
+            nums.sort()
+            n = len(nums)
+            res = list()
+            
+            for i in range(n):
+                if i > 0 and nums[i] == nums[i-1]: # skip duplicates
+                    continue
+                for j in range(i+1, n):
+                    if j > i+1 and nums[j] == nums[j-1]: # skip duplicates
+                        continue
+                    l = j + 1
+                    r = n - 1
+                    while l < r:
+                        s = nums[i] + nums[j] + nums[l] + nums[r]
+                        if s == target:
+                            res.append([nums[i], nums[j], nums[l], nums[r]])
+                            l += 1
+                            r -= 1
+                            while l < r and nums[l] == nums[l-1]: # skip duplicates
+                                l += 1
+                            while l < r and nums[r] == nums[r+1]: # skip duplicates
+                                r -= 1
+                        elif s < target:
+                            l += 1
+                        else:
+                            r -= 1
+
+            return res
+    ```
+
+    1. :white_check_mark: 2025/04/08
+
+
+### 19. Remove Nth Node From End of List
