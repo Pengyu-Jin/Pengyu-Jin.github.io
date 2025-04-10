@@ -3,13 +3,15 @@
 
 ### Python
 
-python -m venv <venv_name>  # 通常起名为.venv
+| command | description | example |
+|---------|-------------|---------|
+| `python -m venv venv_name` | 创建虚拟环境 | `python -m venv .venv` |
+| `venv_name\Scripts\activate` | 进入虚拟环境 | `.venv\Scripts\activate` |
+| `pip freeze > requirements.txt` | 导出依赖 | `pip freeze > requirements.txt` |
+| `pip install -r requirements.txt` | 安装依赖 | `pip install -r requirements.txt` |
 
-<venv_name>\Scripts\activate  # 进入虚拟环境
 
-pip freeze > requirements.txt  # 导出依赖
 
-pip install -r requirements.txt  # 安装依赖
 
 ### Anaconda or Miniconda
 
