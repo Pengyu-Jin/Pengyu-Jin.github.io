@@ -1,14 +1,3 @@
-## 2025-04-10
-
-<figure>
-  <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=1s">
-  <img src="https://news.stanford.edu/__data/assets/image/0028/165169/050609-228.jpg" alt="图片描述" style="width:100%">
-  </a>
-  <figcaption style="text-align:left;font-size:0.8em;">Steve Jobs’ 2005 Stanford Commencement Address. | Stanford University</figcaption>
-</figure>
-
-This is the best world.
-
 ## 2025-04-07
 NOBODY CARES HOW HARD YOU WORK UNTILL YOU SUCCEED.
 

@@ -42,7 +42,9 @@ nav:
           - Network: interest/digital technology/net.md
           - Image: interest/digital technology/image.md
           - PT: interest/digital technology/pt.md
-      - Insights on life: interest/LifeRoad/liferoad.md
+      - Insights on life:
+          - Insights on life: interest/LifeRoad/liferoad.md
+          - Steve Jobs Commencement Address: interest/LifeRoad/stevejobs.md
       - Vehicle: interest/Vehicle/Vehicle_infor.md
       - game: interest/game/pokemon.md
       - markdown grammar: interest/markdown/markdown.md
