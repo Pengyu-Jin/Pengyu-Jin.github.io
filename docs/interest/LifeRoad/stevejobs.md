@@ -58,12 +58,28 @@ No one wants to die. Even people who want to go to heaven don't want to die to g
 
 When I was young, there was an amazing publication called *The Whole Earth Catalog*, which was one of the bibles of my generation. It was created by a fellow named Stewart Brand not far from here in Menlo Park, and he brought it to life with his poetic touch. This was in the late 1960s, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and Polaroid cameras. It was sort of like Google in paperback form, 35 years before Google came along: It was idealistic, and overflowing with neat tools and great notions.
 
-<span style = "color: #8a31b9">Stewart and his team put out several issues of The Whole Earth Catalog, and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words:" Stay Hungry. Stay Foolish." It was their farewell message as they signed off. Stay Hungry. Stay Foolish. And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.</span>
+<span style = "color: #8a31b9">Stewart and his team put out several issues of *The Whole Earth Catalog*, and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words:" Stay Hungry. Stay Foolish." It was their farewell message as they signed off. Stay Hungry. Stay Foolish. And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.</span>
 
 __Stay Hungry, Stay Foolish.__
 
 Thank you all very much.
 
+<br></br>
 
 > References:
-> - [StanfordReport - ‘You’ve got to find what you love,’ Jobs says](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says)
+> 
+> [StanfordReport - 'You've got to find what you love,' Jobs says](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says)
+
+
+---
+
+The final issue of *The Whole Earth Catalog* was archived on the Internet website called [Whole Earth Index](https://wholeearth.info/p/whole-earth-epilog-october-1974?format=grid&index=0){:target="_blank"}. Tears of The Times.
+
+<div class="image-container">
+  <img src="https://ia800406.us.archive.org/BookReader/BookReaderImages.php?id=wholeearthepilog00unse&itemPath=%2F29%2Fitems%2Fwholeearthepilog00unse&server=ia800406.us.archive.org&page=n0_medium.jpg" alt="cover" style="display: inline-block; width: 48%; height: 440px">
+  <img src="https://ia600406.us.archive.org/BookReader/BookReaderImages.php?id=wholeearthepilog00unse&itemPath=%2F29%2Fitems%2Fwholeearthepilog00unse&server=ia600406.us.archive.org&page=n321_w500.jpg" alt=back" style="display: inline-block; width: 48%; height: 440px">
+</div>
+
+---
+
+New insights with every read.
