@@ -10,14 +10,15 @@ nav:
   - Major:
       - major/index.md
       - Research: major/research/research.md
-      - EE:
-          - Power Electronics: major/EE/PE.md
-          - Power System: major/EE/Power System.md
-          - Electric Motor: major/EE/electric-motor.md
+      - Reinforcement Learning: major/RL/intronotes.md
       - Flybook:
           - Fly: major/flybook/fly.md
           - Culture: major/flybook/culture.md
       - AI: major/AI/Agent.md
+      - EE:
+          - Power Electronics: major/EE/PE.md
+          - Power System: major/EE/Power System.md
+          - Electric Motor: major/EE/electric-motor.md
       - EN Learn:
           - major/EN-learn/index.md
           - Larry grammar course: major/EN-learn/Larry.md
