@@ -30,13 +30,23 @@ LaTeX的学习从阅读overleaf的完整教程开始
 !!! tip math code
 
     === "inline math"
+    内置功能：`\( ... \)`, `$ ... $`, `\begin{math} ... \end{math}`
     ```latex
-    $a+b=c$
+    \( a+b=c \)\\
+    $a+b=c$\\
+    \begin{math} a+b=c \end{math}
     ```
     
     === "display math"
+    内置功能： `\[ ... \]`, `$$ ... $$`, `\begin{displaymath} ... \end{displaymath}`
+    amsmath package提供：`\begin{equation*} ... \end{equation*}`, `\begin{equation} ... \end{equation}`
+
     ```latex
+    \[ a+b=c \]
     $$ a+b=c $$
+    \begin{displaymath} a+b=c \end{displaymath}
+    \begin{equation*} a+b=c \end{equation*}
+    \begin{equation*} a+b=c \end{equation*}
     ```
 
 ## Document Class Templates
@@ -48,18 +58,14 @@ LaTeX的学习从阅读overleaf的完整教程开始
 
 ### beamer :simple-slides:
 
-| Template                                       | Link or Reference                                                                                                                                                                                                                                                                                                                        |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| color and theme configuration                  | [beamer matix](https://mpetroff.net/files/beamer-theme-matrix/){:target="_blank"}                                                                                                                                                                                                                                                        |
-| SJTU theme                                     | [SJTUBeamer](https://github.com/sjtug/SJTUBeamer){:target="_blank"}                                                                                                                                                                                                                                                                      |
+| Template | Link or Reference |
+| ---- | --- |
+| color and theme configuration | [beamer matix](https://mpetroff.net/files/beamer-theme-matrix/){:target="_blank"}|
+| SJTU theme | [SJTUBeamer](https://github.com/sjtug/SJTUBeamer){:target="_blank"}|
 | UBC(University of British Columbia) blue theme | <ul><li>[Reference1: How to Quickly Change Beamer Colors -- Adam Noel](https://ramblingacademic.com/2015/12/08/how-to-quickly-overhaul-beamer-colors/#more-2470){:target="_blank"}</li><li>[Reference2: 简洁大方的 Latex Beamer 模板分享 -- Andrew的仓库](https://mp.weixin.qq.com/s/mOrMdd_mV6sKzgiVpLJoHg){:target="_blank"}</li></ul> |
-| Northwestern University theme                  | [wildcat: A modern, highly customizable beamer theme. -- Aaron Wolf](https://github.com/aarondwolf/wildcat){:target="_blank"}                                                                                                                                                                                                            |
+| Northwestern University theme| [wildcat: A modern, highly customizable beamer theme. -- Aaron Wolf](https://github.com/aarondwolf/wildcat){:target="_blank"}|
 
 ### book:book:
-| Template   | Link or Reference                                                                                                                                                                                                                                                                                                          |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Template | Link or Reference  |
+| --- | --- |
 | Beautybook | <ul><li>[Reference1: A very Beautiful LaTeX Book Template, Happy LaTeXing!](https://github.com/BeautyLaTeX/Beautybook){:target="_blank"}</li><li>[Reference2: live-in-xjtu-medical-school西安交通大学医学部生活指南](https://github.com/echore/live-in-xjtu-medical-school?tab=readme-ov-file){:target="_blank"}</li></ul> |
-
-
-
-
