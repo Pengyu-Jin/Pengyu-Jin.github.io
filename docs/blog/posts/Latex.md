@@ -23,31 +23,30 @@ LateX 本地配置参考文章：
 ## Roadmap🗺️
 LaTeX的学习从阅读overleaf的完整教程开始
 
- YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"} 
+YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"} 
+ 
+
  
 ## LaTeX syntax tips 
 
-!!! tip math code
+!!! tip "math code"
 
     === "inline math"
-    内置功能：`\( ... \)`, `$ ... $`, `\begin{math} ... \end{math}`
-    ```latex
-    \( a+b=c \)\\
-    $a+b=c$\\
-    \begin{math} a+b=c \end{math}
-    ```
+        内置功能：`\( ... \)`, `$ ... $`, `\begin{math} ... \end{math}`
     
     === "display math"
-    内置功能： `\[ ... \]`, `$$ ... $$`, `\begin{displaymath} ... \end{displaymath}`
-    amsmath package提供：`\begin{equation*} ... \end{equation*}`, `\begin{equation} ... \end{equation}`
+        内置功能： `\[ ... \]`, `$$ ... $$`, `\begin{displaymath} ... \end{displaymath}`
 
-    ```latex
-    \[ a+b=c \]
-    $$ a+b=c $$
-    \begin{displaymath} a+b=c \end{displaymath}
-    \begin{equation*} a+b=c \end{equation*}
-    \begin{equation*} a+b=c \end{equation*}
-    ```
+        amsmath package提供：
+
+        - `\begin{equation*} ... \end{equation*}`, `\begin{equation} ... \end{equation}`(编号)
+        - `\begin{align*} ... \end{align*}`, `\begin{align} ... \end{align}`(编号)
+
+        ✨ equation仅支持单行公式；align支持多行公式，可以通过`&`指定对齐位置。
+
+        ✨ pairs of dollar sign is no longer recommended: [Why use `\[...\]` in place of `$$...$$`?](https://texfaq.org/FAQ-dolldoll){:target="_blank"}
+
+
 
 ## Document Class Templates
 
