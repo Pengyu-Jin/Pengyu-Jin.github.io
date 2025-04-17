@@ -2,7 +2,7 @@
 title: LaTeX learning
 date: 
   created: 2024-12-26
-  updated: 2025-04-15
+  updated: 2025-04-17
 authors: [Pengyu-Jin]
 slug: LaTeX
 categories:
