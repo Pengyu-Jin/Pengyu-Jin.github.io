@@ -42,9 +42,26 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
         - `\begin{equation*} ... \end{equation*}`, `\begin{equation} ... \end{equation}`(编号)
         - `\begin{align*} ... \end{align*}`, `\begin{align} ... \end{align}`(编号)
 
-        ✨ equation仅支持单行公式；align支持多行公式，可以通过`&`指定对齐位置。
+        ✨ equation仅支持单行公式；align支持多行公式，可以通过`&`指定对齐位置，但是每行都有编号。
 
         ✨ pairs of dollar sign is no longer recommended: [Why use `\[...\]` in place of `$$...$$`?](https://texfaq.org/FAQ-dolldoll){:target="_blank"}
+
+        <br></br>
+
+        实现多行公式，但只有一个编号：
+        
+        ```latex
+        \begin{equation}
+          \begin{aligned}
+            a &= b + c \\
+            &= d + e + f \\
+          \end{aligned}
+        \end{equation}
+        ```
+
+
+
+
 
 
 
@@ -68,3 +85,30 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 | Template | Link or Reference  |
 | --- | --- |
 | Beautybook | <ul><li>[Reference1: A very Beautiful LaTeX Book Template, Happy LaTeXing!](https://github.com/BeautyLaTeX/Beautybook){:target="_blank"}</li><li>[Reference2: live-in-xjtu-medical-school西安交通大学医学部生活指南](https://github.com/echore/live-in-xjtu-medical-school?tab=readme-ov-file){:target="_blank"}</li></ul> |
+
+
+
+
+## Mathmatical symbols fonts
+
+`\mathcal`: calligraphic. 通常用来表示集合、函数空间等. $\LaTeX{}$默认支持，无需external package.
+
+
+
+$$
+\mathcal{A}, \mathcal{B}, \mathcal{C}, \mathcal{D}, \mathcal{E}, \mathcal{F}, \mathcal{G}, \mathcal{H}, \mathcal{I}, \mathcal{J}, \mathcal{K}, \mathcal{L}, \mathcal{M}, \mathcal{N}, \mathcal{O}, \mathcal{P}, \mathcal{Q}, \mathcal{R}, \mathcal{S}, \mathcal{T}, \mathcal{U}, \mathcal{V}, \mathcal{W}, \mathcal{X}, \mathcal{Y}, \mathcal{Z}
+$$
+
+```latex
+\mathcal{A}, \mathcal{B}, \mathcal{C}...
+```
+
+`\mathbb`: blackboard bold. 通常用于表示常见的数学集合，例如实数集$\mathbb{R}$、整数集$\mathbb{Z}$、自然数集$\mathbb{N}$等. 在preamble中需要加载 amsfonts 或 amssymb 包来支持.
+
+$$
+\mathbb{A}, \mathbb{B}, \mathbb{C}, \mathbb{D}, \mathbb{E}, \mathbb{F}, \mathbb{G}, \mathbb{H}, \mathbb{I}, \mathbb{J}, \mathbb{K}, \mathbb{L}, \mathbb{M}, \mathbb{N}, \mathbb{O}, \mathbb{P}, \mathbb{Q}, \mathbb{R}, \mathbb{S}, \mathbb{T}, \mathbb{U}, \mathbb{V}, \mathbb{W}, \mathbb{X}, \mathbb{Y}, \mathbb{Z}
+$$
+
+```latex
+\mathbb{A}, \mathbb{B}, \mathbb{C}...
+```
