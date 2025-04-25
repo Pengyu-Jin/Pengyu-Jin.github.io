@@ -15,6 +15,11 @@ nav:
           - Fly: major/flybook/fly.md
           - Culture: major/flybook/culture.md
       - AI: major/AI/Agent.md
+      - programming:
+          - Python: major/programming/Python.md
+          - C: major/programming/C.md
+          - LeetCode: major/programming/leetcode.md
+          - CheatSheet: major/programming/cheatsheet.md
       - EE:
           - Power Electronics: major/EE/PE.md
           - Power System: major/EE/Power System.md
@@ -31,11 +36,6 @@ nav:
 
   - Interest:
       - interest/index.md
-      - programming:
-          - Python: interest/programming/Python.md
-          - C: interest/programming/C.md
-          - LeetCode: interest/programming/leetcode.md
-          - CheatSheet: interest/programming/cheatsheet.md
       - finance: interest/finance/learn1.md
       - career: interest/career/career.md
       - digital technology:

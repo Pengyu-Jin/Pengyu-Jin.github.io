@@ -19,6 +19,10 @@ LateX 本地配置参考文章：
 - [VScode写LaTeX配置](https://blog.csdn.net/BO_S__/article/details/136129261){:target="_blank"}
 - [如何优雅地使用 Sublime 编辑 LaTeX](https://zhuanlan.zhihu.com/p/635088283){:target="_blank"}
 
+> Windows: sublime + sumatraPDF双向定位：
+>
+> 正向：ctrl + l, j
+> 反向：double click
 
 ## Roadmap🗺️
 LaTeX的学习从阅读overleaf的完整教程开始
@@ -59,6 +63,42 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
         \end{equation}
         ```
 
+### fonts
+
+- 自动应用的字体
+  - 主字体(mainfont) - 正文默认
+  - 无衬线字体(sansfont) - 标题/强调
+  - 等宽字体(monofont) - 代码/技术内容
+- 可调用的字体族(familyfont)
+  - zhsong
+  - zhhei
+  - zhkai
+  - zhfs
+
+```latex
+% 设置字体路径
+\defaultfontfeatures{Path=fonts/}
+
+% 设置中文字体
+\setCJKmainfont[
+  AutoFakeBold = 3,
+  ItalicFont   = simkai.ttf
+]{simsun.ttc}
+\setCJKsansfont[AutoFakeBold=3]{simhei.ttf}
+\setCJKmonofont{simfang.ttf}
+\setCJKfamilyfont{zhsong}{simsun.ttc}[
+  AutoFakeBold = 3,
+  ItalicFont   = simkai.ttf
+]
+\setCJKfamilyfont{zhhei}{simhei.ttf}[AutoFakeBold=3]
+\setCJKfamilyfont{zhkai}{simkai.ttf}
+\setCJKfamilyfont{zhfs}{simfang.ttf}
+
+\newcommand*{\songti}{\CJKfamily{zhsong}}
+\newcommand*{\heiti}{\CJKfamily{zhhei}}
+\newcommand*{\kaishu}{\CJKfamily{zhkai}}
+\newcommand*{\fangsong}{\CJKfamily{zhfs}}
+```
 
 
 
@@ -112,3 +152,16 @@ $$
 ```latex
 \mathbb{A}, \mathbb{B}, \mathbb{C}...
 ```
+
+
+
+## Package management
+
+### external package
+遵循alpha-beta原则，先加载必要的包，再加载其他包。
+
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+

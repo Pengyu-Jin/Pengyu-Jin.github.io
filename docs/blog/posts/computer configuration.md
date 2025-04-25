@@ -1,6 +1,8 @@
 ---
 title: computer configuration
-date: 2024-12-17
+date: 
+  created: 2024-12-17
+  updated: 2025-04-21
 authors: [Pengyu-Jin]
 slug: computer configuration
 categories:
@@ -32,7 +34,10 @@ categories:
 
 **mathematica**: 数学软件，可以用来做一些数学计算。[Mathematica 激活指南](https://tiebamma.github.io/InstallTutorial/){:target="_blank"}
 
-[^1]:百度网盘/我的资源/Axmath
+
+
+
+[^1]:github/MyResources/Axmath.zip。版本V2.5
 
 [^2]:RuTracker.org
 
@@ -45,6 +50,8 @@ categories:
 Some private tracker websites don't allowed the enhanced version, you can use the normal version instead: [qibittorrent official website](https://www.qbittorrent.org/){:target="_blank"}
 
 **clash**: proxy software[Clash Verge](https://www.clashverge.dev/)
+
+
 
 ## 配置问题
 
