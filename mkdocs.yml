@@ -67,8 +67,8 @@ nav:
 ## [top]
 
 theme:
-  # font:
-  #   text: Poppins
+  font:
+    text: Poppins
 
   # font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
   # font-weight: 450;
