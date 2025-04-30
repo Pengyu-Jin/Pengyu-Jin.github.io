@@ -67,8 +67,8 @@ nav:
 ## [top]
 
 theme:
-  font:
-    text: Poppins
+  # font:
+  #   text: Poppins
 
   # font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
   # font-weight: 450;
@@ -186,7 +186,6 @@ markdown_extensions:
 extra_css:
 #   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
   - mkdocs/css/extra.css
-  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css    # 从https://github.com/LLMQuant/quant-wiki/tree/master拿来的
   - stylesheets/extra.css
 
 extra_javascript:

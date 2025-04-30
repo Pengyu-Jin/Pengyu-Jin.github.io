@@ -1,7 +1,6 @@
->文章部分参考自
 
 
-## 分辨率(resolution)
+## 分辨率(Resolution)
 !!! note "分辨率"
 
     图片分辨率和视频分辨率在概念上相似，但应用领域和具体含义有一些不同。图片分辨率有两个含义，视频分辨率只有一个含义。
@@ -13,9 +12,26 @@
 
     === "图片分辨率"
 
-        1.通常指图像的像素大小(Pixel Demension,ps软件中翻译为尺寸)，即宽度和高度的像素数乘积。例如，1920x1080px的图片表示图像宽度为1920px，高度为1080px。
+        1.通常指图像的像素大小，即宽度和高度的像素数乘积。例如，1920x1080px的图片表示图像宽度为1920px，高度为1080px。
 
         2.还可以指图像的像素密度(Pixel Density)，通常以像素每英寸(Pixel Per Inch, PPI)表示，用来衡量图像的细节和清晰度，特别是在打印时。
+
+
+        | Term       | Description                          | Context                | Physical Size          |
+        |------------|--------------------------------------|------------------------|------------------------|
+        | **Pixel**  | Smallest unit in digital images      | Screens, bitmap graphics | Depends on display PPI |
+        | **Point**  | Absolute unit (1pt = 1/72 inch)      | Print, LaTeX, vectors  | Fixed: ~0.353mm        |
+        | **Dot**    | Physical ink dot in printing         | Printers, PDF output   | Depends on device DPI  |
+
+        When displayed on a screen, dots corresponds to pixels. So we can immediately deduce the figure size will be exactely 600×600 pixels. Same is true if you save the figure in a bitmap format like `jpg` or `png`.
+
+        This confirms that the image geometry is 600×600 while the resolution is 39.37 ppc which corresponds to 39.37*2.54 ≈ 100 dpi.
+
+        If you were to include this image inside a document while keep the same dpi, you would need to set the size of the image to 15.24cm by xxcm. If you reduce the size of the image in your document, let's say by a factor of 3, this will mechanically increase the figure dpi to 300 in this specific case.
+        
+        For a scientific article, publisher will generally request figures dpi to be between 300 and 600. To get things right, it is thus good to konw what will be the physical dimension of your figure once inserted into your document.
+
+        In $\LaTeX$, a point(pt) corresponds to 1/72.27 inches while in matplotlib it corresponds to 1/72 inches.
 
     === "视频分辨率"
     
@@ -35,6 +51,8 @@
                 - 8K: 7680x4320，是目前最高的消费级视频分辨率，主要用于高端电视和专业显示器。
             - 其他常见分辨率
                 - 1440p: 2560x1440，宽高比为16:9，介于1080p和4K之间，常用于高端电脑显示器。
+
+
 
 
 ## 计算机存储单位
@@ -64,3 +82,8 @@
 ## 刷新率
 
 ## 色深
+
+
+> References: 
+>
+> [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
