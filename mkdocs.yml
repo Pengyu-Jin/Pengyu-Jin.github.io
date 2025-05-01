@@ -182,6 +182,8 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+  - pymdownx.blocks.caption  # 给图片添加caption
+
 
 extra_css:
 #   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
