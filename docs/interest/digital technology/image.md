@@ -90,9 +90,9 @@ In $\LaTeX$, a point(pt) corresponds to 1/72.27 inches while in matplotlib it co
 
 **MB** 和 **Mb**，即兆字节(megabyte[^3])和兆比特(megabit)。
 
-[^3]: 1MB=1024KB=1024*1024B, 但有时我们认为倍数是1000，故Megabyte is a million bytes (MB), and gigabyte is a billion bytes (GB).
+[^3]: 1MB=1024KB=1024*1024B, 但有时我们认为倍数是1000，故.A megabyte (MB) is a million bytes, and a gigabyte (GB) is a billion bytes.
 
-在办理宽带时，电信商经常会说，我们提供的是“千兆宽带”。这里的单位，实际上是Mbps，意思是说它们的宽带能提供最高 1000Mbps 的传输速度。请注意，这里的b是小写的。Mbps，就是Mb per second，代表传输速度。
+在办理宽带时所听到的“千兆宽带”。这里的单位，实际上是Mbps，意思是说它们的宽带能提供最高 1000Mbps 的传输速度。请注意，这里的b是小写的。Mbps，就是Mb per second，代表传输速度。
 
 而我们常说的，下载一个文件有多少多少M，这里的单位是MB。请注意，这里的B是大写的。
 
@@ -101,9 +101,9 @@ In $\LaTeX$, a point(pt) corresponds to 1/72.27 inches while in matplotlib it co
 
 ## 码率，也称为比特率(bit rate)
 
-码率的单位是 Mbps。所以，**一个视频的平均码率计算方式为：**
+码率的单位是 Mbps。所以，一个视频的平均码率计算方式为：
 
-**码率**（单位为 Mbps）**=文件大小**（单位为 MB）**✖️8➗ 视频时长**（单位为秒）
+码率（单位为 Mbps）= 文件大小（单位为 MB）✖️8➗ 视频时长（单位为秒）
 
 
 ## 编码方式
