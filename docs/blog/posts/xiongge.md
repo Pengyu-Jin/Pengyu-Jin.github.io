@@ -14,22 +14,18 @@ categories:
 
 昨天傍晚，在从实验室去二餐的路上，我久违地打开了QQ空间，映入眼帘的是那个熟悉的头像，蓝色的水木熊，接下来便是一番致辞。是的，熊哥离职了。
 
-<!-- <figure markdown="span">
-  ![xiongge](./figs/x1.png){width="300"}
-  <figcaption style="font-size: 0.9em; color: #666;">Figure: screenshot1 </figcaption>
-</figure> -->
+<div class="grid" markdown>
+<figure markdown>
+  ![Image alt](./figs/x1.png){width=300}
+  <figcaption style="font-size: 0.9em; color: #666;">Figure: screenshot1</figcaption>
+</figure>
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <figure markdown="span"; style="margin: 0;">
-    <img src="./figs/x1.png" alt="xiongge2" width="300">
-    <figcaption style="font-size: 0.9em; color: #666;">Figure: screenshot1</figcaption>
-  </figure>
-
-  <figure style="margin: 0;">
-    <img src="./figs/x2.png" alt="xiongge2" width="300">
-    <figcaption style="font-size: 0.9em; color: #666;">Figure: screenshot2</figcaption>
-  </figure>
+<figure markdown>
+  ![Image alt](./figs/x2.png){width=300}
+  <figcaption style="font-size: 0.9em; color: #666;">Figure: screenshot2</figcaption>
+</figure>
 </div>
+
 
 这一消息对我来说又是惊讶，又是好奇，但其实更多的是感慨。我和熊哥的接触不多，上次互动还是微信朋友圈的某一次点赞，当然并不是互赞，因为熊哥根本不认识我，也可能很难记住我，我不出众，也不外向。
 
@@ -43,7 +39,7 @@ categories:
 
 后来我也做了考研答疑，电路一对一辅导，老师的电路理论助教也当了两次，每次忘记相关知识点时都会拿出来当时跟着熊哥做的每日一题笔记。依稀记得有次在zlibrary上搜书的时候也发现了熊哥的电路笔记，不由得会心一笑，像他那么标志性的笔记，看上一眼就不会忘记。
 
-熟悉熊哥的人都知道，他在电路理论方面有着独到的见解，也曾多次再讲题中用他熟悉的口音吹逼或者说下经典名句。最开始的时候熊哥是浣熊君头像，后面才变成了水木熊。我很喜欢他讲话，还把一些经典语录记在了笔记上。
+熟悉熊哥的人都知道，最开始的时候他是浣熊君头像，后面才变成了蓝色的水木熊。熊哥在电路理论方面有着独到的见解，也曾多次再讲题中用他熟悉的口音吹逼或者说下经典名句。我很喜欢他讲话，还把一些经典语录记在了笔记上。
 
 考完研后，没人再去关注这个圈子的一举一动，所有人又走在了新的路途上，准备面临着下一个抉择，我也一样。如今三年过去了，我幻想着熊哥会全职在水木干很多年。但难以预料的是他决定要离职了。
 
