@@ -2,7 +2,7 @@
 title: LaTeX learning
 date: 
   created: 2024-12-26
-  updated: 2025-04-17
+  updated: 2025-05-13
 authors: [Pengyu-Jin]
 slug: LaTeX
 categories:
@@ -19,13 +19,19 @@ LateX 本地配置参考文章：
 - [VScode写LaTeX配置](https://blog.csdn.net/BO_S__/article/details/136129261){:target="_blank"}
 - [如何优雅地使用 Sublime 编辑 LaTeX](https://zhuanlan.zhihu.com/p/635088283){:target="_blank"}
 
-> Windows: sublime + sumatraPDF双向定位：
->
-> 正向：ctrl + l, j
-> 反向：double click
 
-## Roadmap🗺️
-LaTeX的学习从阅读overleaf的完整教程开始
+Windows: sublime + sumatraPDF快捷键：
+
+| Shortkey | Function |
+| --- | --- |
+| ++ctrl+l++, then ++j++ | forward search |
+| double click | backward search |
+| ++ctrl+l++, then ++backspace++ | clear tmp files |
+| ++ctrl+k++, then ++ctrl+b++ | open/close sidebar |
+
+
+## Roadmap
+\(\LaTeX{}\)的学习从阅读overleaf的完整教程开始
 
 YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"} 
  
@@ -50,8 +56,6 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 
         ✨ pairs of dollar sign is no longer recommended: [Why use `\[...\]` in place of `$$...$$`?](https://texfaq.org/FAQ-dolldoll){:target="_blank"}
 
-        <br></br>
-
         实现多行公式，但只有一个编号：
         
         ```latex
@@ -66,39 +70,41 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 ### fonts
 
 - 自动应用的字体
-  - 主字体(mainfont) - 正文默认
-  - 无衬线字体(sansfont) - 标题/强调
-  - 等宽字体(monofont) - 代码/技术内容
+    - 主字体(mainfont) - 正文默认
+    - 无衬线字体(sansfont) - 标题/强调
+    - 等宽字体(monofont) - 代码
 - 可调用的字体族(familyfont)
-  - zhsong
-  - zhhei
-  - zhkai
-  - zhfs
+    - zhsong
+    - zhhei
+    - zhkai
+    - zhfs
 
-```latex
-% 设置字体路径
-\defaultfontfeatures{Path=fonts/}
+=== "font settings"
 
-% 设置中文字体
-\setCJKmainfont[
-  AutoFakeBold = 3,
-  ItalicFont   = simkai.ttf
-]{simsun.ttc}
-\setCJKsansfont[AutoFakeBold=3]{simhei.ttf}
-\setCJKmonofont{simfang.ttf}
-\setCJKfamilyfont{zhsong}{simsun.ttc}[
-  AutoFakeBold = 3,
-  ItalicFont   = simkai.ttf
-]
-\setCJKfamilyfont{zhhei}{simhei.ttf}[AutoFakeBold=3]
-\setCJKfamilyfont{zhkai}{simkai.ttf}
-\setCJKfamilyfont{zhfs}{simfang.ttf}
+    ```latex
+    % 设置字体路径
+    \defaultfontfeatures{Path=fonts/}
 
-\newcommand*{\songti}{\CJKfamily{zhsong}}
-\newcommand*{\heiti}{\CJKfamily{zhhei}}
-\newcommand*{\kaishu}{\CJKfamily{zhkai}}
-\newcommand*{\fangsong}{\CJKfamily{zhfs}}
-```
+    % 设置中文字体
+    \setCJKmainfont[
+      AutoFakeBold = 3,
+      ItalicFont   = simkai.ttf
+    ]{simsun.ttc}
+    \setCJKsansfont[AutoFakeBold=3]{simhei.ttf}
+    \setCJKmonofont{simfang.ttf}
+    \setCJKfamilyfont{zhsong}{simsun.ttc}[
+      AutoFakeBold = 3,
+      ItalicFont   = simkai.ttf
+    ]
+    \setCJKfamilyfont{zhhei}{simhei.ttf}[AutoFakeBold=3]
+    \setCJKfamilyfont{zhkai}{simkai.ttf}
+    \setCJKfamilyfont{zhfs}{simfang.ttf}
+
+    \newcommand*{\songti}{\CJKfamily{zhsong}}
+    \newcommand*{\heiti}{\CJKfamily{zhhei}}
+    \newcommand*{\kaishu}{\CJKfamily{zhkai}}
+    \newcommand*{\fangsong}{\CJKfamily{zhfs}}
+    ```
 
 
 
@@ -107,12 +113,12 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 
 ## Document Class Templates
 
-### note :notepad_spiral:
+### note📒
 参考UC Berkeley的CS61A课程的discussion模板
 
 [Teemu's TU Delft LaTeX Template](https://github.com/temeweckis/tu-delft-latex-template){:target="_blank"}
 
-### beamer :simple-slides:
+### beamer🅱️
 
 | Template | Link or Reference |
 | ---- | --- |
@@ -121,7 +127,7 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 | UBC(University of British Columbia) blue theme | <ul><li>[Reference1: How to Quickly Change Beamer Colors -- Adam Noel](https://ramblingacademic.com/2015/12/08/how-to-quickly-overhaul-beamer-colors/#more-2470){:target="_blank"}</li><li>[Reference2: 简洁大方的 Latex Beamer 模板分享 -- Andrew的仓库](https://mp.weixin.qq.com/s/mOrMdd_mV6sKzgiVpLJoHg){:target="_blank"}</li></ul> |
 | Northwestern University theme| [wildcat: A modern, highly customizable beamer theme. -- Aaron Wolf](https://github.com/aarondwolf/wildcat){:target="_blank"}|
 
-### book:book:
+### book📘
 | Template | Link or Reference  |
 | --- | --- |
 | Beautybook | <ul><li>[Reference1: A very Beautiful LaTeX Book Template, Happy LaTeXing!](https://github.com/BeautyLaTeX/Beautybook){:target="_blank"}</li><li>[Reference2: live-in-xjtu-medical-school西安交通大学医学部生活指南](https://github.com/echore/live-in-xjtu-medical-school?tab=readme-ov-file){:target="_blank"}</li></ul> |
@@ -157,11 +163,16 @@ $$
 
 ## Package management
 
-### external package
-遵循alpha-beta原则，先加载必要的包，再加载其他包。
+=== "preamble"
 
-\usepackage{amsmath}
-\usepackage{geometry}
-\usepackage{graphicx}
-\usepackage{hyperref}
+    ```latex
+    \usepackage{amsmath}
+    \usepackage{amssymb}
+    \usepackage{graphicx}
+    \graphicspath{{figures/}}
+    \usepackage{float}
+    \usepackage{geometry}
+    \geometry{margin=1in}
+    \usepackage{hyperref}
+    ```
 
