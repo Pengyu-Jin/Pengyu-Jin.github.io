@@ -2,7 +2,7 @@
 title: efficient skills
 date:
   created: 2025-01-01
-  updated: 2025-04-05
+  updated: 2025-05-15
 authors: [Pengyu-Jin]
 slug: efficient skills
 categories:
@@ -40,6 +40,7 @@ categories:
 | ++ctrl+slash++| 选中批量注释or取消注释  |
 | ++shift+tab++ | 批量取消tab缩进  |
 | ++ctrl+shift+n++ | 创建新窗口  |
+| ++alt+b++   | open/close the sidebar|
 
 ==for word==
 

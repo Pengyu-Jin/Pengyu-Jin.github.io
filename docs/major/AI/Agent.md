@@ -22,3 +22,6 @@ Fei-Fei Li(@Stanford University): [CS231n: CNN for Visual Recognition](https://c
 
 ## Reinforcement Learning
 
+### Valuable Paper You Must Read
+
+Playing atari with deep reinforcement learning
