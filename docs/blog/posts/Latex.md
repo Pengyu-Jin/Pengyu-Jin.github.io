@@ -2,7 +2,7 @@
 title: LaTeX learning
 date: 
   created: 2024-12-26
-  updated: 2025-05-13
+  updated: 2025-05-22
 authors: [Pengyu-Jin]
 slug: LaTeX
 categories:
@@ -176,3 +176,22 @@ $$
     \usepackage{hyperref}
     ```
 
+
+
+## Edit Tips
+
+LaTeX中常见的空格命令
+
+| 命令 | 名称 | 宽度（近似） | 典型用途 |
+|---|---|---|---|
+| `\,` | 小空格 thin space   | 1/6 em[^1]| 单位符号，公式中的轻微间距 |
+| `␣`  | 普通空格            | 1 em  | 文本中的常规空格（可能被忽略）|
+| `\␣` | 强制空格            | 1 em  | 确保不被忽略的空格 |
+| `\:` | 中空格 medium space | 2/9 em| 数学模式中的中等间隔 |
+| `\;` | 大空格 thick space  | 5/18 em| 数学模式中的较大间隔 |
+| `~`  | 不可换行空格         | 1 em  |  保证词组不分开（如"Fig.~1"）|
+| `\quad`| 1 em 空格          | 1 em  | 较大的固定间隔（如分割文本）|
+| `\qquad`      | 2 em 空格          | 2 em          | 更大的固定间隔               |
+| `\hspace{长度}`| 自定义空格         | 任意指定      | 精确控制间距（如`\hspace{5pt}`）|
+
+[^1]: An em (from em quadrat) is a unit in the field of typography, equal to the currently specified point size. It corresponds to the body height of the typeface. For example, one em in a 16-point typeface is 16 points. Therefore, this unit is the same for all typefaces at a given point size.

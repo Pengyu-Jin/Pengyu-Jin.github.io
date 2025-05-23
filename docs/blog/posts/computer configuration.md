@@ -49,11 +49,17 @@ categories:
 
 Some private tracker websites don't allowed the enhanced version, you can use the normal version instead: [qibittorrent official website](https://www.qbittorrent.org/){:target="_blank"}
 
-**clash**: proxy software[Clash Verge](https://www.clashverge.dev/)
+**clash**: proxy software [Clash Verge](https://www.clashverge.dev/)
+
+!!! tip
+
+    Windows UWP application (such as the Microsoft Store) can't use a proxy. Refer to the FAQ in the link above.
 
 
 
 ## 配置问题
 
 装的acrobat在显示缩略图上出现问题，即桌面上的pdf文件有的显示缩略图，有的没有显示。解决办法是安装SumatraPDF，安装的时候在选项里面勾选在windows资源管理器显示pdf预览，然后acrobat就可以显示预览了。
+
+<!-- Todo  -->
 

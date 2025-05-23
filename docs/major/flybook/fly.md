@@ -19,6 +19,9 @@ paper writing
 
 - NSF(National Science Foundation): 美国国家科学基金会，是美国联邦政府的一个独立机构，成立于1950年，旨在支持科学和工程领域的基础研究、教育和创新。NSF的资助范围广泛，涵盖自然科学、社会科学、工程学、计算机科学、数学等多个领域。
 
+
 sop: statement of purpose
 
 rsvp: French `répondez s'il vous plaît`, means please reply
+
+PI: Principal Investigator 课题负责人,导师
