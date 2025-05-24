@@ -55,6 +55,15 @@ Some private tracker websites don't allowed the enhanced version, you can use th
 
     Windows UWP application (such as the Microsoft Store) can't use a proxy. Refer to the FAQ in the link above.
 
+**Sublime Text**: lightweight text editor。 [Sublime Text主页](https://www.sublimetext.com/){:target="_blank"}
+
+!!! tip
+
+    some good **resources**
+
+    [ST-collections](https://github.com/Hazuki-san/ST-collections?tab=readme-ov-file){:target="_blank"}
+
+    [An amazing Gist post about sublime text](https://gist.github.com/JerryLokjianming/71dac05f27f8c96ad1c8941b88030451){:target="_blank"}
 
 
 ## 配置问题
