@@ -16,7 +16,7 @@ categories:
 LateX 本地配置参考文章：
 
 - [LaTeX环境配置 - TexLive](https://blog.csdn.net/BO_S__/article/details/136129229){:target="_blank"}
-- [VScode写LaTeX配置](https://blog.csdn.net/BO_S__/article/details/136129261){:target="_blank"}
+- [VScode写LaTeX配置](https://zhuanlan.zhihu.com/p/166523064){:target="_blank"}
 - [如何优雅地使用 Sublime 编辑 LaTeX](https://zhuanlan.zhihu.com/p/635088283){:target="_blank"}
 
 

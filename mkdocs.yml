@@ -20,6 +20,8 @@ nav:
           - C: major/programming/C.md
           - LeetCode: major/programming/leetcode.md
           - CheatSheet: major/programming/cheatsheet.md
+      - Paper Notes:
+          - Playing Atari with DQN: major/Paper/2013_Mnih.md
       - EE:
           - Power Electronics: major/EE/PE.md
           - Power System: major/EE/Power System.md

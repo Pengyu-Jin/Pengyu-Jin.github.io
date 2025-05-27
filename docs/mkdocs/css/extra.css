@@ -2,16 +2,6 @@
 /* 引入 Poppins 字体 */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
-/* 引入思源黑体
-@import url('https://cdn.jsdelivr.net/npm/cn-fontsource-source-han-sans-sc-vf@1.0.10/font.min.css'); */
-
-@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.min.css');
-
-/* 设置正文字体：英文使用 Poppins，中文使用思源黑体
-body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
-    font-family: "Poppins", "Source Han Sans SC", sans-serif !important;
-} */
-
 
 /* 设置正文字体：英文使用 Poppins，中文使用LXGW WenKai */
 body, .md-content, .md-typeset, .md-typeset p, .md-typeset li, .md-typeset div {
