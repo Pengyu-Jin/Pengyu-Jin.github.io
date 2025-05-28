@@ -5,9 +5,7 @@
 
 ## 每日整理:memo:
 
-没人会在意你，直到你成功。
-
-学习CPES老哥的CV，c语言，origin绘图
+PSET 2025-6-15deadline
 
 国际会议\期刊论文\雅思托福\github个人简历和学术网站
 
@@ -20,12 +18,6 @@
 申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
-
-电力电子学习：
-
-- [西瓜粥](https://space.bilibili.com/287344644/?spm_id_from=333.999.0.0){:target="_blank"}
-- [Power Electronics](https://www.coursera.org/specializations/power-electronics#instructors){:target="_blank"}
-
 
 2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
 

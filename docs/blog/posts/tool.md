@@ -8,7 +8,6 @@ slug: efficient skills
 categories:
   - Research
 ---
-**Tool**
 
 方便日常科研工作的快捷键小技巧
 

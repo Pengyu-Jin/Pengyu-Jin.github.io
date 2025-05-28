@@ -9,7 +9,7 @@ categories:
   - Research
 ---
 
-**Happy LaTeXing!**
+Happy LaTeXing!
 
 <!-- more -->
 
