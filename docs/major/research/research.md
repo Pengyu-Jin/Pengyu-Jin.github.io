@@ -7,6 +7,20 @@
 
 PSET 2025-6-15deadline
 
+CS229
+
+
+
+
+
+
+
+
+
+
+
+---
+
 国际会议\期刊论文\雅思托福\github个人简历和学术网站
 
 跟[陈家豪](https://faculty.sist.shanghaitech.edu.cn/chenjh/){:target="_blank}老哥学电力电子和控制，还有科研的好习惯。

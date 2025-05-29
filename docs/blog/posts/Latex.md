@@ -20,15 +20,29 @@ LateX 本地配置参考文章：
 - [如何优雅地使用 Sublime 编辑 LaTeX](https://zhuanlan.zhihu.com/p/635088283){:target="_blank"}
 
 
-Windows: sublime + sumatraPDF快捷键：
+Windows: sublime + sumatraPDF：
 
 | Shortkey | Function |
 | --- | --- |
 | ++ctrl+l++, then ++j++ | forward search |
-| double click | backward search |
+| double click | reverse search |
 | ++ctrl+l++, then ++backspace++ | clear tmp files |
 | ++ctrl+k++, then ++ctrl+b++ | open/close sidebar |
 
+Windows: VSCode + sumtraPDF
+
+| Shortkey | Function |
+| --- | --- |
+| ++ctrl+alt+j++ | forward search |
+| double click | reverse search |
+| ++ctrl+alt+c++ | clear tmp files |
+| ++ctrl+alt+v++| open and view the pdf|
+
+!!! bug
+
+    You can not just change the option setting through SumatraPDF application GUI. You must modify the   `SumatraPDF-settings.txt` file in the installation directory following the guide in LaTeX-Workshop wiki. 
+
+    [SumatraPDF inverse search did not work well for VSCode.exe/VSCodium.exe](https://github.com/James-Yu/LaTeX-Workshop/wiki/View#using-synctex-with-an-external-viewer){:target="blank"}
 
 ## Roadmap
 \(\LaTeX{}\)的学习从阅读overleaf的完整教程开始

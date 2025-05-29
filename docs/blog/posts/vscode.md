@@ -47,3 +47,5 @@ di"
 ```
 ci"
 ```
+
+## VSCode settings

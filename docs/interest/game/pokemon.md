@@ -4,9 +4,35 @@
     type "alt+0233"
 
 ## Pokémon generations
-红蓝绿宝石
-ruby sapphire emerld
+Red, Green, Blue, 
 
-## Pokémon 对战学
+Gold and Silver, Crystal
 
-## Pokémon 历史学
+Ruby, Sapphire, Emerld
+
+Diamond and Pearl, Platinum
+
+Black, White
+
+X, Y
+
+Sun, Moon
+
+Sword, Shield
+
+Scarlet, Violet
+
+
+##
+
+## Pokémon Battle
+
+## Pokémon History
+
+## Resources
+
+[r/ROMs Megathread](https://r-roms.github.io/){:target="_blank"}, reliable ROM resources websites.
+
+[EmulatorGames.net](https://www.emulatorgames.net/){:target="_blank"}, The download speed is a little slow.
+
+[Delta DS bios files - Bios7.bin, Bios9.bin, Firmware.](https://deltadsbios.com){:target="_blank"}, when you play a NDS game in the emulator app `Delta`, these auxiliary files are critical.
