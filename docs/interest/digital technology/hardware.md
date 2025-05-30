@@ -1,3 +1,18 @@
+# Hardware
+
+## Laptop
+
+| Vendor        | Country/Region  | Famous Brand(s)                 |
+|----------------------|--------------------------|---------------------------------------------|
+| Lenovo 联想        | China              | ThinkPad , Legion (拯救者), IdeaPad (小新) |
+| HP 惠普            | USA                |  OMEN (暗影精灵), EliteBook |
+| Dell 戴尔          | USA                | Alienware (外星人)|
+| Apple 苹果         | USA                | MacBook Air, MacBook Pro                   |
+| Asus 华硕          | Taiwan| ROG (玩家国度)|
+| Acer 宏碁          | Taiwan| Predator (掠夺者)|
+| Microsoft 微软     | USA                | Surface                              |
+| MSI 微星           | Taiwan| /|
+
 ## 显卡(GPU, Graphics Processing Unit) 硬件
 
 核显（集成显卡）特点：
@@ -19,9 +34,7 @@
 - **功耗较高**：由于具备独立硬件和强大的计算能力，功耗较高，需更强的散热。
 - **支持多个显示器**：可以连接多个显示器，支持更高的分辨率。
 
-
 常见厂商：
 
 - **NVIDIA**：如 **GeForce RTX 30** 系列、**Quadro** 系列、**Tesla** 系列。
 - **AMD**：如 **Radeon RX** 系列、**Radeon Pro** 系列。  
-
