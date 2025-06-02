@@ -2,7 +2,7 @@
 title: LaTeX learning
 date: 
   created: 2024-12-26
-  updated: 2025-05-22
+  updated: 2025-06-02
 authors: [Pengyu-Jin]
 slug: LaTeX
 categories:
@@ -45,12 +45,11 @@ Windows: VSCode + sumtraPDF
     [SumatraPDF inverse search did not work well for VSCode.exe/VSCodium.exe](https://github.com/James-Yu/LaTeX-Workshop/wiki/View#using-synctex-with-an-external-viewer){:target="blank"}
 
 ## Roadmap
+
 \(\LaTeX{}\)的学习从阅读overleaf的完整教程开始
 
-YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"} 
- 
+YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"}
 
- 
 ## LaTeX syntax tips 
 
 !!! tip "math code"
@@ -83,17 +82,35 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 
 ### fonts
 
-- 自动应用的字体
-    - 主字体(mainfont) - 正文默认
-    - 无衬线字体(sansfont) - 标题/强调
-    - 等宽字体(monofont) - 代码
+|typeface = family| manual setup command | application| remark|
+|---|---|---|---|
+|serif (roman)| `\setmainfont` | 正文字体|mostly in the `article`|
+|sans serif | `\setsansfont` | 标题/强调, like `\section`,`\title`|by default `beamer` uses the sans serif font throughout the document.|
+|typewriter (monospace) | `\setmonofont` | 代码|/|
+
+
 - 可调用的字体族(familyfont)
-    - zhsong
-    - zhhei
-    - zhkai
-    - zhfs
+    * zhsong
+    * zhhei
+    * zhkai
+    * zhfs
 
 === "font settings"
+
+    ```latex
+    \defaultfontfeatures{Path=fonts/}
+
+    \setmainfont{Cascadia Code}[
+      UprightFont    = *-Regular,
+      BoldFont       = *-Bold,
+      ItalicFont     = *-Italic,
+      BoldItalicFont = *-BoldItalic,
+    ]
+    \setsansfont{Arial}
+    \setmonofont{Courier New}
+    ```
+
+=== "CN font settings"
 
     ```latex
     % 设置字体路径
@@ -120,14 +137,10 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
     \newcommand*{\fangsong}{\CJKfamily{zhfs}}
     ```
 
-
-
-
-
-
 ## Document Class Templates
 
 ### note📒
+
 参考UC Berkeley的CS61A课程的discussion模板
 
 [Teemu's TU Delft LaTeX Template](https://github.com/temeweckis/tu-delft-latex-template){:target="_blank"}
@@ -142,18 +155,14 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 | Northwestern University theme| [wildcat: A modern, highly customizable beamer theme. -- Aaron Wolf](https://github.com/aarondwolf/wildcat){:target="_blank"}|
 
 ### book📘
+
 | Template | Link or Reference  |
 | --- | --- |
 | Beautybook | <ul><li>[Reference1: A very Beautiful LaTeX Book Template, Happy LaTeXing!](https://github.com/BeautyLaTeX/Beautybook){:target="_blank"}</li><li>[Reference2: live-in-xjtu-medical-school西安交通大学医学部生活指南](https://github.com/echore/live-in-xjtu-medical-school?tab=readme-ov-file){:target="_blank"}</li></ul> |
 
-
-
-
 ## Mathmatical symbols fonts
 
 `\mathcal`: calligraphic. 通常用来表示集合、函数空间等. $\LaTeX{}$默认支持，无需external package.
-
-
 
 $$
 \mathcal{A}, \mathcal{B}, \mathcal{C}, \mathcal{D}, \mathcal{E}, \mathcal{F}, \mathcal{G}, \mathcal{H}, \mathcal{I}, \mathcal{J}, \mathcal{K}, \mathcal{L}, \mathcal{M}, \mathcal{N}, \mathcal{O}, \mathcal{P}, \mathcal{Q}, \mathcal{R}, \mathcal{S}, \mathcal{T}, \mathcal{U}, \mathcal{V}, \mathcal{W}, \mathcal{X}, \mathcal{Y}, \mathcal{Z}

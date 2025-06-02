@@ -18,6 +18,7 @@ nav:
       - programming:
           - Python: major/programming/Python.md
           - C: major/programming/C.md
+          - Foundation: major/programming/foundation.md
           - LeetCode: major/programming/leetcode.md
           - CheatSheet: major/programming/cheatsheet.md
       - Paper Notes:
