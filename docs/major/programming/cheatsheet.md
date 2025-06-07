@@ -24,7 +24,7 @@
 | `mmba activate env_name` | 激活环境 | `mmba activate py38` |
 | `mmba deactivate` | 退出当前环境 | `mmba deactivate` |
 | `mmba env list` | 列出所有环境 | `mmba env list` |
-| `mmba remove -n env_name --all` | 删除整个环境 | `mmba remove -n oldenv --all` |
+| `mmba env remove -n env_name` | 删除环境 | `mmba env remove -n oldenv` |
 | `mmba list --json > env.json` | 导出环境配置，然后手动转换为yml或者脚本处理 | `mmba list --json > environment.json` |
 | `mmba env create -f env.yml` | 从 YAML 文件创建环境 | `mmba env create -f env.yml` |
 
