@@ -40,7 +40,9 @@ Windows: VSCode + sumtraPDF
 
 !!! bug
 
-    You can not just change the option setting through SumatraPDF application GUI. You must modify the   `SumatraPDF-settings.txt` file in the installation directory following the guide in LaTeX-Workshop wiki. 
+    If I open VSCode and SumatraPDF (doesn't from VSCode), the inverse search works perfectly. But if I open SumatraPDF from VSCode (use ++ctrl+alt+v++), the inverse search can't work. So tricky! The Solution is as followed.
+
+    You can not just change the option setting through SumatraPDF application GUI. You must modify the `SumatraPDF-settings.txt` file in the installation directory following the guide in LaTeX-Workshop wiki. 
 
     [SumatraPDF inverse search did not work well for VSCode.exe/VSCodium.exe](https://github.com/James-Yu/LaTeX-Workshop/wiki/View#using-synctex-with-an-external-viewer){:target="blank"}
 
@@ -87,6 +89,14 @@ YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/la
 |serif (roman)| `\setmainfont` | 正文字体|mostly in the `article`|
 |sans serif | `\setsansfont` | 标题/强调, like `\section`,`\title`|by default `beamer` uses the sans serif font throughout the document.|
 |typewriter (monospace) | `\setmonofont` | 代码|/|
+
+!!! notes "favorite font"
+
+    [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins&lang=en_Latn){:target="_blank"}
+
+    [Ubuntu](https://fonts.google.com/specimen/Ubuntu){:target="_blank"}
+
+    [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab){:target="_blank"}
 
 
 - 可调用的字体族(familyfont)
@@ -182,8 +192,6 @@ $$
 \mathbb{A}, \mathbb{B}, \mathbb{C}...
 ```
 
-
-
 ## Package management
 
 === "preamble"
@@ -198,7 +206,6 @@ $$
     \geometry{margin=1in}
     \usepackage{hyperref}
     ```
-
 
 
 ## Edit Tips
