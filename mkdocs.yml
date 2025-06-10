@@ -15,6 +15,14 @@ nav:
           - Fly: major/flybook/fly.md
           - Culture: major/flybook/culture.md
       - AI: major/AI/Agent.md
+      - programming:
+          - Python: major/programming/Python.md
+          - C: major/programming/C.md
+          - Foundation: major/programming/foundation.md
+          - LeetCode: major/programming/leetcode.md
+          - CheatSheet: major/programming/cheatsheet.md
+      - Paper Notes:
+          - Playing Atari with DQN: major/Paper/2013_Mnih.md
       - EE:
           - Power Electronics: major/EE/PE.md
           - Power System: major/EE/Power System.md
@@ -31,12 +39,7 @@ nav:
 
   - Interest:
       - interest/index.md
-      - programming:
-          - Python: interest/programming/Python.md
-          - C: interest/programming/C.md
-          - LeetCode: interest/programming/leetcode.md
-          - CheatSheet: interest/programming/cheatsheet.md
-      - finance: interest/finance/learn1.md
+      
       - career: interest/career/career.md
       - digital technology:
           - Hardware: interest/digital technology/hardware.md
@@ -46,6 +49,8 @@ nav:
       - Insights on life:
           - Insights on life: interest/LifeRoad/liferoad.md
           - You've got to find what you love: interest/LifeRoad/stevejobs.md
+      - Photography: interest/photography/z5.md
+      - finance: interest/finance/learn1.md
       - Vehicle: interest/Vehicle/Vehicle_infor.md
       - game: interest/game/pokemon.md
       - markdown grammar: interest/markdown/markdown.md
@@ -182,11 +187,12 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+  - pymdownx.blocks.caption  # 给图片添加caption
+
 
 extra_css:
 #   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
   - mkdocs/css/extra.css
-  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css    # 从https://github.com/LLMQuant/quant-wiki/tree/master拿来的
   - stylesheets/extra.css
 
 extra_javascript:

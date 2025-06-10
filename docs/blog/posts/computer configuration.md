@@ -1,13 +1,13 @@
 ---
 title: computer configuration
-date: 2024-12-17
+date: 
+  created: 2024-12-17
+  updated: 2025-04-21
 authors: [Pengyu-Jin]
 slug: computer configuration
 categories:
   - Life
 ---
-
-**computer configuration**
 
 当你有一台新的电脑时，往往需要重新配置电脑环境，以便让自己更熟悉，有些必要的工具、软件等已经离不开我们的个人生活，但再去寻找相关网站等资源很耗费时间。因此只需参考此篇博客就可以事半功倍。
 
@@ -32,7 +32,10 @@ categories:
 
 **mathematica**: 数学软件，可以用来做一些数学计算。[Mathematica 激活指南](https://tiebamma.github.io/InstallTutorial/){:target="_blank"}
 
-[^1]:百度网盘/我的资源/Axmath
+
+
+
+[^1]:github/MyResources/Axmath.zip。版本V2.5
 
 [^2]:RuTracker.org
 
@@ -44,9 +47,26 @@ categories:
 
 Some private tracker websites don't allowed the enhanced version, you can use the normal version instead: [qibittorrent official website](https://www.qbittorrent.org/){:target="_blank"}
 
-**clash**: proxy software[Clash Verge](https://www.clashverge.dev/)
+**clash**: proxy software [Clash Verge](https://www.clashverge.dev/)
+
+!!! tip
+
+    Windows UWP application (such as the Microsoft Store) can't use a proxy. Refer to the FAQ in the link above.
+
+**Sublime Text**: lightweight text editor。 [Sublime Text主页](https://www.sublimetext.com/){:target="_blank"}
+
+!!! tip
+
+    some good **resources**
+
+    [ST-collections](https://github.com/Hazuki-san/ST-collections?tab=readme-ov-file){:target="_blank"}
+
+    [An amazing Gist post about sublime text](https://gist.github.com/JerryLokjianming/71dac05f27f8c96ad1c8941b88030451){:target="_blank"}
+
 
 ## 配置问题
 
 装的acrobat在显示缩略图上出现问题，即桌面上的pdf文件有的显示缩略图，有的没有显示。解决办法是安装SumatraPDF，安装的时候在选项里面勾选在windows资源管理器显示pdf预览，然后acrobat就可以显示预览了。
+
+<!-- Todo  -->
 

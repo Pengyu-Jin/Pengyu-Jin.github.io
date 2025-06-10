@@ -2,13 +2,12 @@
 title: efficient skills
 date:
   created: 2025-01-01
-  updated: 2025-04-05
+  updated: 2025-05-15
 authors: [Pengyu-Jin]
 slug: efficient skills
 categories:
   - Research
 ---
-**Tool**
 
 方便日常科研工作的快捷键小技巧
 
@@ -31,15 +30,6 @@ categories:
 | ++win+ctrl++ + 左右|切换任务视图桌面 |
 | ++win+ctrl+D++ |新建任务视图桌面 |
 
-==for vscode==
-
-| shortcut key | function |
-| ----------- | --------- |
-| ++ctrl+tilde++ | 打开终端  |
-| ++ctrl+tab+tilde++ | 新建终端  |
-| ++ctrl+slash++| 选中批量注释or取消注释  |
-| ++shift+tab++ | 批量取消tab缩进  |
-| ++ctrl+shift+n++ | 创建新窗口  |
 
 ==for word==
 
@@ -48,7 +38,6 @@ categories:
 | ++ctrl+shift+Q++ | 行内axmath、mathtype |
 | ++alt+Q++| 行间axmath、mathtype, 关闭mathtype界面 |
 | ++ctrl+A++ , 全选后按++F9++| 全文更新域 |
-| mathtype中++ctrl+k++ + 1/2/3/4| 插入1/2/3/4类宽度空格 |
 
 ==for excel==
 
