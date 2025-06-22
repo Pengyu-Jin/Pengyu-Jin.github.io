@@ -2,7 +2,7 @@
 title: LaTeX learning
 date: 
   created: 2024-12-26
-  updated: 2025-06-02
+  updated: 2025-06-22
 authors: [Pengyu-Jin]
 slug: LaTeX
 categories:
@@ -48,9 +48,20 @@ Windows: VSCode + sumtraPDF
 
 ## Roadmap
 
-\(\LaTeX{}\)的学习从阅读overleaf的完整教程开始
+Learning \(\LaTeX\) begins from reading [Overleaf's comprehensive documents](https://www.overleaf.com/learn){:target="_blank"}.
 
 YouTuber creation： [LaTeX Cheat Sheet](https://www.newthinktank.com/2019/01/latex-tutorial/){:target="_blank"}
+
+[The TeXbook -- Donald E. Knuth](https://www-cs-faculty.stanford.edu/%7Eknuth/abcde.html){:target="_blank"}. Some people have said that it's a little hard to get through this book, but when I tried reading it, I found it much eaiser to appreciate than any other documents or books I've read. Because he tell the low-level mechanisms in simple terms which makes me feel comfortable.
+
+## Tricks
+In terminal, like :material-powershell:
+
+`texdoc symbols` command pops up *The Comprehensive $\LaTeX$ Symbol List* document.
+
+`texdoc latexcheat` command pops up a two-pages cheatsheet.
+
+
 
 ## LaTeX syntax tips 
 
@@ -225,3 +236,8 @@ LaTeX中常见的空格命令
 | `\hspace{长度}`| 自定义空格         | 任意指定      | 精确控制间距（如`\hspace{5pt}`）|
 
 [^1]: An em (from em quadrat) is a unit in the field of typography, equal to the currently specified point size. It corresponds to the body height of the typeface. For example, one em in a 16-point typeface is 16 points. Therefore, this unit is the same for all typefaces at a given point size.
+
+
+## Caution
+
+The $\LaTeX$ engine converts multiple consecutive line breaks into `\par`. Empty lines are used for writing convenience, but the effect is equivalent.
