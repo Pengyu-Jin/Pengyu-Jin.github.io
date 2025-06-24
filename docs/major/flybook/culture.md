@@ -117,3 +117,12 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 
 [JetPunk](https://www.jetpunk.com/){:target="_blank"}
 
+## Abbreviation
+P.A. stands for Public Address (not "Public Audio"). A P.A. system is an audio amplification system used to broadcast sound to a large audience in public spaces, such as sports stadium, train station, school, concert, and shopping mall.
+
+
+## Music
+
+*Country Roads* is played over P.A. systems and sung along to all over the world in sports stadiums, as a theme song before and after games. The song is considered a symbol of West Virginia. In Marth 2014, it became one of the four official state anthems of West Virginia.[^1]
+
+[^1]: [From Wikipedia](https://en.wikipedia.org/wiki/Take_Me_Home,_Country_Roads){:target="_blannk"}

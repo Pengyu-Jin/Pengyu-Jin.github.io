@@ -240,4 +240,4 @@ LaTeX中常见的空格命令
 
 ## Caution
 
-The $\LaTeX$ engine converts multiple consecutive line breaks into `\par`. Empty lines are used for writing convenience, but the effect is equivalent.
+The $\LaTeX$ engine converts multiple consecutive line breaks into `\par`. An Empty line is used for writing convenience, but the effect is equivalent.
