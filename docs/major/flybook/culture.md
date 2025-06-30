@@ -39,6 +39,8 @@ O'er the land of the free and the home of the brave?
 
 实时查看时间：[TIME.IS](https://time.is/zh/){:target="_blank"}
 
+GMT (Greenwich Mean Time) 格林尼治平均时间，指英国伦敦时间。出于观测本身缺陷，目前已经被原子钟报时的协调世界时UTC所取代，但几乎还是指同一时区。
+
 UTC（Coordinated Universal Time，协调世界时）是全球时间标准，所有的时区时间都是基于它来定义的。UTC时间不受任何地区的地理或政治因素影响，是一种不随季节变化的时间标准。
 
 UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT）尽可能地保持一致。UTC是国际上通用的时间标准，常用于航空、航天、通信和网络同步等领域。
@@ -51,6 +53,16 @@ UTC基于原子钟的精确计时，与地球的旋转时间（即世界时，UT
 !!! abstract
 
     北美东部时区的标准时间通常适用于秋冬季节。为更好地利用日照时间，春夏时节会采用夏令时（Daylight Saving Time, DST  or  Eastern Daylight Time, EDT），时间会调早一小时，变为UTC-4。
+
+| 区域                 | 时区名称             | 常规缩写          | UTC 偏移            |
+| ------------------ | ---------------- | ------------- | ----------------- |
+| 东部时间（East Coast）   | Eastern Time     | EST / EDT     | UTC−5 / UTC−4     |
+| 中部时间               | Central Time     | CST / CDT     | UTC−6 / UTC−5     |
+| 山地时间               | Mountain Time    | MST / MDT     | UTC−7 / UTC−6     |
+| 太平洋时间 （加州所在） | Pacific Time | PST / PDT | UTC−8 / UTC−7 |
+
+
+More Info: [Generalized Time Zone in US](https://www.timeanddate.com/time/zone/usa#:~:text=Generalized%20Time%20Zones%20in%20United%20States){:target="_blank"}
 
 ## Systems of Measurement ⚖️
 
