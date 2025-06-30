@@ -74,7 +74,9 @@ categories:
 
 ### 华东分部
 
-**2024自然年：**
+**2024自然年（第一届网调专项）：**
+
+[国家电网有限公司2025年招聘高校毕业生公告 -- 发布时间2024-10-24](https://zhaopin.sgcc.com.cn/sgcchr/static/unitPart.html?bullet_id=912d9ff96d2b4d5d9a8ed38d898f57d7&particulars=flase){:target="_blank"}
 
 [国家电网有限公司华东分部2025年高校毕业生招聘公告(国网调专项) -- 发布时间2024-10-24](https://zhaopin.sgcc.com.cn/sgcchr/static/unitPart.html?bullet_id=f185d2781d514a1f862af1f9b1515e0a&particulars=true){:target="_blank"}
 
@@ -84,11 +86,17 @@ categories:
 - 招聘岗位：（调度控制中心）电力调控运行技术、\(\sim\)电网自动化技术
 
 
-!!! question
+!!! question "为什么没有对应的一批招聘公告和提前批招聘公告？"
 
-    2024年没有对应的一批招聘公告、提前批招聘公告。
+    提前批招聘没有公告，但是有些公众号会发布校园招聘宣讲通知，例如[10月14日宣讲会 | 国家电网有限公司华东分部 -- 电院职场灯塔](https://mp.weixin.qq.com/s/RwvIJQx5AYXhAkvchE5Fyw){:target="_blank"}。
+    
+    区域调度在2025届毕业生招聘时，进行了政策改革，和一批考试分割开来，和国调一样进行专项考试，在一批考试之前。因此2024自然年没有一批招聘公告。
+
+    > 2025年公司统一组织实施四批次招聘，分别为国(网)调专项、第一批、第二批、第三批。各批次招聘单位范围根据各单位招聘需求确定，以各单位招聘公告为准。
 
 **2023自然年：**
+
+[国家电网有限公司2024年招聘高校毕业生公告 -- 发布时间2023-11-03](https://zhaopin.sgcc.com.cn/sgcchr/static/unitPart.html?bullet_id=1d05b1f3d7bd437a90a6e1d14ba626d1&particulars=flase){:target="_blank"}
 
 [国家电网有限公司华东分部2024年高校毕业生招聘公告(第一批) -- 发布时间2023-11-03](https://zhaopin.sgcc.com.cn/sgcchr/static/unitPart.html?id=8ef08b08746a4a23a97fe7fb061a3e47&obj_id=10490562){:target="_blank"}
 
