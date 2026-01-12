@@ -1,12 +1,29 @@
+## 学习流程
+
+[日语50音起步入门班教程《超好笑我是日语学习书》](https://space.bilibili.com/65988295/lists/707800?type=series){:target="_blank"}
+
+[新日本语教程初级1](https://space.bilibili.com/65988295/lists/707806?type=series){:target="_blank"}
+
+[新日本语教程初级2](https://space.bilibili.com/65988295/lists/707805?type=series){:target="_blank"}
+
+[一节课讲完日语动词12种变形](https://www.bilibili.com/video/BV1Np411f79T/?spm_id_from=333.1387.0.0&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
+
+[新日本语教程中级1](https://space.bilibili.com/65988295/lists/707804?type=series){:target="_blank"}
+
+[日语N3考前对策](https://space.bilibili.com/65988295/lists/707802?type=series){:target="_blank"}
+
+[蓝宝书及其他教程](https://space.bilibili.com/65988295/lists/707799?type=series){:target="_blank"}
 ## 日本文字的构成
 日本文字：汉字、假名、罗马字
 
 ### 日语汉字的发音方式
 音读：模仿中国古汉语的发音。
-例如：森林
+
 训读：日本的固有发音，借用中国汉字表意。
 
 ### 平假名和片假名
-あ
-平假名：平易简单、假借、文字。把假借而来的汉字平易简化，来自汉字草书，书写柔美圆润。
-片假名：片面不完整、假借、文字。只取假借汉字的一部分，多取自偏旁部首，来自汉字楷书，书写刚劲有力。
+平假名ひらがな：平易简单、假借、文字。把假借而来的汉字平易简化，来自汉字草书，书写柔美圆润。
+
+片假名かたかな：片面不完整、假借、文字。只取假借汉字的一部分，多取自偏旁部首，来自汉字楷书，书写刚劲有力。
+
+假名的演化: [Made myself a kana chart](https://www.reddit.com/r/LearnJapanese/comments/19bnii2/made_myself_a_kana_chart/?tl=zh-hans){:target="_blank"}、[Development of hiragana and katakana](https://en.wikipedia.org/wiki/Kana#/media/File%3AFlowRoot3824.svg){:target="_blank}

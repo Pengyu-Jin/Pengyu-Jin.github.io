@@ -40,12 +40,13 @@ nav:
   - Interest:
       - interest/index.md
       
-      - career: interest/career/career.md
-      - digital technology:
+      - Career: interest/career/career.md
+      - Digital Technology:
           - Hardware: interest/digital technology/hardware.md
           - Network: interest/digital technology/net.md
           - Image: interest/digital technology/image.md
           - PT: interest/digital technology/pt.md
+      - 日本語: interest/JP-learn/50yin.md    
       - Insights on life:
           - Insights on life: interest/LifeRoad/liferoad.md
           - You've got to find what you love: interest/LifeRoad/stevejobs.md
