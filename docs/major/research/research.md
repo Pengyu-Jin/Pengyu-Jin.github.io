@@ -5,19 +5,7 @@
 
 ## 每日整理:memo:
 
-PSET 2025-6-15deadline
-
-CS229
-
-
-
-
-
-
-
-
-
-
+人生轨迹依然发生变化。创建摄影网站。考虑各种各样的兼职出路。学好工程技术。
 
 ---
 
@@ -33,17 +21,9 @@ CS229
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
-2024年新出的nature子刊：[EE](https://www.nature.com/natrevelectreng/){:target="_blank"}
 
 ## 含金量
 论文含金量：SCI正刊＞SCI专刊＞EI期刊＞中文核心≥EI会议＞＞中文普刊≥英文普刊
-
-## Remember:hugging:
-!!! tip
-    Those who refuse to accept their destiny should seize every opportunity to make a difference in their lives.
-
-!!! success
-    任何一种方法都会存在缺点。能量是守恒的。that's why we can do anything.
 
 ## Mindset for Conducting Research
 科研心态对应的[知乎回答](https://www.zhihu.com/question/364269312/answer/3107942044){:target="_blank"}

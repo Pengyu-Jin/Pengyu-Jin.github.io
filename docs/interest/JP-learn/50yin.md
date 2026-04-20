@@ -27,3 +27,5 @@
 片假名かたかな：片面不完整、假借、文字。只取假借汉字的一部分，多取自偏旁部首，来自汉字楷书，书写刚劲有力。
 
 假名的演化: [Made myself a kana chart](https://www.reddit.com/r/LearnJapanese/comments/19bnii2/made_myself_a_kana_chart/?tl=zh-hans){:target="_blank"}、[Development of hiragana and katakana](https://en.wikipedia.org/wiki/Kana#/media/File%3AFlowRoot3824.svg){:target="_blank}
+
+
