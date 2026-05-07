@@ -2,22 +2,18 @@
 !!! quote
     Chance favors the prepared mind.
 
-
 ## 每日整理:memo:
 
 人生轨迹依然发生变化。创建摄影网站。考虑各种各样的兼职出路。学好工程技术。
+
+
+
 
 ---
 
 国际会议\期刊论文\雅思托福\github个人简历和学术网站
 
-跟[陈家豪](https://faculty.sist.shanghaitech.edu.cn/chenjh/){:target="_blank}老哥学电力电子和控制，还有科研的好习惯。
-
 做项目要学会讲故事，做研究要学习本质。
-
-主动学习，好好悟一悟[PhD科研](https://zhuanlan.zhihu.com/p/477439202){:target="_blank"}
-
-申phd：[power方向phd](https://www.zhihu.com/question/53550296){:target="_blank"}、[怎样写出优秀的Research Proposal](https://www.zhihu.com/question/23695058){:target="_blank}
 
 word中的格式排版问题：[xxx.dotm、宏、域等问题](https://shuiyuan.sjtu.edu.cn/t/topic/78768){:target="_blank"}
 
