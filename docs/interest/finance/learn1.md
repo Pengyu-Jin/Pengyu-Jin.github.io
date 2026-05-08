@@ -36,6 +36,29 @@ BIN: Bank Identification Number
 
 CVV: Card Verification Value
 
+3DS：3-Domain Secure
+
+!!! info "评价卡的几个标准"
+
+    BIN
+
+    冻结比例：美元100%，非美元102%。Authorization Hold
+
+    网付：完整支持
+
+    货币转换费FTF = Foreign Transaction Fee
+
+    3DS
+
+    自动购汇：无
+
+    Apple Pay：支持
+
+    年费：无
+
+    小额账户管理费：无
+
+
 ## 报销
 报销凭证主要是发票。
 
