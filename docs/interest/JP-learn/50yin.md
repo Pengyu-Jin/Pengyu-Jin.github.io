@@ -33,3 +33,38 @@
 假名的演化: [Made myself a kana chart](https://www.reddit.com/r/LearnJapanese/comments/19bnii2/made_myself_a_kana_chart/?tl=zh-hans){:target="_blank"}、[Development of hiragana and katakana](https://en.wikipedia.org/wiki/Kana#/media/File%3AFlowRoot3824.svg){:target="_blank}
 
 
+## 笔记
+名词
+
+<table>
+  <tr>
+    <td>...は+\(N\)+です</td>
+    <td>...は+\(N\)では/じゃ+ありません/ないです</td>
+  </tr>
+  <tr>
+    <td>...は+\(N\)+でした</td>
+    <td>...は+\(N\)+では+ありませんでした<br>...は+\(N\)+なかったです<br>...は+\(N\)+なかった</td>
+  </tr>
+</table>
+
+连体型：\(N\)+の+\(N\)
+
+形容词1型
+
+<table>
+  <tr>
+    <td>...は+\(A_{1}\)い+です</td>
+    <td>...は+\(A_{1}\)く+ありません<br>...は+\(A_{1}\)く+ないです</td>
+  </tr>
+  <tr>
+    <td>...は+\(A_{1}\)かった+です</td>
+    <td>...は+\(A_{1}\)く+ありませんでした<br>...は+\(A_{1}\)く+なかったです</td>
+  </tr>
+</table>
+
+1. 连体型：\(A_{1}\)い+体言
+2. て型：\(A_{1}\)く+て+...
+3. 名词化：
+   - \(A_{1}\)い+さ/み/け 
+   - \(A_{1}\)
+
