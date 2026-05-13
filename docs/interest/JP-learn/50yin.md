@@ -32,7 +32,6 @@
 
 假名的演化: [Made myself a kana chart](https://www.reddit.com/r/LearnJapanese/comments/19bnii2/made_myself_a_kana_chart/?tl=zh-hans){:target="_blank"}、[Development of hiragana and katakana](https://en.wikipedia.org/wiki/Kana#/media/File%3AFlowRoot3824.svg){:target="_blank}
 
-
 ## 笔记
 名词
 
@@ -87,3 +86,20 @@
 3. 名词化：
     -  \(A_{2}\)+さ 
     -  \(A_{2}\)
+
+
+## 格助词
+
+### に
+
+1. 表示具体时间点的助词。
+    - ７時に　起きる。
+2. 表达见某人的意思。若强调事先与对方约定则用と。
+    -  ３時に　友達に　会いました。
+    -  土曜日には　彼氏と　会いました。
+3. 接在表示场所的词后，表示人或事物存在的场所。
+    - ねこが　机の上に　います。
+    - 今　デパートに　います。
+4. 表示动作的目的。
+    - 買い物に　行きます。
+    - 勉強に　行きます。
