@@ -39,7 +39,7 @@
 
 <ruby>明日<rt>あす</rt></ruby>を<ruby>変<rt>か</rt></ruby>えるなら<ruby>今日<rt>きょう</rt></ruby>を<ruby>変<rt>か</rt></ruby>えなきゃ<br>
 
-<ruby>分<rt>わ</rt></ruby>かってる　分かってる　けれど
+<ruby>分<rt>わ</rt></ruby>かってる　<ruby>分<rt>わ</rt></ruby>かってる　けれど
 
 <hr>
 
@@ -126,6 +126,6 @@
 
 あなたのような<ruby>人<rt>ひと</rt></ruby>が<ruby>生<rt>い</rt></ruby>きてる
 
-<ruby>世界<rt>せかい</rt></ruby>に<ruby>少し<rt>すこし</rt></ruby><ruby>期待<rt>きた</rt></ruby>するよ
+<ruby>世界<rt>せかい</rt></ruby>に<ruby>少し<rt>すこし</rt></ruby><ruby>期待<rt>きたい</rt></ruby>するよ
 
 </div>
