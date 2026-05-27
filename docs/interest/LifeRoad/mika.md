@@ -126,6 +126,6 @@
 
 あなたのような<ruby>人<rt>ひと</rt></ruby>が<ruby>生<rt>い</rt></ruby>きてる
 
-<ruby>世界<rt>せかい</rt></ruby>に<ruby>少し<rt>すこし</rt></ruby><ruby>期待<rt>きたい</rt></ruby>するよ
+<ruby>世界<rt>せかい</rt></ruby>に<ruby>少し<rt>すこし</rt></ruby><ruby>期<rt>き</rt></ruby><ruby>待<rt>たい</rt></ruby>するよ
 
 </div>
