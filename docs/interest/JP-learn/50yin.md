@@ -8,6 +8,10 @@
 
 [新日本语教程初级1](https://space.bilibili.com/65988295/lists/707806?type=series){:target="_blank"}
 
+<object data="../pdf_collection/新日本语教程初级1.pdf" type="application/pdf" width="100%" height="800">
+    <embed src="../pdf_collection/新日本语教程初级1.pdf" />
+</object>
+
 [新日本语教程初级2](https://space.bilibili.com/65988295/lists/707805?type=series){:target="_blank"}
 
 [一节课讲完日语动词12种变形](https://www.bilibili.com/video/BV1Np411f79T/?spm_id_from=333.1387.0.0&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
@@ -148,5 +152,5 @@
 
 汉语中一部分[tu][du]的音，日语中读做 と/ど
 
-図书馆（としょかん）生徒（せいと）一度（いちど）
+図书馆（としょかん）生徒（せいと）一度（いちど）京都（きょうと）
 
