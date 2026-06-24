@@ -2,15 +2,8 @@
 
 [日语50音起步入门班教程《超好笑我是日语学习书》](https://space.bilibili.com/65988295/lists/707800?type=series){:target="_blank"}
 
-<object data="../pdf_collection/超好笑!我是日语学习书-(韩)朴智炫.pdf" type="application/pdf" width="100%" height="800">
-    <embed src="../pdf_collection/超好笑!我是日语学习书-(韩)朴智炫.pdf" />
-</object>
-
 [新日本语教程初级1](https://space.bilibili.com/65988295/lists/707806?type=series){:target="_blank"}
 
-<object data="../pdf_collection/新日本语教程初级1.pdf" type="application/pdf" width="100%" height="800">
-    <embed src="../pdf_collection/新日本语教程初级1.pdf" />
-</object>
 
 [新日本语教程初级2](https://space.bilibili.com/65988295/lists/707805?type=series){:target="_blank"}
 
@@ -166,4 +159,4 @@
 
 ️️✒️何 后面接 た　だ　な行的假名 or 数 时，99%的概率会变读作 なん
 
-何ですか
+何（なん）ですか
