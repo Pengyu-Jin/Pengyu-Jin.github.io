@@ -30,6 +30,11 @@
 假名的演化: [Made myself a kana chart](https://www.reddit.com/r/LearnJapanese/comments/19bnii2/made_myself_a_kana_chart/?tl=zh-hans){:target="_blank"}、[Development of hiragana and katakana](https://en.wikipedia.org/wiki/Kana#/media/File%3AFlowRoot3824.svg){:target="_blank}
 
 ## 笔记
+
+!!! info
+
+    体言：Noun、Numeric、Pronoun
+
 名词
 
 <table>
@@ -45,7 +50,7 @@
 
 连体型：\(N\)+の+\(N\)
 
-形容词1型(\(A_1\)い)
+形容词1型(\(A_1\)い)。\(A_1\)表示词干，「い」表示词尾。
 
 <table>
   <tr>
@@ -61,11 +66,11 @@
 1. 连体型：\(A_{1}\)い+体言
 2. て型：\(A_{1}\)く+て+...
 3. 名词化：
-    -  \(A_{1}\)い+さ/み/け 
+    -  \(A_{1}\)+さ/み/け 。例えば：高い　高さ
     -  \(A_{1}\)
 
 
-形容词2型(\(A_2\)だ)
+形容词2型(\(A_2\)だ)。\(A_2\)表示词干，「だ」表示名存实亡的词尾。
 
 <table>
   <tr>
