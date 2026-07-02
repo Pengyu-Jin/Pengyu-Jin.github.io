@@ -1,4 +1,8 @@
 
+## 
+
+
+
 ## 集英社（しゅうえいしゃ）
 
 《<ruby>週<rt>しゅう</rt></ruby><ruby>刊<rt>かん</rt></ruby><ruby>少<rt>しょう</rt></ruby><ruby>年<rt>ねん</rt></ruby>ジャンプ》 (Weekly Shonen Jump)
