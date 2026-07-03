@@ -7,6 +7,58 @@
 
 :   a payment you make when you buy something that is only part of the full price, with the rest to be paid later 〔分期付款购物的〕首付款，首期付款，头款，订金
 
+
+## 银行
+ATM：Automated Teller Machine
+
+VTM：Virtual Teller Machine
+
+!!! success
+
+    中央银行：中国人民银行
+
+    政策性银行：国家开发银行、中国进出口银行、中国农业发展银行
+
+    国有商业银行：中国工商银行(ICBC)、中国农业银行、中国银行(BOC)、中国建设银行、交通银行、中国邮政储蓄银行
+
+    股份制商业银行：招商银行、浦发银行、中信银行、中国光大银行、华夏银行、中国民生银行、广发银行、兴业银行、平安银行、浙商银行、恒丰银行、渤海银行
+
+    地方性商业银行：城市商业银行、农村信用合作社、城市信用合作社
+
+    外资银行：汇丰银行(HSBC)、中国银行(BOC HK)
+
+
+万事网联公司是万事达公司与网联清算有限公司在中国大陆共同发起设立的合资公司。
+
+MCC: Merchant Category Code
+
+BIN: Bank Identification Number
+
+CVV: Card Verification Value
+
+3DS：3-Domain Secure
+
+!!! info "评价卡的几个标准"
+
+    BIN
+
+    冻结比例：美元100%，非美元102%。Authorization Hold
+
+    网付：完整支持
+
+    货币转换费FTF = Foreign Transaction Fee
+
+    3DS
+
+    自动购汇：无
+
+    Apple Pay：支持
+
+    年费：无
+
+    小额账户管理费：无
+
+
 ## 报销
 报销凭证主要是发票。
 
@@ -87,4 +139,5 @@
 $$
 租售比=\frac{\text{年租金总额}}{\text{房屋购买价格}}\times 100\%
 $$
+
 

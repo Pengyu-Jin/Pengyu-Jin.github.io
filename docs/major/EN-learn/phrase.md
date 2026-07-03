@@ -140,6 +140,11 @@ That's very nice of you. Please let me give you a 100% off drink coupon. Your ne
 
 🖊️My video went viral last night, I'm gonna be an internet celebrity.
 
+**get to** [_auxiliary verb_] to have an opportunity to do something. Refer to [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/get-to){:target="_blank"}
+
+🖊️You won't believe this, we even got to go backstage and meet Drake!
+
+
 ## suffix 🐾
 
 !!! warning "Definition"

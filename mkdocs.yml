@@ -40,15 +40,21 @@ nav:
   - Interest:
       - interest/index.md
       
-      - career: interest/career/career.md
-      - digital technology:
+      - Career: interest/career/career.md
+      - Digital Technology:
           - Hardware: interest/digital technology/hardware.md
           - Network: interest/digital technology/net.md
           - Image: interest/digital technology/image.md
           - PT: interest/digital technology/pt.md
+      - 日本語: 
+          - にほんご: interest/JP-learn/50yin.md    
+          - ぶんか: interest/JP-learn/culture.md
       - Insights on life:
           - Insights on life: interest/LifeRoad/liferoad.md
           - You've got to find what you love: interest/LifeRoad/stevejobs.md
+          - Shawshank: interest/LifeRoad/shawshank.md
+          - The secret to Nintendo's success: interest/LifeRoad/nintendo.md
+          - 僕が死のうと思ったのは: interest/LifeRoad/mika.md
       - Photography: interest/photography/z5.md
       - finance: interest/finance/learn1.md
       - Vehicle: interest/Vehicle/Vehicle_infor.md

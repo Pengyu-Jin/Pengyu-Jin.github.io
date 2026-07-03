@@ -20,13 +20,12 @@ Vim enthusiasts are always looking for convenience, and I'm no exception.
 | ++shift+tab++ | 批量取消tab缩进  |
 | ++ctrl+shift+n++ | create new window|
 | ++alt+b++   | open/close the sidebar|
-| ++ctrl+h++  | move the cursor to explorer in the vim `normal mode`|
-| ++ctrl+l++  | reverse operation|
 | ++ctrl+tab++ | switch tabs |
 
 
 
 ## some notes
+
 open the `Keyboard Shortcuts`
 
 search `selectPrevSuggestion`, set it to ++ctrl+k++
