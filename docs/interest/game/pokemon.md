@@ -23,7 +23,10 @@ Sword, Shield
 Scarlet, Violet
 
 
-##
+## Pokémon Manga
+
+[Pokémon Adventure v01-v22](http://www.bookgn.com/19805-pokmon-adventures-v01-v22-2009-2014.html){:target="_blank"}
+
 
 ## Pokémon Battle
 
