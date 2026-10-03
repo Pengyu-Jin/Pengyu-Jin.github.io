@@ -13,7 +13,15 @@
 | Microsoft 微软     | USA                | Surface                              |
 | MSI 微星           | Taiwan| /|
 
-## 显卡(GPU, Graphics Processing Unit) 硬件
+## CPU
+
+## 主板
+
+## 散热器
+
+## 内存
+
+## 显卡(GPU, Graphics Processing Unit) 
 
 核显（集成显卡）特点：
 
@@ -38,3 +46,18 @@
 
 - **NVIDIA**：如 **GeForce RTX 30** 系列、**Quadro** 系列、**Tesla** 系列。
 - **AMD**：如 **Radeon RX** 系列、**Radeon Pro** 系列。  
+
+
+## 电源
+
+## 硬盘
+
+## 机箱
+
+## 显示器
+
+## 键鼠
+
+AULA-F87pro
+
+Logitech-M720
