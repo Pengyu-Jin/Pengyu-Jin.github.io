@@ -21,7 +21,7 @@
 
 ## 内存
 
-## 显卡(GPU, Graphics Processing Unit) 
+## 显卡
 
 核显（集成显卡）特点：
 
@@ -30,11 +30,6 @@
 - **功耗较低**：由于不需要额外的硬件，功耗较低，适合轻便笔记本等设备。
 - **不支持高负载图形任务**：例如深度学习、3D 游戏等。
 
-常见厂商：
-
-- **Intel**：如 **Intel HD Graphics**、**Intel Iris Xe Graphics**。
-- **AMD**：如 **AMD Radeon Vega** 核显。
-
 独显（独立显卡）特点：
 
 - **独立显存**：拥有专用显存（VRAM），不占用系统内存。
@@ -42,10 +37,12 @@
 - **功耗较高**：由于具备独立硬件和强大的计算能力，功耗较高，需更强的散热。
 - **支持多个显示器**：可以连接多个显示器，支持更高的分辨率。
 
-常见厂商：
 
-- **NVIDIA**：如 **GeForce RTX 30** 系列、**Quadro** 系列、**Tesla** 系列。
-- **AMD**：如 **Radeon RX** 系列、**Radeon Pro** 系列。  
+GPU厂商：intel、AMD和NVIDIA
+
+AIC厂商-N卡：Asus、msi、colorful、影驰、zotac、INNO3D、耕升、铭瑄、yeston
+
+
 
 
 ## 电源
