@@ -42,7 +42,7 @@ GPU厂商：intel、AMD和NVIDIA
 
 AIC厂商-N卡：Asus、msi、colorful、影驰、zotac、INNO3D、耕升、铭瑄、yeston
 
-
+显卡参数：显存容量、显存类型与代际、显存位宽、显存带宽、流处理器数量、核心频率、功耗。
 
 
 ## 电源

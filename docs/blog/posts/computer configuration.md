@@ -26,6 +26,8 @@ categories:
 
 **Adobe Acrobat[^3]**：Adobe PDF阅读器，参考bilibili的[up主-云渲视觉](https://www.bilibili.com/video/BV1nB4y1o7Py/?spm_id_from=333.337.search-card.all.click&vd_source=a69c9948d8c31b427ccd421455913cab){:target="_blank"}
 
+
+
 **SimpleTex**：公式识别，生成对应的LaTex代码。[SimpleTex主页](https://simpletex.cn/){:target="_blank"}
 
 **PicGo**：上传图片到图床的软件，获取对应的URL。[PicGo主页](https://picgo.github.io/PicGo-Doc/){:target="_blank"}
@@ -47,21 +49,16 @@ categories:
 
 Some private tracker websites don't allowed the enhanced version, you can use the normal version instead: [qibittorrent official website](https://www.qbittorrent.org/){:target="_blank"}
 
-**clash**: proxy software [Clash Verge](https://www.clashverge.dev/)
+**clash**: proxy software [Clash Verge](https://www.clashverge.dev/){:target="_blank"}
 
 !!! tip
 
     Windows UWP application (such as the Microsoft Store) can't use a proxy. Refer to the FAQ in the link above.
 
-**Sublime Text**: lightweight text editor。 [Sublime Text主页](https://www.sublimetext.com/){:target="_blank"}
+**V2rayN**: proxy software [v2rayN](https://github.com/2dust/v2rayN){:target="_blank"}
 
-!!! tip
+**Readest**: Readest is a modern, open-source ebook reader for Windows, macOS, Linux, iOS, Android, and the web.
 
-    some good **resources**
-
-    [ST-collections](https://github.com/Hazuki-san/ST-collections?tab=readme-ov-file){:target="_blank"}
-
-    [An amazing Gist post about sublime text](https://gist.github.com/JerryLokjianming/71dac05f27f8c96ad1c8941b88030451){:target="_blank"}
 
 
 ## 配置问题
